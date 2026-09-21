@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="PDR ÖABT çıkmış sorularını yıl yıl çözün ve sınav sonunda sonuçlarınızı görün.">
+  <title>PDR ÖABT Soru Arşivi</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <section class="welcome" id="welcomeView">
+    <div class="welcome-nav">
+      <a class="brand" href="#"><span class="brand-glyph">P</span><span><b>PDR ÖABT</b><small>Soru Arşivi</small></span></a>
+      <span class="verified-badge"><i></i> ÖSYM anahtarıyla doğrulandı</span>
+    </div>
+    <div class="welcome-grid">
+      <div class="welcome-copy">
+        <span class="overline">Çıkmış sorular · 2014</span>
+        <h1>Bilgini gerçek sınav sorularıyla ölç.</h1>
+        <p>50 soruyu sınav düzeninde çöz. Yanıtların sınav boyunca gizli kalır; sonuç ekranında optik formun, puanın ve çözümlerin birlikte açılır.</p>
+        <div class="welcome-actions"><button class="button primary large" id="startExam" type="button">Sınava başla <span>→</span></button><button class="button text" id="resumeExam" type="button" hidden>Kaldığım yerden devam et</button></div>
+        <div class="exam-facts"><div><strong>50</strong><span>Soru</span></div><div><strong>75</strong><span>Dakika</span></div><div><strong>5</strong><span>Seçenek</span></div></div>
+      </div>
+      <div class="year-panel">
+        <div class="panel-head"><span>Yıl seçimi</span><small>1 sınav hazır</small></div>
+        <button class="year-card active" type="button"><span class="year-monogram">14</span><span class="year-info"><b>2014 PDR ÖABT</b><small>50 özgün soru ve ayrıntılı çözüm</small></span><span class="year-state">Hazır</span></button>
+        <div class="coming-years"><span>2015</span><span>2016</span><span>2017</span><span>2018</span><span>2019</span><span>2020</span></div>
+        <p>Diğer yıllar doğrulama tamamlandıkça açılacak.</p>
+      </div>
+    </div>
+    <div class="welcome-foot"><span>PDR Kampüs</span><span>Odaklan · Çöz · Analiz et</span></div>
+  </section>
+
+  <div class="exam-app" id="examView" hidden>
+    <header class="exam-header">
+      <a class="brand compact" href="#" id="homeButton"><span class="brand-glyph">P</span><span><b>PDR ÖABT</b><small>2014 sınavı</small></span></a>
+      <div class="exam-progress-wrap"><div class="exam-progress-copy"><span id="progressLabel">Soru 1 / 50</span><b id="answeredLabel">0 yanıtlandı</b></div><div class="progress"><span id="progressBar"></span></div></div>
+      <div class="header-actions"><div class="timer"><span>◷</span><b id="timer">75:00</b></div><button class="icon-button" id="openOptic" type="button" aria-label="Optik formu aç">☷</button></div>
+    </header>
+    <main class="exam-main">
+      <section class="question-stage">
+        <div class="question-kicker"><span id="topic">Konu</span><button id="bookmark" type="button" aria-pressed="false">♡ Sonra bak</button></div>
+        <article class="question-card"><div class="question-index" id="questionNumber">01</div><h2 id="questionText">Soru yükleniyor…</h2><img class="question-visual" id="questionVisual" alt="Soruyla ilgili özgün tablo" hidden><div class="options" id="options" role="radiogroup" aria-label="Cevap seçenekleri"></div></article>
+        <div class="exam-controls"><button class="button secondary" id="prevButton" type="button">← Önceki</button><button class="button primary" id="nextButton" type="button">Sonraki soru →</button></div>
+      </section>
+      <aside class="optic" id="opticPanel">
+        <div class="optic-head"><div><span class="overline">Optik form</span><h3>2014</h3></div><button id="closeOptic" type="button">×</button></div>
+        <div class="optic-grid" id="questionGrid"></div><div class="optic-legend"><span><i class="answered"></i>Yanıtlandı</span><span><i class="flagged"></i>İşaretli</span></div>
+        <button class="button finish" id="finishExam" type="button">Sınavı bitir <small id="finishHint">50 soru kaldı</small></button>
+      </aside>
+    </main>
+  </div>
+
+  <section class="results" id="resultsView" hidden>
+    <header class="results-header"><a class="brand compact" href="#"><span class="brand-glyph">P</span><span><b>PDR ÖABT</b><small>Sonuç raporu</small></span></a><button class="button secondary" id="restartExam" type="button">Sınavı yeniden çöz</button></header>
+    <main class="results-main">
+      <section class="score-card">
+        <div class="score-copy"><span class="overline">2014 PDR ÖABT sonucu</span><h1 id="scoreTitle">Sınav tamamlandı</h1><p>Optik formdan doğru ve yanlışlarını inceleyebilir, istediğin sorunun çözümünü açabilirsin.</p></div>
+        <div class="score-ring"><strong id="scorePercent">0</strong><span>başarı</span></div>
+        <div class="score-stat correct"><span>Doğru</span><strong id="correctCount">0</strong></div><div class="score-stat wrong"><span>Yanlış</span><strong id="wrongCount">0</strong></div><div class="score-stat blank"><span>Boş</span><strong id="blankCount">0</strong></div>
+      </section>
+      <section class="result-content">
+        <div class="result-optic-card"><div class="section-head"><div><span class="overline">Cevap dökümü</span><h2>Optik form</h2></div><div class="result-legend"><span><i class="correct"></i>Doğru</span><span><i class="wrong"></i>Yanlış</span></div></div><div class="result-grid" id="resultGrid"></div></div>
+        <article class="review-card" id="reviewCard"><div class="review-empty" id="reviewEmpty"><span>↖</span><h3>Bir soru seç</h3><p>Optik formdaki bir numaraya tıklayarak soruyu ve çözümünü incele.</p></div><div id="reviewContent" hidden><div class="review-meta"><span id="reviewTopic"></span><b id="reviewNumber"></b></div><h3 id="reviewQuestion"></h3><div class="answer-comparison" id="answerComparison"></div><div class="review-tabs"><button class="active" data-review-tab="explanation">Çözüm</button><button data-review-tab="distractorAnalysis">Çeldiriciler</button><button data-review-tab="historicalNote">Sınav notu</button></div><p id="reviewText"></p></div></article>
+      </section>
+    </main>
+  </section>
+
+  <div class="modal-backdrop" id="finishModal" hidden><div class="modal"><span class="modal-icon">✓</span><h2>Sınavı bitirmek istiyor musun?</h2><p>Cevaplarını gönderdikten sonra değiştiremezsin. Doğru ve yanlışların sonuç ekranında gösterilecek.</p><div><button class="button secondary" id="cancelFinish" type="button">Sınava dön</button><button class="button primary" id="confirmFinish" type="button">Sonuçları göster</button></div></div></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="app.js"></script>
+</body>
+</html>
