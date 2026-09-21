@@ -1,1 +1,36 @@
-IyBQRFIgw5ZBQlQgU29ydSBBcsWfaXZpCgpTdGF0aWsgSFRNTCwgQ1NTIHZlIEphdmFTY3JpcHQgaWxlIGhhesSxcmxhbm3EscWfIDIwMTQgUERSIMOWQUJUIHPEsW5hdiB1eWd1bGFtYXPEsS4gQcOnxLFsxLHFnyBla3JhbsSxLCBzw7xyZWxpIHPEsW5hdiBtb2R1LCB5ZXJlbCBpbGVybGVtZSBrYXlkxLEgdmUgc8SxbmF2IHNvbnUgcmVua2xpIG9wdGlrIGRlxJ9lcmxlbmRpcm1lIGnDp2VyaXIuCgojIyBEb3N5YWxhcgoKLSBgaW5kZXguaHRtbGA6IFV5Z3VsYW1hIGFyYXnDvHrDvAotIGBzdHlsZXMuY3NzYDogUmVzcG9uc2l2ZSB0YXNhcsSxbQotIGBhcHAuanNgOiBTb3J1IMOnw7Z6bWUsIGtvbnRyb2wsIGlsZXJsZW1lIHZlIHllcmVsIGthecSxdCBpxZ9sZXZsZXJpCi0gYGRhdGEvMjAxNC5qc29uYDogMjAxNCB5xLFsxLFuYSBhaXQgNTAgc29ydSB2ZSDDp8O2esO8bWxlcmkKLSBgYXNzZXRzLzIwMTQtc29ydS00OS5wbmdgOiA0OS4gc29ydW51biDDtnpnw7xuIHRhYmxvIGfDtnJzZWxpCgojIyBZZXJlbGRlIMOnYWzEscWfdMSxcm1hCgpUYXJhecSxY8SxbGFyxLFuIHllcmVsIEpTT04gZXJpxZ9pbSBrxLFzxLF0bGFtYXPEsSBuZWRlbml5bGUga2xhc8O2csO8IGvDvMOnw7xrIGJpciBIVFRQIHN1bnVjdXN1eWxhIGHDp8SxbjoKCmBgYGJhc2gKcHl0aG9uIC1tIGh0dHAuc2VydmVyIDgwMDAKYGBgCgpBcmTEsW5kYW4gYGh0dHA6Ly9sb2NhbGhvc3Q6ODAwMGAgYWRyZXNpbmkgeml5YXJldCBlZGluLgoKIyMgR2l0SHViIFBhZ2VzIGlsZSB5YXnEsW5sYW1hCgoxLiBCdSBwYWtldGluIGnDp2luZGVraWxlcmkgR2l0SHViIGRlcG9udXp1biBrw7ZrIGRpemluaW5lIHnDvGtsZXlpbi4KMi4gR2l0SHViIGRlcG9zdW5kYSAqKlNldHRpbmdzID4gUGFnZXMqKiBiw7Zsw7xtw7xuw7wgYcOnxLFuLgozLiAqKkRlcGxveSBmcm9tIGEgYnJhbmNoKiogc2XDp2VuZcSfaW5pIHNlw6dpbi4KNC4gYG1haW5gIGRhbMSxbsSxIHZlIGAvIChyb290KWAga2xhc8O2csO8bsO8IGJlbGlybGV5aXAga2F5ZGVkaW4uCgpEZXJsZW1lIHZleWEgc3VudWN1IHRhcmFmxLEga29kIGdlcmVrbWV6LgoKIyMgTm90CgoyMDE0IHnEsWzEsSA0OS4gc29ydW51biBjZXZhYsSxLCByZXNtaSDDllNZTSBjZXZhcCBhbmFodGFyxLFuYSBnw7ZyZSBgRGAgb2xhcmFrIGt1bGxhbsSxbG3EscWfdMSxci4K
+# PDR ÖABT Soru Arşivi
+
+Statik HTML, CSS ve JavaScript ile hazırlanmış 2014-2016 PDR ÖABT sınav uygulaması. Açılış ekranı, yıl seçimi, süreli sınav modu, her yıl için ayrı yerel ilerleme kaydı ve sınav sonu renkli optik değerlendirme içerir.
+
+## Dosyalar
+
+- `index.html`: Uygulama arayüzü
+- `styles.css`: Responsive tasarım
+- `app.js`: Soru çözme, kontrol, ilerleme ve yerel kayıt işlevleri
+- `data/2014.json`: 2014 yılına ait 50 soru ve çözümleri
+- `data/2015.json`: 2015 yılına ait 48 değerlendirilen soru ve çözümleri (21 ve 29 iptal)
+- `data/2016.json`: 2016 yılına ait 50 soru ve çözümleri
+- `assets/2014-soru-49.png`: 49. sorunun özgün tablo görseli
+
+## Yerelde çalıştırma
+
+Tarayıcıların yerel JSON erişim kısıtlaması nedeniyle klasörü küçük bir HTTP sunucusuyla açın:
+
+```bash
+python -m http.server 8000
+```
+
+Ardından `http://localhost:8000` adresini ziyaret edin.
+
+## GitHub Pages ile yayınlama
+
+1. Bu paketin içindekileri GitHub deponuzun kök dizinine yükleyin.
+2. GitHub deposunda **Settings > Pages** bölümünü açın.
+3. **Deploy from a branch** seçeneğini seçin.
+4. `main` dalını ve `/ (root)` klasörünü belirleyip kaydedin.
+
+Derleme veya sunucu tarafı kod gerekmez.
+
+## Not
+
+2014 yılı 49. sorunun cevabı, resmi ÖSYM cevap anahtarına göre `D` olarak kullanılmıştır.

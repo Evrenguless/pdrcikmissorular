@@ -1,0 +1,1660 @@
+{
+  "year": 2016,
+  "title": "2016 PDR ÖABT",
+  "questionCount": 50,
+  "durationMinutes": 75,
+  "cancelledQuestions": [],
+  "sourceStatus": "Orijinal kitapçık ve resmî cevap anahtarıyla doğrulandı",
+  "questions": [
+    {
+      "id": "2016-01",
+      "number": 1,
+      "topic": "Temel Psikoloji ve Gelişim",
+      "question": "Engellenme duygusuyla baş etmede bilinçsiz ve planlanmamış başa çıkma yolları kullanılabildiği gibi\nbilinçli ve planlanmış yollar da kullanılabilir.\nBuna göre aşağıdakilerden hangisi bilinçli başa çıkma yollarından biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hipnotik telkinden yararlanma"
+        },
+        {
+          "key": "B",
+          "text": "Atılganlık eğitimi programından yararlanma"
+        },
+        {
+          "key": "C",
+          "text": "Nefes tekniklerini kullanma"
+        },
+        {
+          "key": "D",
+          "text": "Ortamı ve kişisel özellikleri gözden geçirme"
+        },
+        {
+          "key": "E",
+          "text": "Karşıt tepki geliştirme"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Analiz: Soru kökü bizden \"bilinçli olmayan\" yani \"bilinçdışı/mekanik\" bir başa çıkma yolunu\n bulmamızı istiyor. Psikodinamik kurama (Freud) göre, Savunma Mekanizmaları (E\n şıkkındaki Karşıt Tepki Geliştirme gibi) bireyin kaygıdan kurtulmak için bilinçdışı olarak\n başvurduğu, gerçeği çarpıtan mekanizmalardır. Kişi bunları o an bilinçli bir plan dahilinde\n yapmaz. Dolayısıyla bu bir \"bilinçli başa çıkma\" yöntemi değil, bir savunma mekanizmasıdır.",
+      "distractorAnalysis": "A) Hipnotik telkinden yararlanma: Hipnozun kendisi bir trans hali olsa da, bir bireyin bu\n sürece dahil olmayı seçmesi ve profesyonel destek alması \"planlanmış\" ve \"bilinçli\" bir karar\n sürecidir.\n B) Atılganlık eğitimi: Bireyin sosyal becerilerini geliştirmek için bir programa katılması\n tamamen bilişsel ve iradi bir süreçtir.\n C) Nefes teknikleri: Kaygı anında bireyin kontrollü nefes alması, fizyolojik uyarılmışlığı\n bilinçli olarak düşürme çabasıdır.\n D) Ortamı ve kişisel özellikleri gözden geçirme: Bu, problem odaklı başa çıkma\n stratejisidir. Birey mantık yürüterek durumu analiz eder.\n \"Eğer soru nasıl sorulsaydı bu şık doğru cevap olurdu?\" Senaryosu (E için): \"Bireyin\n içindeki nefret duygusunu bastırıp tam tersi şekilde aşırı sevgi gösterisinde bulunması hangi\n savunma mekanizmasıdır?\" denilseydi cevap Karşıt Tepki Geliştirme olurdu.",
+      "historicalNote": "Atıf: Savunma mekanizmaları ÖSYM'nin \"vazgeçilmezidir\". 2014, 2018 ve 2022 yıllarında\n doğrudan mekanizma sorma yoluna gitmiştir.\n 2026 Notu: 2026'da savunma mekanizmaları yine gelecektir. Ancak artık sadece tanım\n değil, bu soruda olduğu gibi \"bilinçli-bilinçsiz\" ayrımı veya \"uyumsal olan-olmayan\" ayrımı\n üzerinden soru gelme ihtimali yüksektir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-02",
+      "number": 2,
+      "topic": "Temel Psikoloji ve Gelişim",
+      "question": "Bazı durumlarda grup içinde faaliyet gösteren bireyin, yalnız başına olduğu zamandan daha düşük\nperformans gösterdiği gözlenmektedir. Bunun nedeni bireyin, grup içinde çalışırken harcadığı\nçabanın gözden kaybolup gideceğini düşünmesine bağlı olarak davranışları için kendisini daha az\nsorumlu hissetmesi ve daha az çaba göstermesi olabilir.\nBu durum, aşağıdakilerden hangisiyle açıklanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sosyal etki"
+        },
+        {
+          "key": "B",
+          "text": "Doğru hızlandırma"
+        },
+        {
+          "key": "C",
+          "text": "Sınanma kaygısı"
+        },
+        {
+          "key": "D",
+          "text": "Sosyal kaytarma"
+        },
+        {
+          "key": "E",
+          "text": "Grup dinamizmi"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Analiz: Sosyal Psikoloji literatüründe (Latané ve ark.) bu durum Sosyal Kaytarma (Social\n Loafing) olarak adlandırılır. Anahtar kelimeler: \"Grup içinde daha düşük performans\",\n \"sorumluluğun yayılması\" ve \"çabanın fark edilmeyeceği düşüncesi\". Birey, kalabalık içinde\n emeğinin anonimleştiğini hissettiğinde tempoyu düşürür.",
+      "distractorAnalysis": "A) Sosyal etki: Çok geniş bir kavramdır. Bireyin davranışlarının başkalarının varlığından\n etkilenmesi sürecidir (Uyum, itaat vb. kapsar).\n B) Doğru hızlandırma: Literatürde \"Sosyal Kolaylaştırma\" (Social Facilitation) olarak\n bilinen kavramın zıttı gibi duran bir çeldiricidir. Sosyal kolaylaştırmada, başkalarının varlığı\n performansı artırır (basit işlerde).\n C) Sınanma kaygısı: Bireyin değerlendirileceği bir ortamda yaşadığı performans kaygısıdır;\n oysa sosyal kaytarmada \"değerlendirilmeme\" rahatlığı vardır.\n E) Grup dinamizmi: Grubun yapısı, rolleri ve üyeler arası etkileşimin bütünüdür.\n Senaryo (B için): \"Bir sporcunun antrenmanda tek başınayken yaptığı derecenin, seyirci\n önünde daha da iyileşmesi\" sorulsaydı cevap Sosyal Kolaylaştırma olurdu.",
+      "historicalNote": "Atıf: 2019 ve 2021 yıllarında Sosyal Psikoloji sorularında \"Sosyal Kolaylaştırma\" ve\n \"Sorumluluğun Yayılması\" (Bystander Effect) sorulmuştur.\n 2026 Notu: Sosyal kaytarma, grup rehberliği süreçlerinde \"homojenlik-heterojenlik\"\n tartışmalarıyla birleştirilerek sorulabilir. Unutma; görev karmaşıklaştıkça sosyal kaytarma\n azalır!",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-03",
+      "number": 3,
+      "topic": "Temel Psikoloji ve Gelişim",
+      "question": "Aşağıdakilerden hangisi limbik sistemin bölümlerinden biridir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Korpus kallosum"
+        },
+        {
+          "key": "B",
+          "text": "Amigdala"
+        },
+        {
+          "key": "C",
+          "text": "Serebellum"
+        },
+        {
+          "key": "D",
+          "text": "Prefrontal korteks"
+        },
+        {
+          "key": "E",
+          "text": "Pons"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Analiz: Limbik Sistem, beynin duygusal merkezidir. Temel yapıları: Hipokampüs (bellek),\n Amigdala (duygular, özellikle korku ve öfke), Talamus ve Hipotalamus'tur. Amigdala,\n duygusal tepkilerin kontrolünde doğrudan görev aldığı için limbik sistemin kalbi sayılır.",
+      "distractorAnalysis": "A) Korpus kallosum: İki beyin yarım küresini (sağ ve sol) birbirine bağlayan lif demetidir.\n C) Serebellum (Beyincik): Denge ve motor koordinasyondan sorumludur.\n D) Prefrontal korteks: Beynin \"CEO\"sudur. Mantıklı düşünme, karar verme ve planlamadan\n sorumludur (Limbik sistemi denetler).\n E) Pons: Arka beyinde yer alır, uyku ve uyanıklık döngüsü ile solunumda rol oynar.\n Senaryo (D için): \"Bireyin dürtülerini kontrol etmesini ve geleceğe yönelik stratejik planlar\n yapmasını sağlayan beyin bölgesi hangisidir?\" denseydi cevap Prefrontal Korteks olurdu.",
+      "historicalNote": "Atıf: Fizyolojik psikoloji kapsamında 2017'de Nörotransmitterler (Dopamin, Serotonin),\n 2020'de ise Beyin Lobları sorulmuştur.\n 2026 Notu: \"Hipokampüs\" ve \"HPA aksı\" (stres tepkisi) kavramlarına dikkat! Travma ve\n bellek ilişkisi üzerinden bir soru gelmesi kuvvetle muhtemeldir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-04",
+      "number": 4,
+      "topic": "Temel Psikoloji ve Gelişim",
+      "question": "Mehmet Öğretmen, derslerinde edinilen bilginin nerelerde kullanılabileceği ve yaşamda nasıl\nkolaylıklar sağlayabileceğiyle ilgili öğrencilerine bilgiler vermeye özen göstermektedir. Ayrıca\nkonunun farklı yönlerini açığa çıkarmaya yönelik ödevler vermekte ve tartışma konuları açmaktadır.\nÖğretmen, bu uygulamalarla öğrencileri için aşağıdakilerden hangisini hedeflemiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Uygun kodlama yapmalarını"
+        },
+        {
+          "key": "B",
+          "text": "Açık davranış kazanmalarını"
+        },
+        {
+          "key": "C",
+          "text": "Örgütleme yapmalarını"
+        },
+        {
+          "key": "D",
+          "text": "Aktarım yapmalarını"
+        },
+        {
+          "key": "E",
+          "text": "Ayrıntılandırmalarını"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Analiz: Öğrenme Psikolojisi'nde bir öğrenmenin başka bir alana veya günlük yaşama\n transfer edilmesine Aktarım (Transfer) denir. Sorudaki \"bilginin nerelerde\n kullanılabileceği\" ve \"yaşamda nasıl kolaylık sağlayacağı\" ifadeleri doğrudan öğrenilenin\n yeni durumlara uygulanmasını, yani aktarımı hedeflediğini gösterir.",
+      "distractorAnalysis": "A) Uygun kodlama: Bilginin uzun süreli belleğe yerleştirilme biçimidir.\n C) Örgütleme: Bilgileri gruplandırmak, şemalar oluşturmaktır (Örn: kavram haritası).\n E) Ayrıntılandırma (Elaboration): Yeni bilgi ile eski bilgi arasında bağ kurarak bilgiyi\n genişletmektir. (Öğretmen bunu da yapıyor gibi görünebilir ama temel amaç \"kullanım\"\n olduğu için öncelik aktarımdır).\n Senaryo (E için): \"Öğretmen, yeni öğrenilen konuyu öğrencilerin eski bilgileriyle\n ilişkilendirmesi için örnekler vermesini istiyor\" deseydi cevap Ayrıntılandırma olurdu.",
+      "historicalNote": "Atıf: 2015 ve 2021 yıllarında \"Bilgiyi İşleme Kuramı\" stratejileri (Yürütücü biliş vb.)\n sorulmuştur.\n 2026 Notu: Pozitif ve Negatif transfer (aktarım) arasındaki farklara odaklanın. Bir alandaki\n öğrenmenin diğerini zorlaştırması (İleriye ket vurma ile karıştırmadan) her zaman\n potansiyel sorudur.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-05",
+      "number": 5,
+      "topic": "Temel Psikoloji ve Gelişim",
+      "question": "Taha, öğretmeni sınıfa gelmeden önce tahtayı siler. Bunun üzerine öğretmeni Taha'ya teşekkür eder.\nSonrasında Taha, öğretmeni sınıfa gelmeden önce sınıfı havalandırır ve tahtaya dersin konusunu\nyazar.\nTaha'nın bu davranışları aşağıdakilerden hangisiyle açıklanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Uyarıcı genellemesi"
+        },
+        {
+          "key": "B",
+          "text": "Ayırt etme"
+        },
+        {
+          "key": "C",
+          "text": "Garcia etkisi"
+        },
+        {
+          "key": "D",
+          "text": "İkincil olumlu pekiştirme"
+        },
+        {
+          "key": "E",
+          "text": "Tepki genellemesi"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Analiz: Edimsel Koşullanma ilkelerinden Tepki Genellemesi, bir davranışın pekiştirilmesi\n sonucunda, o davranışa benzer farklı davranışların da (havalandırma, yazı yazma) ortaya\n çıkmasıdır.\n Süreç: Tahta silme (Tepki 1) -> Teşekkür (Pekiştireç) -> Havalandırma (Tepki 2),\n Konu yazma (Tepki 3).\n Tek bir pekiştireç, benzer amaca hizmet eden farklı tepkileri doğurmuştur.",
+      "distractorAnalysis": "A) Uyarıcı genellemesi: Bir tepkinin, pekiştirilen uyarıcıya benzer farklı uyarıcılara\n verilmesidir. (Örn: Sadece matematik öğretmenine değil, tüm öğretmenlere selam vermek).\n B) Ayırt etme: Sadece belirli bir uyarıcı karşısında tepki vermektir.\n C) Garcia etkisi (Olumsuz tat koşullanması): Bir yiyecekten sonra zehirlenip o yiyecekten\n ve kokusundan uzun süre tiksinmektir.\n D) İkincil olumlu pekiştirme: Teşekkür, aferin, para gibi sonradan değer kazanan\n pekiştireçlerdir (Soru davranışı sorduğu için bu bir süreç adıdır, pekiştireç türü değil).\n Senaryo (A için): \"Taha, sadece kendi sınıfında değil, girdiği her sınıfta tahtayı siliyorsa\" bu\n Uyarıcı Genellemesi olurdu.",
+      "historicalNote": "Atıf: Uyarıcı ve Tepki genellemesi farkı PDR ÖABT'de hemen hemen her 2 yılda bir (2014,\n 2016, 2018, 2022) karşımıza çıkar.\n 2026 Notu: Karıştırmamanın yolu basit: Tepki sayısı artıyorsa (davranış çeşitleniyorsa)\n \"Tepki Genellemesi\"; Uyarıcı sayısı artıyorsa (farklı yerlerde/kişilerde yapılıyorsa)\n \"Uyarıcı Genellemesi\"dir. Bu ayrımı soracaklar!",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-06",
+      "number": 6,
+      "topic": "Temel Psikoloji ve Gelişim",
+      "question": "Yüksek ses karşısında irkilerek dikkatini o yöne çeviren bir çocuğun bu davranışı, Vygotsky’ye göre\naşağıdaki kavramlardan hangisiyle açıklanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yakınsak gelişim alanı"
+        },
+        {
+          "key": "B",
+          "text": "Yapı iskelesi"
+        },
+        {
+          "key": "C",
+          "text": "Semboller"
+        },
+        {
+          "key": "D",
+          "text": "Temel zihinsel işlevler"
+        },
+        {
+          "key": "E",
+          "text": "Sosyal çevre"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Analiz: Vygotsky, zihinsel gelişimi iki aşamada ele alır: Alt (Temel) Zihinsel İşlevler ve\n Yüksek Zihinsel İşlevler.\n Temel İşlevler: Biyolojik kökenlidir, tüm memelilerde ortaktır. Refleksler, irkilme,\n istemsiz dikkat ve basit bellek bu gruba girer.\n Yüksek İşlevler: Sosyal etkileşimle öğrenilir; dil, problem çözme, iradi dikkat ve\n soyut düşünmeyi kapsar.\n Soruda çocuk \"irkilerek\" istemsiz bir tepki verdiği için bu tamamen biyolojik/doğal\n bir süreçtir, yani Temel Zihinsel İşlevdir.",
+      "distractorAnalysis": "A) Yakınsak Gelişim Alanı (ZPD): Çocuğun tek başına yapabildikleri ile bir yetişkin\n yardımıyla yapabilecekleri arasındaki farktır. (Potansiyel gelişim).\n B) Yapı İskelesi (Scaffolding): Öğretmenin veya yetişkinin, çocuğun öğrenme sürecinde\n verdiği desteği çocuk geliştikçe yavaş yavaş çekmesidir.\n C) Semboller: Kültürel araçlardır (dil, sayılar, haritalar). Düşünmeyi yönetmemize yarar.\n E) Sosyal çevre: Vygotsky'ye göre gelişimin kaynağıdır ancak irkilme tepkisi çevresel\n öğrenmeden ziyade biyolojiktir.\n \"Eğer soru nasıl sorulsaydı bu şık doğru cevap olurdu?\" Senaryosu (B için): \"Bir\n babanın çocuğuna bisiklet binmeyi öğretirken önce arkadan tutması, çocuk denge sağladıkça\n tutuşunu gevşetmesi ve sonunda tamamen bırakması nedir?\" deseydi cevap Yapı İskelesi\n olurdu.",
+      "historicalNote": "Atıf: ÖSYM Vygotsky'yi her yıl sorar. 2017, 2019 ve 2021'de genelde \"Yapı İskelesi\" ve \"ZPD\"\n üzerinden gelmiştir.\n 2026 Notu: \"Özel Konuşma\" (Private Speech) ve \"İçsel Konuşma\" ayrımı 2026'nın favorisi\n olabilir. Çocuğun kendi kendine konuşarak problem çözmesi Vygotsky'de gelişimin bir\n göstergesidir, Piaget'de ise bencilliktir. Bu farkı unutma!",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-07",
+      "number": 7,
+      "topic": "Temel Psikoloji ve Gelişim",
+      "question": "Dokuzuncu sınıf öğrencisi Elif, günlüğüne \"Hiç kimse beni anlamıyor, ne annem-babam, ne\narkadaşlarım ne de öğretmenlerim. Kimse ne hissettiğimi tam olarak bilmiyor.\" diye yazmıştır.\nElif'in günlüğüne yazdığı bu duygu ve düşünceler aşağıdaki kavramlardan hangisine\nörnektir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişisel hikâye"
+        },
+        {
+          "key": "B",
+          "text": "Felaketleştirme"
+        },
+        {
+          "key": "C",
+          "text": "Hayalî seyirci"
+        },
+        {
+          "key": "D",
+          "text": "Öğrenilmiş çaresizlik"
+        },
+        {
+          "key": "E",
+          "text": "Kendini gerçekleştiren kehanet"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Analiz: David Elkind'ın \"Ergen Benmerkezciliği\" (Adolescent Egocentrism) kavramına göre\n iki temel yapı vardır: Hayalî Seyirci ve Kişisel Hikâye (Efsane/Mitos).\n Kişisel Hikâye: Ergenin, kendi yaşadıklarının çok eşsiz, benzersiz ve sadece kendine\n has olduğunu düşünmesidir. \"Beni kimse anlayamaz\", \"Benim yaşadığım acıyı kimse\n yaşamadı\", \"Bana bir şey olmaz\" (Yenilmezlik inancı) bu kavramın parçalarıdır.\n Elif'in \"Kimse ne hissettiğimi tam olarak bilmiyor\" demesi, duygularının eşsizliğine\n olan inancıdır.",
+      "distractorAnalysis": "B) Felaketleştirme: Bilişsel bir çarpıtmadır. Olacak olanı en kötü senaryo gibi düşünmektir.\n C) Hayalî Seyirci: Ergenin herkesin onu izlediği, onu süzdüğü ve onunla ilgilendiği\n düşüncesidir. (Örn: Sivilcesi yüzünden sokağa çıkmak istememe).\n D) Öğrenilmiş çaresizlik: Ne yaparsa yapsın durumu değiştiremeyeceğine olan inançtır.\n E) Kendini gerçekleştiren kehanet: Bir beklentinin (olumlu/olumsuz) davranışları\n etkileyerek sonunda o beklentinin gerçek olmasına yol açmasıdır.\n Senaryo (C için): \"Elif, okul koridorunda yürürken herkesin onun ayakkabılarına baktığını\n ve onunla dalga geçtiğini düşünerek huzursuz oluyorsa\" bu Hayalî Seyirci olurdu.",
+      "historicalNote": "Atıf: 2015, 2018 ve 2022'de Elkind'ın bu iki kavramı (Kişisel Hikâye - Hayalî Seyirci)\n defalarca soruldu.\n 2026 Notu: 2026'da \"Yenilmezlik İnancı\" (Invulnerability) kavramına dikkat! Ergenlerin\n neden tehlikeli sporlara veya riskli davranışlara yöneldiğini bu kavramla açıklayabilirler.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-08",
+      "number": 8,
+      "topic": "Temel Psikoloji ve Gelişim",
+      "question": "Okul psikolojik danışmanı; derslerindeki başarısızlığı nedeniyle görüşmeye başladığı Ali’nin başarıyı\nistemek yerine başarısızlıktan korktuğunu, gerçek performansını ortaya koymadığını ve bir sorunla\nkarşılaştığında sorunun üstesinden gelmek için gerekli çabayı göstermediğini fark etmiştir.\nAdler’e göre, Ali aşağıdaki karakter tipolojilerinden hangisinin özelliklerini göstermektedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Baskın"
+        },
+        {
+          "key": "B",
+          "text": "Alıcı"
+        },
+        {
+          "key": "C",
+          "text": "Kaçınan"
+        },
+        {
+          "key": "D",
+          "text": "Sosyal"
+        },
+        {
+          "key": "E",
+          "text": "Kompleks"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Analiz: Adler'in \"Bireysel Psikoloji\" kuramında dört temel yaşam tarzı/karakter tipi vardır.\n Kaçınan Tip: Hayatın problemlerinden ve sorumluluklarından kaçarak başarısızlık\n riskini en aza indirmeye çalışır. Enerjisi düşüktür. Sorunlarla yüzleşmek yerine\n onlardan uzak durur. Ali'nin başarısızlıktan korkması ve çaba göstermemesi tam\n olarak \"kaçınan\" tipin özelliğidir.",
+      "distractorAnalysis": "A) Baskın Tip: Sosyal ilgisi düşük, aktivite düzeyi yüksektir. Başkaları üzerinde güç\n kurmaya çalışır (Zorbalar, diktatörler).\n B) Alıcı Tip: En yaygın tiptir. Sürekli başkalarından bir şeyler bekler, asalak bir yaşam sürer.\n D) Sosyal Tip (Sosyal Yararlı): Hem sosyal ilgisi hem aktivite düzeyi yüksektir. Sağlıklı olan\n tiptir.\n E) Kompleks: Adler'de Aşağılık veya Üstünlük kompleksi vardır ama bunlar karakter\n tipolojisi olarak sınıflandırılmaz.\n Senaryo (A için): \"Sınıfındaki diğer öğrencilere sürekli emirler veren, kuralları kendi lehine\n çiğneyen ve empati kurmayan bir öğrenci\" sorulsaydı cevap Baskın Tip olurdu.",
+      "historicalNote": "Atıf: Adler'in kuramı 2021 ve 2023 yıllarında \"Aşağılık Duygusu\" ve \"Doğum Sırası\"\n üzerinden sorgulanmıştır.\n 2026 Notu: Doğum sırasına göre çocukların özellikleri (Örn: En büyük çocuk - tahttan\n indirilmiş kral) 2026 sınavında \"vaka sorusu\" olarak gelmeye çok müsaittir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-09",
+      "number": 9,
+      "topic": "Temel Psikoloji ve Gelişim",
+      "question": "Bilge, sınıf arkadaşları Çınar ve Emir ile ilgili \"Çınar ve Emir oyunda düştüğüm için bana çok\nkızgınlar. Artık beni sevmeyecekler ve benimle bir şey yapmak istemeyecekler.\" şeklinde\ndüşünmektedir.\nBilge aşağıdaki bilişsel çarpıtmalardan hangisini kullanmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişiselleştirme"
+        },
+        {
+          "key": "B",
+          "text": "Genelleme"
+        },
+        {
+          "key": "C",
+          "text": "Ya hep ya hiç"
+        },
+        {
+          "key": "D",
+          "text": "Etiketleme"
+        },
+        {
+          "key": "E",
+          "text": "Yanlış etiketleme"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Analiz: Aaron Beck'in Bilişsel Terapisi'nde Aşırı Genelleme (Overgeneralization); bir tek\n olaydan yola çıkarak, bu olayın her zaman ve her durumda tekrarlanacağına dair geniş\n kapsamlı bir kural koymaktır. Bilge, \"bir kez oyunda düştü\" (tek olay) ve buradan \"artık beni\n asla sevmeyecekler\" (genel hüküm) sonucuna vardı. Anahtar kelime: \"Artık...\" (Sürekli\n olacağına dair inanç).",
+      "distractorAnalysis": "A) Kişiselleştirme: Dışsal olayları, kendisiyle hiçbir ilgisi olmadığı halde kendisine\n bağlamaktır.\n C) Ya hep ya hiç: Olayları sadece iki uçta (ya tam başarı ya tam başarısızlık) görmektir.\n Aradaki gri tonları reddeder.\n D) Etiketleme: Bir hatadan dolayı kendine veya başkasına \"Ben beceriksizim\" gibi global bir\n etiket yapıştırmaktır.\n E) Yanlış etiketleme: Etiketlemenin daha ağır ve duygusal yüklü versiyonudur.\n Senaryo (A için): \"Yolda yürürken karşıdan gelen arkadaşı ona selam vermeyince Bilge'nin\n 'Kesin dün ona söylediğim söze darıldı, benden nefret ediyor' diye düşünmesi\"\n Kişiselleştirme olurdu.",
+      "historicalNote": "Atıf: Bilişsel çarpıtmalar ÖSYM'nin en sevdiği konudur (2014, 2016, 2019, 2020, 2022).\n 2026 Notu: \"Keyfi Çıkarsama\" (Arbitrary Inference) ve \"Seçici Soyutlama\" (Zihinsel\n Filtreleme) arasındaki farka dikkat! Kanıt olmadan sonuç çıkarma keyfi çıkarsamadır; tek bir\n olumsuz detaya odaklanıp bütünü görmeme seçici soyutlamadır.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-10",
+      "number": 10,
+      "topic": "Psikolojik Danışma Kuramları",
+      "question": "Okul Psikolojik Danışmanı Sevgi Hanım, 10. sınıfa devam eden Özgür’ün anne babasına \"Özgür kendi\nözelliklerine uygun eğitsel ve mesleki hedefler oluşturma konusunda kararsızlıklar yaşıyor. Ancak\nÖzgür’ün içinde bulunduğu gelişim döneminde bu duygu ve düşüncelerle karşılaşılabilir.\" diyerek\nÖzgür’e bu konularda destek olunması gerektiğini belirtmiştir.\nErikson'un \"Psikososyal Gelişim Kuramı\"na göre, Özgür'ün içinde bulunduğu gelişim evresi\naşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Özerkliğe karşı kuşku ve utanç"
+        },
+        {
+          "key": "B",
+          "text": "Temel güvene karşı güvensizlik"
+        },
+        {
+          "key": "C",
+          "text": "Kimliğe karşı rol karmaşası"
+        },
+        {
+          "key": "D",
+          "text": "Girişimciliğe karşı suçluluk"
+        },
+        {
+          "key": "E",
+          "text": "Yakınlığa karşı yalnızlık"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Analiz: Erikson'a göre 12-18 yaş arası (ergenlik) Kimlik Kazanmaya Karşı Rol Karmaşası\n dönemidir. Bu dönemin temel görevleri: \"Ben kimim?\", \"Hangi mesleği seçmeliyim?\",\n \"Değerlerim neler?\" sorularına yanıt aramaktır. Soruda 10. sınıf öğrencisi (yaklaşık 15-16\n yaş) olan Özgür'ün \"mesleki hedefler oluşturma kararsızlığı\" yaşaması, bu dönemin en tipik\n özelliğidir.",
+      "distractorAnalysis": "A) Özerkliğe karşı kuşku ve utanç: 1-3 yaş. Kendi başına bir şeyler yapma isteği.\n B) Temel güvene karşı güvensizlik: 0-1 yaş. Bağlanma süreci.\n D) Girişimciliğe karşı suçluluk: 3-6 yaş. Merak, soru sorma ve oyun süreci.\n E) Yakınlığa karşı yalnızlık: 18-35 yaş (Genç yetişkinlik). Romantik ilişkiler ve dostluklar.\n Senaryo (E için): \"Üniversiteden yeni mezun olmuş Meltem'in, hayatını paylaşabileceği\n birini bulamadığı için derin bir boşluk hissetmesi\" sorulsaydı cevap Yakınlığa Karşı Yalnızlık\n olurdu.",
+      "historicalNote": "Atıf: Erikson her yıl (istisnasız) sorulur. 2021 ve 2023'te \"Üretkenliğe Karşı Durgunluk\" ve\n \"Ego Bütünlüğüne Karşı Umutsuzluk\" (Yaşlılık) soruldu.\n 2026 Notu: Marcia'nın Kimlik Statüleri (Başarılı, İpotekli, Dağınık, Moratoryum) ile\n Erikson'un bu dönemini birleştiren bir soru gelmesi %90 ihtimaldir. \"Özgür hiçbir seçim\n yapmıyor ve bunu dert de etmiyorsa\" hangi statüdedir (Dağınık) gibi bir soruya hazır ol!",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-11",
+      "number": 11,
+      "topic": "Psikolojik Danışma Kuramları",
+      "question": "“Sorumlu davranan bireyler başkalarına değer verir, onları sever ve topluma katılır. Sorumsuz\ndavranan bireyler ise bu davranışlarının bedelini toplumdan dışlanma, yalnızlık ve acıyla öderler.\nSorumluluk başarılı bir kimlik oluştururken sorumsuzluk başarısız kimliği ortaya çıkarmaktadır.”\nşeklinde özetlenen bakış açısı aşağıdaki psikolojik danışma kuramlarından hangisiyle\nilişkilidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anlatımsal (Öyküsel)"
+        },
+        {
+          "key": "B",
+          "text": "Davranışçı"
+        },
+        {
+          "key": "C",
+          "text": "Varoluşçu"
+        },
+        {
+          "key": "D",
+          "text": "Bilişsel"
+        },
+        {
+          "key": "E",
+          "text": "Gerçeklik"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Analiz: William Glasser tarafından geliştirilen Gerçeklik Terapisi (Seçim Kuramı),\n \"Sorumluluk\" kavramını kuramın merkezine koyar.\n Anahtar Kelimeler: \"Sorumluluk\", \"Başarılı/Başarısız Kimlik\", \"Topluma Katılım\".\n Glasser’e göre ruh sağlığı yerinde olan birey, kendi ihtiyaçlarını başkalarının\n ihtiyaçlarını engellemeden karşılayabilen (sorumlu) kişidir. Eğer birey sorumsuz\n davranırsa \"Başarısız Kimlik\" geliştirir. Bu sorudaki ifadeler doğrudan Glasser’in\n terminolojisidir.",
+      "distractorAnalysis": "A) Anlatımsal (Öyküsel): Bireyin hayatını bir hikaye gibi ele alır. \"Problemden arındırılmış\n yeni bir öykü yazma\"ya odaklanır.\n B) Davranışçı: Öğrenme ilkelerine (pekiştirme, ceza) odaklanır. Sorumluluktan ziyade\n gözlenebilir davranış değişikliği ile ilgilenir.\n C) Varoluşçu: Sorumluluk kavramı burada da vardır ama daha çok \"özgürlük, ölüm,\n anlamsızlık ve yalıtılmışlık\" ekseninde ele alınır. \"Kimlik türleri\" (başarılı/başarısız)\n Varoluşçu literatüre ait değildir.\n D) Bilişsel: Düşünce biçimleri ve şemalarla ilgilenir.\n Senaryo (C için): \"İnsanın kendi seçimlerinden tamamen kendisinin sorumlu olduğunu, bu\n sorumluluğun yarattığı kaygıyla yüzleşmesi gerektiğini savunan kuram...\" deseydi cevap\n Varoluşçu olurdu.",
+      "historicalNote": "Atıf: Gerçeklik Terapisi 2017'de \"WDEP\" sistemi, 2020'de ise \"Temel İhtiyaçlar\" üzerinden\n sorulmuştur.\n 2026 Notu: 2026'da \"WDEP\" modelinin basamakları (İstekler, Yapılanlar, Değerlendirme,\n Planlama) bir vaka üzerinden sorulabilir. Özellikle \"Değerlendirme (Evaluation)\"\n basamağının terapinin merkezi olduğunu unutma!",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-12",
+      "number": 12,
+      "topic": "Psikolojik Danışma Kuramları",
+      "question": "Aşağıdakilerden hangisi çözüm odaklı danışma için uygun bir ifade değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Danışanlarla iş birliğine dayalı bir ortaklık kurulmaya çalışılır."
+        },
+        {
+          "key": "B",
+          "text": "Olumlu geleceğe odaklanılır."
+        },
+        {
+          "key": "C",
+          "text": "“Ufak değişimler büyük değişimleri beraberinde getirir.” varsayımıyla hareket edilir."
+        },
+        {
+          "key": "D",
+          "text": "Terapötik hedefleri danışman belirler."
+        },
+        {
+          "key": "E",
+          "text": "Danışman “bilmeyen” konumunu korur."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Analiz: Çözüm Odaklı Kısa Süreli Terapi (Shazer & Berg) postmodern bir yaklaşımdır.\n Postmodern yaklaşımlarda danışan, kendi hayatının uzmanıdır.\n Hata: Hedefleri danışmanın belirlemesi \"geleneksel/otoriter\" bir yaklaşımdır.\n Doğru Bilgi: Hedefleri her zaman danışan belirler. Danışman sadece bu hedeflere\n ulaşmada rehberlik eder.",
+      "distractorAnalysis": "A) İş birliği: Postmodern terapilerin (Çözüm odaklı, Öyküsel) temelidir.\n B) Olumlu gelecek: Soruna değil, çözüme ve geleceğe bakılır.\n C) Ufak değişimler: Kuramın \"Kartopu Etkisi\" prensibidir. Küçük bir adım, sistemin\n tamamını etkiler.\n E) Bilmeyen (Not-knowing) konum: Danışmanın \"her şeyi bilen uzman\" rolünden çıkıp,\n meraklı bir araştırmacı gibi davranmasıdır.\n Senaryo (E için): \"Danışmanın, danışanın dünyasını anlamak için ön yargısız ve meraklı bir\n tavır takınması hangi kavramla açıklanır?\" deseydi cevap Bilmeyen Konum olurdu.",
+      "historicalNote": "Atıf: 2018, 2021 ve 2023 yıllarında \"Mucize Soru\", \"Derecelendirme Soruları\" ve \"İstisnaları\n Bulma\" teknikleri sorulmuştur.\n 2026 Notu: 2026'da \"Müşteri, şikayetçi ve ziyaretçi\" danışan tipleri sorulabilir. Hangi\n danışan tipiyle çalışmaya nasıl başlanacağı kritik bir bilgidir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-13",
+      "number": 13,
+      "topic": "Psikolojik Danışma Kuramları",
+      "question": "Danışan: Yarın sunumum var. Yapamayacakmışım gibi geliyor. Kendimi yetersiz hissediyorum.\nTabii siz bunun ne demek olduğunu bilemezsiniz. Çünkü siz çoktan bitirdiniz üniversiteyi.\nPsikolojik danışman: Eğitimimi tamamladığım için seni anlayamayacağımı düşünüyorsun. Sen\nanlatınca benim de aklıma üniversitedeyken yaptığım bir sunum geldi. Şimdi düşünüyorum da\nbenim için ne kadar zor bir durumdu. Ellerim titriyor, yüzüm kızarıyor, soğuk soğuk terliyordum.\nPsikolojik danışman, bu konuşmada aşağıdaki becerilerden hangisini kullanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kendini açma"
+        },
+        {
+          "key": "B",
+          "text": "Yüzleştirme"
+        },
+        {
+          "key": "C",
+          "text": "Empati"
+        },
+        {
+          "key": "D",
+          "text": "Destek olma"
+        },
+        {
+          "key": "E",
+          "text": "İlişkinin şimdi ve buradalığı"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Analiz: Kendini Açma (Self-disclosure), danışmanın danışana yararlı olacağını düşündüğü\n durumlarda, kendi geçmişinden veya o anki duygularından benzer örnekler paylaşmasıdır.\n Neden doğru? Danışman, öğrencinin yaşadığı \"sunum kaygısını\" normalize etmek\n için kendi öğrencilik yıllarındaki benzer fiziksel belirtilerini (ellerin titremesi vb.)\n paylaşmıştır. Bu, aradaki mesafeyi azaltır ve anlaşılmışlık hissini artırır.",
+      "distractorAnalysis": "B) Yüzleştirme: Danışanın ifadelerindeki tutarsızlıkları (söz-davranış çelişkisi) nazikçe\n önüne koymaktır.\n C) Empati: Danışanın hissettiklerini onun bakış açısıyla anlamak ve ona geri yansıtmaktır.\n (Danışman burada sadece yansıtmamış, kendinden de parça eklemiştir).\n E) İlişkinin şimdi ve buradalığı: O anki oturumda danışan ve danışman arasında geçen\n etkileşime odaklanmaktır.\n Senaryo (E için): \"Sen bana üniversiteyi bitirdiğim için seni anlamayacağımı söylediğinde,\n aramızda bir duvar örüldüğünü ve benden uzaklaştığını hissettim. Şu an aramızda neler\n oluyor?\" deseydi cevap Şimdi ve Buradalık olurdu.",
+      "historicalNote": "Atıf: 2014 ve 2019 yıllarında \"Kendini Açma\"nın dozu ve riskleri sorulmuştu.\n 2026 Notu: Kendini açmanın \"danışan odaklı\" olması gerektiği unutulmamalıdır. Eğer\n danışman odağı kendi üzerine çekerse bu bir hata olur. 2026'da \"hatalı bir kendini açma\"\n örneği sorulabilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-14",
+      "number": 14,
+      "topic": "Psikolojik Danışma Kuramları",
+      "question": "“Çocuğum giderek asosyal biri oluyor.” diyen bir annenin ifadesine, olumlu yeniden çerçeveleme\nyapmak isteyen bir psikolojik danışman aşağıdaki ifadelerden hangisini kullanmalıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çocuğunuz daha güvende olacak."
+        },
+        {
+          "key": "B",
+          "text": "Çocuğunuz birlikte olduğu insanları özenle seçiyor."
+        },
+        {
+          "key": "C",
+          "text": "Çocuğunuzun yalnız kalacağından endişe duyuyorsunuz."
+        },
+        {
+          "key": "D",
+          "text": "Çocuğunuz çok fazla insanla uğraşmak zorunda kalmayacak."
+        },
+        {
+          "key": "E",
+          "text": "Aile ilişkilerinizde onun böyle davranmasına neden olabilecek bir şeyler olabilir mi?"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Analiz: Yeniden Çerçeveleme (Reframing), bir durumun içeriğini değiştirmeden, ona\n bakış açısını (çerçevesini) değiştirerek olumsuz bir algıyı olumlu/işlevsel bir algıya\n dönüştürmektir.\n Analiz: \"Asosyal\" kelimesi negatif bir yüke sahiptir. B şıkkında ise bu durum\n \"insanları özenle seçmek\" şeklinde pozitif ve seçici bir özellik olarak tekrar\n sunulmuştur. Bu, annenin çocuğuna bakışındaki direnci kırar.",
+      "distractorAnalysis": "A) Daha güvende olacak: Bu bir teselli cümlesidir, durumu yeniden tanımlamaz.\n C) Endişe duyuyorsunuz: Bu bir Duygu Yansıtmasıdır.\n D) Çok fazla insanla uğraşmayacak: Bu bir avantaj sunma çabasıdır ama kavramsal bir\n değişim yaratmaz.\n E) Aile ilişkileri...: Bu bir Yorumlama veya soru sorma tekniğidir.\n Senaryo (C için): \"Annenin kaygısını anladığını belirtmek isteyen danışman ne demelidir?\"\n deseydi cevap C olurdu.",
+      "historicalNote": "Atıf: Sistemik Aile Terapisi ve Stratejik Terapi sorularında (2015, 2022) bu teknik çok sık\n geçer.\n 2026 Notu: Yeniden çerçeveleme, özellikle \"Aile Danışmanlığı\" sorularının içinde bir teknik\n olarak karşımıza çıkacaktır. \"Kriz\" yerine \"Fırsat\", \"İnatçılık\" yerine \"Kararlılık\" ifadelerine\n dikkat!",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-15",
+      "number": 15,
+      "topic": "Psikolojik Danışma Kuramları",
+      "question": "Psikolojik danışman, süpervizörüne bir danışanıyla ilgili olarak \"Her hafta aynı sorunlarla geliyor.\nHaftalardır attığı tek bir adım bile yok. Bunu ona söylememek için kendimi zor tutuyorum... Onunla\npsikolojik danışma yapmak istemiyorum.\" demektedir.\nPsikolojik danışmanın, danışma sürecine ilişkin bu yaşadıklarını aşağıdaki kavramlardan\nhangisi daha iyi açıklar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Aktarım"
+        },
+        {
+          "key": "B",
+          "text": "Karşıt aktarım"
+        },
+        {
+          "key": "C",
+          "text": "Direnç"
+        },
+        {
+          "key": "D",
+          "text": "Karşıt direnç"
+        },
+        {
+          "key": "E",
+          "text": "Terapötik gerilim"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Resmî ÖSYM anahtarına göre doğru cevap D seçeneğidir. Karşıt direnç, psikolojik danışmanın süreci ilerletmesini engelleyen isteksizlik, sabırsızlık veya kaçınma yaşamasıdır. Danışmanın görüşmeyi sürdürmek istememesi ve tepkisini güçlükle tutması sürece yönelik karşıt direnci gösterir.",
+      "distractorAnalysis": "Karşıt aktarım danışmanın kendi geçmiş yaşantı ve çatışmalarını danışana taşımasıdır; soruda böyle bir geçmiş bağlantısı verilmemiştir. Buradaki vurgu danışma sürecini sürdürmeye karşı gelişen dirençtedir.",
+      "historicalNote": "Atıf: 2015, 2018 ve 2021 yıllarında Psikanalitik kuram başlığında aktarım ve karşıt aktarım\n defalarca soruldu.\n 2026 Notu: Karşıt aktarımın artık sadece \"kötü\" bir şey olmadığı, danışanı anlamak için bir\n \"veri\" olarak kullanılabileceği yönündeki çağdaş görüşler (Korelasyonel bakış) 2026'da\n şıklarda yer alabilir",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-16",
+      "number": 16,
+      "topic": "Psikolojik Danışma Kuramları",
+      "question": "Psikolojik danışma süreci hiyerarşik bir düzen içinde yürütülmelidir. Bu süreçlerdeki\nbasamaklardan biri tamamlanmadan diğerine geçilmemesi gerekir.\nBu basamaklar;\nI. sonlandırma ve izleme,\nII. hedef tanımlama ve oluşturma,\nIII. kaynaşma ve ilişkinin kurulması,\nIV. problemin saptanması,\nV. psikolojik danışma müdahalesini seçme ve uygulama\nşeklindedir.\nAşağıdakilerin hangisinde bu basamaklar doğru sırayla verilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "II – IV – V – III – I"
+        },
+        {
+          "key": "B",
+          "text": "III – IV – II – V – I"
+        },
+        {
+          "key": "C",
+          "text": "III – IV – V – II – I"
+        },
+        {
+          "key": "D",
+          "text": "IV – II – III – V – I"
+        },
+        {
+          "key": "E",
+          "text": "V – IV – III – II – I"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Analiz: Psikolojik danışma süreci mantıksal bir akış izler. Hackney ve Cormier gibi yazarlara\n göre bu akış şöyledir:\n 1. İlişki Kurma (III): Güven bağı (törapötik ittifak) olmadan süreç başlamaz.\n 2. Problemi Tanımlama/Değerlendirme (IV): Danışanı buraya getiren asıl mesele\n nedir?\n 3. Hedef Belirleme (II): Nereye ulaşmak istiyoruz? (Problemi çözmek için hedef\n netleşmeli).\n 4. Müdahale/Eylem (V): Belirlenen hedefe uygun tekniklerin uygulanması.\n 5. Sonlandırma (I): Sürecin bitirilmesi ve sonrasının takibi.",
+      "distractorAnalysis": "Yanlış Sıralamalar (A, C, D, E): Bu şıklar sürecin doğasına aykırıdır. Örneğin, ilişki\n kurmadan (III) hedef belirlenmez veya müdahale (V) edilmez. Önce \"insan insana bağ\",\n sonra \"iş\" gelir.\n Senaryo (Hedef ve Müdahale Farkı): Eğer bir soruda \"Danışanın öfke kontrolü\n sağlamasına karar verildi\" deniliyorsa bu Hedef (II); \"Danışana gevşeme egzersizi yaptırıldı\"\n deniliyorsa bu Müdahaledir (V).",
+      "historicalNote": "Atıf: 2018 ve 2021 yıllarında \"İlk oturumda yapılması gerekenler\" ve \"Yapılandırma\"\n (Structuring) üzerinden bu süreç sorgulandı.\n 2026 Notu: 2026'da bu süreçlerin içine \"Vaka Formülasyonu\" kavramı eklenebilir. Danışanı\n değerlendirme aşamasının (IV) profesyonel adına dikkat!",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-17",
+      "number": 17,
+      "topic": "Ruh Sağlığı ve Özel Eğitim",
+      "question": "Onuncu sınıf öğrencisi Selin, eskiden iki günde yiyebileceği miktarı yarım günde tıkınırcasına\nyemekte ve sonrasında ilaç alarak yoğun şekilde tuvalete gitmektedir. Ayrıca ağır egzersizler de\nyapmaktadır. Ailesi ve arkadaşları, kendisine fazla kilosunun olmadığını hatta çok zayıf olduğunu\nsöylemelerine rağmen buna inanmamakta ve kilolu olduğunu düşünmektedir.\nSelin'in gösterdiği bu belirtiler aşağıdaki bozukluklardan hangisini düşündürmektedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Depresyon"
+        },
+        {
+          "key": "B",
+          "text": "Fobik anksiyete"
+        },
+        {
+          "key": "C",
+          "text": "Anoreksiya nervoza"
+        },
+        {
+          "key": "D",
+          "text": "Somatizasyon"
+        },
+        {
+          "key": "E",
+          "text": "Bulimiya nervoza"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Analiz: DSM-5 kriterlerine göre Bulimiya Nervoza'nın iki temel döngüsü vardır:\n 1. Tıkınırcasına Yeme (Binge Eating): Kısa sürede aşırı miktarda yemek.\n 2. Telafi Edici Davranışlar (Purging): Kilo almamak için kusma, laksatif (ilaç)\n kullanımı veya aşırı egzersiz.\n Selin'de hem \"tıkınırcasına yeme\" hem de \"ilaçla boşaltım/egzersiz\" (telafi) mevcut\n olduğu için cevap Bulimiya'dır.",
+      "distractorAnalysis": "C) Anoreksiya Nervoza: En büyük fark vücut ağırlığıdır. Anoreksikler aşırı derecede\n zayıftır ve yemek yemeyi reddederler. Bulimikler genellikle normal veya normalin hafif üstü\n kilodadır.\n D) Somatizasyon: Psikolojik kökenli ağrıların (tıbbi temeli olmayan) bedende ortaya\n çıkmasıdır.\n Senaryo (C için): \"Selin yemek yemeyi tamamen reddediyor, kemikleri sayılmasına rağmen\n hala aynada kendini kilolu görüyor ve hayati tehlike sınırında zayıfsa\" cevap Anoreksiya\n olurdu.",
+      "historicalNote": "Atıf: Yeme bozuklukları 2014, 2019 ve 2022'de soruldu.\n 2026 Notu: \"Tıkınırcasına Yeme Bozukluğu\"na dikkat! Eğer Selin sadece çok yiyip ama\n telafi edici davranış (kusma, ilaç vb.) yapmasaydı cevap \"Tıkınırcasına Yeme Bozukluğu\"\n olurdu. Bu ayrım 2026'da gelebilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-18",
+      "number": 18,
+      "topic": "Ruh Sağlığı ve Özel Eğitim",
+      "question": "Ayşen Hanım, çocuklarına aşırı düşkün bir anne ve çok iyi bir avukattır. Sürekli olarak yorgun\nolduğundan, gereksiz yere sinirlendiğinden ve işlerine odaklanamadığından şikâyetçidir. Ayrıca aşırı\ngerginlikten dolayı zaman zaman uyku problemi de yaşamaktadır. Çocuklarının okulundan telefon\ngeldiği zamanlarda çocuklarıyla ilgili kötü bir haber alacağı endişesini taşımaktadır. Öte yandan\nAyşen Hanım mesleğinde çok birikimli ve disiplinli olmasına rağmen bazı büyük ve iyi geliri olan\ndavaları kazanamam düşüncesiyle kabul etmemekte, daha kolay kazanabileceği davaları tercih\netmektedir.\nAyşen Hanım'ın gösterdiği bu belirtiler aşağıdaki bozukluklardan hangisini\ndüşündürmektedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sosyal fobi"
+        },
+        {
+          "key": "B",
+          "text": "Panik bozukluk"
+        },
+        {
+          "key": "C",
+          "text": "Tek kutuplu bozukluk"
+        },
+        {
+          "key": "D",
+          "text": "Çift kutuplu bozukluk"
+        },
+        {
+          "key": "E",
+          "text": "Yaygın kaygı bozukluğu"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Analiz: Yaygın Kaygı Bozukluğu (YKB/GAD)'nun temel özelliği, hayatın birçok alanına (iş,\n aile, sağlık) yayılan, en az 6 ay süren, kontrol edilemeyen \"aşırı evham ve kaygı\" halidir.\n Belirtiler: Odaklanma güçlüğü, sinirlilik, uyku bozukluğu, yorgunluk ve \"kötü bir\n şey olacak\" beklentisi. Ayşen Hanım hem çocukları hem de işiyle ilgili (davalar)\n sürekli bir felaket senaryosu içinde olduğu için YKB tanısına tam uyar.",
+      "distractorAnalysis": "A) Sosyal fobi: Başkaları tarafından yargılanma korkusudur. Ayşen Hanım'ın sorunu sadece\n topluluk önünde olmak değil, genel bir kaygıdır.\n B) Panik bozukluk: Aniden gelen, yoğun fiziksel belirtilerin eşlik ettiği (kalp çarpıntısı,\n ölüm korkusu) panik ataklar gerektirir.\n C-D) Tek/Çift Kutuplu: Duygulanım bozukluklarıdır (Depresyon ve Mani). Ayşen Hanım'da\n temel mesele çökkünlük veya aşırı neşe değil, kaygıdır.\n Senaryo (B için): \"Ayşen Hanım durup dururken aniden nefesinin kesildiğini, öleceğini\n sandığını ve kalp krizi geçirdiğini düşünerek acile gidiyorsa\" Panik Bozukluk olurdu.",
+      "historicalNote": "Atıf: 2017 ve 2023 yıllarında OKB ve Fobiler sorulmuştur.\n 2026 Notu: \"Agorafobi\" ve \"Panik Bozukluk\" birlikteliğine dikkat! 2026'da dışarı çıkmaktan\n korkan ve atak geçiren bir vaka gelebilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-19",
+      "number": 19,
+      "topic": "Ruh Sağlığı ve Özel Eğitim",
+      "question": "Aşağıdakilerden hangisi madde kullanımını önlemeye yönelik uygulanan programların amaçlarından\nbiri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Risk faktörlerini azaltmak"
+        },
+        {
+          "key": "B",
+          "text": "Koruyucu faktörlerini artırmak"
+        },
+        {
+          "key": "C",
+          "text": "Madde kullanımıyla ilgili konularda aileleri bilgilendirmek"
+        },
+        {
+          "key": "D",
+          "text": "Bağımlılık yapan maddelerin özelliklerini tanıtmak"
+        },
+        {
+          "key": "E",
+          "text": "Madde kullanımına yol açan sorunları azaltmak"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Analiz: Madde bağımlılığı önleme çalışmalarında \"maddelerin etkilerini ve özelliklerini\n detaylı anlatmak\" riskli kabul edilir.\n Neden? Bu bilgiler gençlerde \"merak\" uyandırabilir (Curiosity effect) ve \"demek ki\n şunu içince böyle hissediliyormuş\" diyerek deneme isteği doğurabilir. Önleme\n programları maddeye değil, yaşam becerilerine, risk faktörlerine ve koruyucu\n etkenlere odaklanmalıdır.",
+      "distractorAnalysis": "A, B, C, E: Bunlar klasik önleyici rehberlik çalışmalarıdır. Aileyi işin içine katmak (C) ve\n dayanıklılığı artırmak (B) en etkili yollardır.\n Senaryo (B için): \"Öğrencilerin 'hayır diyebilme' becerilerini geliştirmek hangi\n kapsamdadır?\" deseydi cevap Koruyucu Faktörleri Artırmak olurdu.",
+      "historicalNote": "Atıf: Bağımlılık konusu 2015'te \"Birincil Önleme\" kapsamında sorulmuştu.\n 2026 Notu: Bağımlılıkta \"Bağımlılık Döngüsü\" (Bir kereden bir şey olmaz -> Bırakabilirim ->\n Bırakamıyorum) basamakları 2026 için güçlü bir adaydır.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-20",
+      "number": 20,
+      "topic": "Ruh Sağlığı ve Özel Eğitim",
+      "question": "Öğrenme güçlüğü tanısı almış öğrenciye; okuduğu metinde önemli bir yerin altını çizdirmenin, onun\naşağıdaki becerilerinden hangisinin gelişimini desteklediği söylenebilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Okuduğunu anlama"
+        },
+        {
+          "key": "B",
+          "text": "Okuma hızı"
+        },
+        {
+          "key": "C",
+          "text": "Okuma akıcılığı"
+        },
+        {
+          "key": "D",
+          "text": "Okuma doğruluğu"
+        },
+        {
+          "key": "E",
+          "text": "Okuma kalitesi"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Analiz: \"Önemli yerin altını çizmek\" bir üstbilişsel stratejidir.\n Neden? Birey, okuduğu metindeki ana fikri ve yardımcı fikirleri ayırt edebiliyorsa\n (yani anlıyorsa) altını çizebilir. Bu işlem, dikkatini anahtar kelimelere odaklamasını\n sağlar ve uzun süreli bellekte anlamlandırmayı (anlamayı) kolaylaştırır.",
+      "distractorAnalysis": "B-C-D: Hız, akıcılık ve doğruluk daha çok \"okuma mekaniği\" (dekoder) ile ilgilidir. Altını\n çizmek okumayı hızlandırmaz, aksine yavaşlatır ama derinleştirir.\n Senaryo (D için): \"Öğrencinin kelimeleri atlamadan ve harfleri karıştırmadan (b-d gibi)\n okuması üzerinde çalışılıyorsa\" bu Okuma Doğruluğu olurdu.",
+      "historicalNote": "Atıf: Özel eğitimde \"Disleksi\" belirtileri 2019 ve 2022'de soruldu.\n 2026 Notu: 2026'da \"Yönetici İşlev Bozuklukları\" (planlama, organize olma) ile Öğrenme\n Güçlüğü ilişkisi üzerinden daha teknik bir soru gelebilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-21",
+      "number": 21,
+      "topic": "Ruh Sağlığı ve Özel Eğitim",
+      "question": "Aşağıdakilerden hangisi kaynaştırma eğitiminin ilkelerinden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bütün bireyler öğrenebilir ve öğretilebilirdir."
+        },
+        {
+          "key": "B",
+          "text": "Karar verme sürecinde aileyle görüşülür."
+        },
+        {
+          "key": "C",
+          "text": "Her bireyin akranlarıyla birlikte aynı kurumda eğitim görme hakkı vardır."
+        },
+        {
+          "key": "D",
+          "text": "Kaynaştırma bir program dâhilinde verilen özel eğitim uygulamasıdır."
+        },
+        {
+          "key": "E",
+          "text": "Hizmetler bireyin gereksinimine göre değil, yetersizliğine göre planlanır."
+        }
+      ],
+      "answer": "E",
+      "explanation": "Analiz: Özel eğitimin ve kaynaştırmanın temel felsefesi \"Etiketleme değil, destekleme\"\n üzerine kuruludur.\n Akademik Temel: BEP (Bireyselleştirmiş Eğitim Programı) hazırlanırken\n öğrencinin tanısı (yetersizliği) bir veri olsa da, asıl odak noktası öğrencinin\n gereksinimleridir.\n Örneğin; iki öğrencinin de tanısı \"Hafif Düzey Zihinsel Yetersizlik\" olabilir ama\n birinin sosyal beceri gereksinimi fazlayken, diğerinin okuma-yazma gereksinimi\n fazladır. Planlama gereksinime göre yapılır.",
+      "distractorAnalysis": "A) Bütün bireyler öğrenebilir: Kaynaştırmanın insancıl temelidir. Kimse \"eğitilemez\"\n değildir.\n B) Aile katılımı: Özel eğitim mevzuatının ve kaynaştırmanın yasal zorunluluğudur.\n C) En az kısıtlayıcı ortam: Çocuğun akranlarından ayrılmadan eğitim alması ilkesidir.\n D) Programlı uygulama: Kaynaştırma sadece bir \"sınıfa koyma\" değil, planlı bir özel eğitim\n sürecidir.\n Senaryo (E'nin doğrusu için): \"Hizmetler planlanırken öğrencinin tıbbi tanısından ziyade,\n eğitim ortamında neye ihtiyaç duyduğu (yardımcı teknoloji, ek süre vb.) esas alınır\"\n denilseydi doğru olurdu.",
+      "historicalNote": "Atıf: 2018 ve 2020 yıllarında \"En az kısıtlayıcı eğitim ortamı\" kavramı doğrudan soruldu.\n 2026 Notu: 2026'da \"Tersine Kaynaştırma\" (Yetersizliği olmayanların, yetersizliği olanların\n okuluna gitmesi) veya \"Destek Eğitim Odası\"nın işleyişi sorulabilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-22",
+      "number": 22,
+      "topic": "Bireyi Tanıma ve Testler",
+      "question": "Bir okul psikolojik danışmanı, geçen yıl okul birincisi olan Hasan'ı sosyal becerileri açısından\ndeğerlendirmek amacıyla ona bir ölçek uygulamıştır. Okul psikolojik danışmanı, bu değerlendirmeyi\n\"Okul birincisinin sosyal becerileri de iyi olur.\" anlayışıyla yapmıştır.\nOkul psikolojik danışmanının uyguladığı bu ölçeğe aşağıdaki hata türlerinden hangisi\nkarışmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişisel yanlılık"
+        },
+        {
+          "key": "B",
+          "text": "Sabit hata"
+        },
+        {
+          "key": "C",
+          "text": "Hale etkisi"
+        },
+        {
+          "key": "D",
+          "text": "Anlam hatası"
+        },
+        {
+          "key": "E",
+          "text": "Cömertlik hatası"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Analiz: Hale Etkisi (Halo Effect), bireyin bir alandaki olumlu özelliğinin (okul birinciliği),\n onunla ilişkisiz diğer özelliklerine de (sosyal beceri) genellenmesidir.\n Anahtar Kelime: \"Biri iyiyse, her konuda iyidir.\" Danışman Hasan'ın akademik\n başarısından \"büyülenmiş\" ve sosyal becerisinin de otomatik olarak iyi olacağına\n hükmetmiştir.",
+      "distractorAnalysis": "A) Kişisel yanlılık: Puanlayıcının genel olarak herkese karşı çok katı (Horns etkisi) veya çok\n esnek olmasıdır.\n B) Sabit hata: Her ölçümde aynı miktarda (Örn: herkese +10 puan) yapılan hatadır.\n D) Anlam hatası: Gözlenen özellik ile puanlanan özelliğin anlam olarak birbirine\n karıştırılmasıdır.\n E) Cömertlik hatası: Puanlayıcının tanıdığı veya sevdiği kişilere hak ettiklerinden fazla\n puan vermesidir (Halo'dan farkı; burada bir özellikten diğerine genelleme değil, doğrudan\n yüksek puan verme eğilimi vardır).\n Senaryo (E için): \"Danışmanın, Hasan'ın babasıyla arkadaş olduğu için Hasan'ın puanlarını\n kasten yüksek girmesi\" Cömertlik/Kayırıcılık olurdu.",
+      "historicalNote": "Atıf: 2015'te \"Mantıksal Hata\", 2021'de ise \"Gözlem hataları\" genel başlığıyla soruldu.\n 2026 Notu: 2026'da \"Mantıksal Hata\" (Benzer iki kavramı birbiriyle karıştırma, örn: Zekayı\n sadece akademik başarı sanmak) ve \"Hale Etkisi\" arasındaki ince fark sorulabilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-23",
+      "number": 23,
+      "topic": "Bireyi Tanıma ve Testler",
+      "question": "Bir kurum, kurumun özelliklerine uygun kişileri belirlemek amacıyla adaylara kişilik testi\nuygulamıştır. Ancak test uygulaması yapılmadan önce bazı adaylar kurumun yapısı ve aradığı kişilik\nözellikleri hakkında bilgi edinmişlerdir. Test uygulamasında, sorulara önceden edindikleri bu\nbilgilere uygun cevaplar vermişlerdir.\nBuna göre kurumun uyguladığı kişilik testi sonuçlarına aşağıdaki hatalardan hangisi\nkarışmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sosyal kabul"
+        },
+        {
+          "key": "B",
+          "text": "Yanıltma"
+        },
+        {
+          "key": "C",
+          "text": "Cevapların kalıplaşması"
+        },
+        {
+          "key": "D",
+          "text": "Orta yol cevap verme"
+        },
+        {
+          "key": "E",
+          "text": "Toto oynama"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Analiz: Yanıltma (Faking), bireyin test sonuçlarını kasten manipüle etmesidir.\n İki türü vardır: İyi Görünme (Faking Good) ve Kötü Görünme (Faking Bad).\n Buradaki adaylar işe girmek için kurumun beklediği ideal profili öğrenmiş ve kasten\n kendilerini öyle göstermişlerdir. Bu bilinçli bir \"yanıltma\" eylemidir.",
+      "distractorAnalysis": "A) Sosyal kabul: Bireyin toplum tarafından \"ayıplanmamak\" için genel geçer doğrulara göre\n cevap vermesidir. Yanıltmaya çok yakındır ancak yanıltma daha \"stratejik ve amaca\n yöneliktir\" (işe girmek gibi).\n C) Cevapların kalıplaşması: Soruları okumadan hep aynı şıkkı (Örn: Hep C) işaretlemektir.\n D) Orta yol: Kararsız kalıp sürekli \"Fikrim yok / Kararsızım\" şıkkını seçmektir.\n E) Toto oynama: Soruları rastgele işaretlemektir.\n Senaryo (A için): \"Bireyin dürüstlükle ilgili bir soruda, aslında öyle yapmasa bile, 'toplumda\n dürüstlük değerlidir' diye düşünerek dürüstçe cevap vermesi\" Sosyal Kabul olurdu.",
+      "historicalNote": "Atıf: 2017'de \"Cevap Setleri\" (Response Sets) konusu kapsamında bu hatalar sorgulandı.\n 2026 Notu: Kişilik testlerindeki \"Yalan (L)\" skalasının amacı 2026'da soru olarak gelebilir.\n Bu skalalar tam olarak bu sorudaki \"yanıltma\"yı tespit etmek içindir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-24",
+      "number": 24,
+      "topic": "Bireyi Tanıma ve Testler",
+      "question": "İlgi envanterleriyle ilgili aşağıdakilerden hangisi söylenemez?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İlgi envanterleriyle belirlenen ilgiler bireyin yeteneklerinin de göstergesidir."
+        },
+        {
+          "key": "B",
+          "text": "İlgi envanterleriyle belirlenen ilgiler özellikle ergenlik yıllarında değişken bir nitelik gösterir."
+        },
+        {
+          "key": "C",
+          "text": "İlgi envanterleri belirli ilgi alanlarıyla sınırlı olduğundan uygun durumlarda bireye birden fazla\nilgi envanteri uygulanabilir."
+        },
+        {
+          "key": "D",
+          "text": "İlgi envanterleriyle belirlenen ilgilerin doğruluğunun test edilmesi amacıyla envanterin\nuygulandığı bireyle görüşme yapılmasında yarar vardır."
+        },
+        {
+          "key": "E",
+          "text": "Rehberlikte yöneltme faaliyetleri için bireyin ilgi duyduğu alandaki başarı durumunun da dikkate\nalınması doğru bir yaklaşımdır."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Analiz: Yıldız Kuzgun'un literatürdeki en keskin uyarısı şudur: İlgi ve Yetenek farklı\n şeylerdir.\n Bir şeyi yapmayı sevmek (İlgi), onu yapabilme gücüne sahip olmak (Yetenek)\n anlamına gelmez.\n Örneğin; bir çocuk piyano dinlemeyi ve çalmayı çok sevebilir (İlgi), ancak müzik\n kulağı veya parmak yapısı buna uygun olmayabilir (Yetenek). Dolayısıyla ilgi\n envanteri yeteneği kanıtlamaz.",
+      "distractorAnalysis": "B) Değişkenlik: Doğrudur. İlgiler 17-18 yaşlarına kadar kararsızdır, sonra kristalize olur.\n C) Birden fazla envanter: Doğrudur. Farklı envanterler farklı alanları (akademik, mesleki)\n ölçebilir.\n D) Görüşme: Doğrudur. Envanter sonuçları her zaman \"gözlem ve görüşme\" ile teyit\n edilmelidir.\n E) Başarı durumu: Doğrudur. Yöneltme yapılırken İlgi + Yetenek + Başarı (ve Değerler) bir\n bütün olarak ele alınmalıdır.\n Senaryo (B için): \"Mesleki ilgilerin en kararlı hale geldiği dönem hangisidir?\" deseydi cevap\n Genç Yetişkinlik (20'li yaşların başı) olurdu.",
+      "historicalNote": "Atıf: 2014, 2019 ve 2022'de \"İlgi, Yetenek ve Değer\" farkları defalarca soruldu.\n 2026 Notu: 2026'da \"Mesleki Değerler\" (Kazanç, Statü, Düzenli yaşam) üzerinden bir vaka\n sorusu gelmesi çok muhtemel. Unutma; değer, \"Ben bu işten ne bekliyorum?\" sorusunun\n yanıtıdır.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-25",
+      "number": 25,
+      "topic": "Bireyi Tanıma ve Testler",
+      "question": "Okul psikolojik danışmanı; problemli davranışları olan bir öğrencisinin aile yapısını, üç kuşak\nboyunca aile üyelerinin birbirleriyle temas sıklığı ve türünü, aile üyeleri arasındaki çatışma ve\nsorunları incelemek ister.\nOkul psikolojik danışmanının, bu durumda kullanması gereken en uygun teknik\naşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sosyometri"
+        },
+        {
+          "key": "B",
+          "text": "Genogram"
+        },
+        {
+          "key": "C",
+          "text": "Sosyal uzaklık ölçeği"
+        },
+        {
+          "key": "D",
+          "text": "Otobiyografi"
+        },
+        {
+          "key": "E",
+          "text": "Yaşam döngüsü"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Analiz: Aile Danışmanlığı ve Bireyi Tanıma literatüründe Genogram (Aile Ağacı/Soy\n Haritası); ailenin en az 3 kuşağını kapsayan, ilişkileri, hastalıkları, ölümleri ve çatışmaları\n sembollerle gösteren bir \"harita\"dır.\n Anahtar Kelimeler: \"Üç kuşak\", \"temas sıklığı\", \"çatışma\", \"aile yapısı\". Bowen'ın\n Kuşaklararası Aile Terapisi'nin temel aracıdır.",
+      "distractorAnalysis": "A) Sosyometri: Sınıf içindeki (akran grubu) sosyal ilişkileri, liderleri ve reddedilenleri\n belirler.\n C) Sosyal uzaklık ölçeği: Bir grubun başka bir gruba (Örn: mültecilere) olan kabul veya\n dışlama düzeyini ölçer (Bogardus).\n D) Otobiyografi: Bireyin kendi hayatını kendi ağzından yazmasıdır.\n E) Yaşam döngüsü: Ailenin geçtiği evreleri (Evlilik, çocuk doğumu, emeklilik vb.) ifade eden\n bir kavramdır, teknik değildir.\n Senaryo (A için): \"Sınıf öğretmeni, sınıfta kimlerin kimlerle arkadaşlık kurmak istediğini ve\n grubun liderini belirlemek istiyorsa\" cevap Sosyometri olurdu.",
+      "historicalNote": "Atıf: 2016 (bu soru), 2019 ve 2022'de Genogram ve Aile teknikleri soruldu.\n 2026 Notu: 2026'da \"Kimdir Bu?\" (Tahmin Etme) tekniği veya \"Sosyometrik Statüler\"\n (Popüler, İhmal Edilen, Reddedilen) üzerinden bir soru bekliyorum",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-26",
+      "number": 26,
+      "topic": "Bireyi Tanıma ve Testler",
+      "question": "Aşağıdakilerden hangisi, bireyi tanıma tekniklerinden “görüşme”nin diğer tekniklere göre avantajlı\nyönünü ifade etmektedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bireylerle yüz yüze yapılan görüşmelerde daha doğru bilgi toplanabilir."
+        },
+        {
+          "key": "B",
+          "text": "Görüşme yoluyla, en az anket yoluyla ulaşılabilecek sayıda örnekleme ulaşılabilir."
+        },
+        {
+          "key": "C",
+          "text": "Görüşmelerde standart bir dil ve yöntem kullanılır, puanlaması kolaydır."
+        },
+        {
+          "key": "D",
+          "text": "Yazılı bilgi toplama araçlarından elde edilemeyecek duygu ve eğilimler görüşmede elde\nedilebilir."
+        },
+        {
+          "key": "E",
+          "text": "Görüşme tekniği özellikle yetenek düzeylerinin altında başarı gösteren öğrencilerde işe\nyaramaktadır."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Analiz: Görüşme (mülakat), bireyin sadece ne söylediğine değil, nasıl söylediğine de\n odaklanan bir tekniktir.\n Akademik Temel: Yazılı araçlar (testler, anketler) \"ne\" sorusuna yanıt verirken;\n görüşme, bireyin ses tonu, jest ve mimikleri, duraksamaları gibi sözel olmayan\n mesajları da içerir. Bu sayede yazılı formlarda maskelenebilecek olan \"duygu, tutum\n ve eğilimler\" gün yüzüne çıkar. Görüşmenin en büyük üstünlüğü esnekliği ve\n derinliğidir.",
+      "distractorAnalysis": "A) Daha doğru bilgi: Yanlış. Görüşmede \"sosyal kabul hatası\" veya \"yalan söyleme\" ihtimali\n testlere göre daha yüksektir. \"Doğruluk\" kesin bir avantaj değildir.\n B) Örneklem sayısı: Yanlış. Görüşme çok zaman alır, bu yüzden geniş kitlelere (anket gibi)\n ulaşmak zordur.\n C) Standart dil ve kolay puanlama: Yanlış. Görüşme özneldir ve puanlaması (kodlanması)\n oldukça zordur.\n E) Başarı/Yetenek: Bu daha çok \"yetenek ve başarı testlerinin\" karşılaştırılmasıyla ilgili bir\n durumdur.\n Senaryo (C için): \"Hangi teknik herkes için aynı soruları, aynı sırada sormayı ve objektif\n puanlamayı hedefler?\" deseydi cevap Yapılandırılmış Görüşme veya Testler olurdu.",
+      "historicalNote": "Atıf: 2017'de görüşme türleri (yapılandırılmış-yapılandırılmamış) sorulmuştur.\n 2026 Notu: 2026'da \"Görüşme teknikleri\" içinde yansıtma ve ekleme soruları gibi spesifik\n soru türleri sorulabilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-27",
+      "number": 27,
+      "topic": "Grupla Psikolojik Danışma",
+      "question": "Aşağıdakilerden hangisi açık grupların özelliklerinden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gruba yeni katılan her üye için yapılandırma yapmak gerekir."
+        },
+        {
+          "key": "B",
+          "text": "Gruba yeni üye girişinde veya gruptan her üyenin ayrılışında gerileme veya direnç görülebilir."
+        },
+        {
+          "key": "C",
+          "text": "Terapötik güçlerin oluşması zaman alabilir."
+        },
+        {
+          "key": "D",
+          "text": "Gruba ihtiyacının kalmadığını düşünen bir üye, sürecin sonuna kadar gruba devam eder."
+        },
+        {
+          "key": "E",
+          "text": "Açık gruplarda her bir üye farklı oturumlarda sonlandırma yaşar."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Analiz: Açık Gruplar, üyelerin her an ayrılabildiği ve yerlerine yeni üyelerin gelebildiği\n gruplardır (Örn: Hastane grupları, AA grupları).\n Hata: Açık grupların temel mantığı \"ihtiyaca dayalı\" olmasıdır. Birey hedeflerine\n ulaştığında veya artık fayda görmediğinde gruptan ayrılır. \"Sürecin sonuna kadar\n bekleme\" zorunluluğu Kapalı Grupların bir özelliğidir (veya o bile bazen esnektir).",
+      "distractorAnalysis": "A) Yapılandırma: Doğru. Yeni gelen her üye kuralları ve işleyişi öğrenmelidir.\n B) Gerileme/Direnç: Doğru. Her yeni giriş veya çıkış, grubun dengesini (homeostazi) bozar\n ve üyelerde kaygı yaratabilir.\n C) Terapötik güçler: Doğru. Üyeler sürekli değiştiği için \"bağlılık\" (cohesion) oluşması\n kapalı gruplara göre daha zordur ve geç olur.\n E) Farklı oturumlarda sonlandırma: Doğru. Çünkü herkes farklı zamanlarda başlar ve\n bitirir.\n Senaryo (B için): \"Gruptaki bir üyenin ayrılmasından sonra diğer üyelerin sessizleşmesi ve\n güven sorunu yaşaması hangi kavramla açıklanır?\" deseydi cevap Direnç/Gerileme olurdu.",
+      "historicalNote": "Atıf: 2014 ve 2019'da \"Kapalı grupların avantajları\" üzerinden sorular gelmiştir.\n 2026 Notu: 2026'da açık-kapalı grup ayrımı yerine \"Yarı-açık\" (belirli zamanlarda üye kabul\n eden) grupların işleyişi sorulabilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-28",
+      "number": 28,
+      "topic": "Grupla Psikolojik Danışma",
+      "question": "Aşağıdakilerden hangisi bir psikolojik danışma grubunun planlanması sırasında yapılması\ngerekenlerden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Grup odasının uygun atmosferde olmasına dikkat edilir."
+        },
+        {
+          "key": "B",
+          "text": "Danışanların birbirleriyle göz teması kurabilecekleri bir oturma düzeni sağlanır."
+        },
+        {
+          "key": "C",
+          "text": "Karşıt transferansla baş etme yolları aranır."
+        },
+        {
+          "key": "D",
+          "text": "Üyelerin kişilik özellikleri bakımından heterojen olmasına özen gösterilir."
+        },
+        {
+          "key": "E",
+          "text": "Yoğun duygusal güçlüğü olan kişilerin gruba alınmamasına dikkat edilir."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Analiz: Soru bize \"Planlama/Hazırlık\" aşamasını soruyor.\n Neden Yanlış? Karşıt transferans (danışmanın danışana yönelik duyguları), grup\n başladıktan sonra, süreç içerisinde ortaya çıkan dinamik bir meseledir. Bu durum\n \"süpervizyon\" konusu olup, grup başlamadan önce planlanacak teknik bir \"hazırlık\"\n basamağı değildir.",
+      "distractorAnalysis": "A) Oda atmosferi: Teknik hazırlıktır (ışık, sessizlik vb.).\n B) Oturma düzeni: Teknik hazırlıktır (genelde halka düzeni).\n D) Heterojenlik: Planlamadır. Grup üyelerinin farklı sorunlara/karakterlere sahip olması\n zenginlik sağlar.\n E) Tarama (Screening): Planlamadır. Gruba uygun olmayan (Örn: ağır psikoz, kriz anındaki\n birey) kişiler seçilir.\n Senaryo (E için): \"Liderin grup başlamadan önce adaylarla tek tek görüşüp grubun amacına\n uygunluklarını denetlemesi nedir?\" deseydi cevap Üye Seçimi/Ön Görüşme olurdu.",
+      "historicalNote": "Atıf: 2018'de \"Grup üyelerinin seçimi\" kriterleri sorulmuştur.\n 2026 Notu: \"Homojen mi heterojen mi?\" tartışmasına dikkat! Genelde \"Kişilik/Sorun\"\n açısından heterojen, \"Gelişim düzeyi/Ego gücü\" açısından homojen gruplar idealdir. 2026'da\n bu ayrım sorulabilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-29",
+      "number": 29,
+      "topic": "Grupla Psikolojik Danışma",
+      "question": "Aşağıdakilerden hangisi grupla psikolojik danışma sürecinin başlangıç evresinde gözlenebilecek bir\ndurum değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Grup liderinin yapılandırma yapması"
+        },
+        {
+          "key": "B",
+          "text": "Üyelerin birbiriyle kaynaşmaya başlaması"
+        },
+        {
+          "key": "C",
+          "text": "Üyelerin davranışsal amaçlar belirlemesi"
+        },
+        {
+          "key": "D",
+          "text": "Üyelerin kaygı yaşaması"
+        },
+        {
+          "key": "E",
+          "text": "Üyeler arasında çatışmalar olması"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Analiz: Corey'e göre grup evreleri: 1. Başlangıç, 2. Geçiş, 3. Eylem (Çalışma), 4. Sonlandırma.\n Başlangıç Evresi: Güven arayışı, buzların erimesi ve kuralların (yapılandırma)\n belirlendiği evredir.\n Neden Yanlış? Üyeler arasındaki çatışmalar, güç savaşları ve direnç **\"Geçiş\n Evresi\"**nin (Storming) temel özelliğidir. Başlangıçta herkes \"nazik\" ve\n \"mesafeli\"dir.",
+      "distractorAnalysis": "A) Yapılandırma: Başlangıçta yapılır (Roller, gizlilik vb.).\n B) Kaynaşma: Başlangıcın temel hedefidir.\n C) Amaç belirleme: Üyeler \"Bu gruptan ne bekliyorum?\" sorusuna bu evrede yanıt arar.\n D) Kaygı: Çok doğaldır. \"Acaba ne olacak?\", \"Beni kabul edecekler mi?\" kaygısı ilk oturumun\n parçasıdır.\n Senaryo (E için): \"Üyelerin liderin otoritesini sorguladığı, alt gruplaşmaların başladığı ve\n duyguların sertleştiği evre hangisidir?\" deseydi cevap Geçiş Evresi olurdu.",
+      "historicalNote": "Atıf: 2015, 2020 ve 2022'de \"Geçiş Evresi\" ve \"Sonlandırma Evresi\" özellikleri soruldu.\n 2026 Notu: 2026'da \"Çalışma Evresi\"ndeki (3. evre) 'evrenselleşme' ve 'katarsis' gibi\n terapötik faktörlerin vaka içinde sorulmasını bekliyoruz.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-30",
+      "number": 30,
+      "topic": "Grupla Psikolojik Danışma",
+      "question": "Psikolojik danışman: \"Peki, Yeliz'in bu oturumda seni anlatmasından nasıl etkilendin?\"\nZeynep: \"Biraz daraldım, boğulur gibi oldum.\"\nPsikolojik danışman: \"Kendini başkasından dinlerken bunalıyorsun.\"\nZeynep: \"Evet, tuhaf oldum biraz.\"\nDoruk: \"Neden daralıyorsun? Bence anlamsız.\"\nPsikolojik danışman: \"Başkasıyla ilgili yorum yapmaktan kaçınmamız gerektiğini söylemiştim.\"\nBu psikolojik danışmanın kullandığı terapötik beceriler aşağıdakilerin hangisinde doğru\nsırayla verilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Konuşmaya açık davet - Asgari düzeyde teşvik - Kişiselleştirme"
+        },
+        {
+          "key": "B",
+          "text": "Konuşmaya açık davet - Duygu yansıtma - Yapılandırma"
+        },
+        {
+          "key": "C",
+          "text": "Paylaştırma - Özetleme - Bağlama"
+        },
+        {
+          "key": "D",
+          "text": "Paylaştırma - İçerik yansıtma - Kişiselleştirme"
+        },
+        {
+          "key": "E",
+          "text": "Asgari düzeyde teşvik - Duygu yansıtma - Kişiselleştirme"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Analiz:\n 1. \"Nasıl etkilendin?\": Ucu açık bir soruyla üyeyi paylaşmaya davet ediyor ->\n Konuşmaya açık davet.\n 2. \"Bunalıyorsun\": Üyenin \"daraldım, boğuldum\" ifadesindeki duyguyu yakalayıp ona\n geri veriyor -> Duygu yansıtma.\n 3. \"Yorum yapmaktan kaçınmamız gerektiğini söylemiştim\": Grubun kuralını\n hatırlatıyor ve sınırları çiziyor -> Yapılandırma.",
+      "distractorAnalysis": "A) Asgari düzeyde teşvik: \"Hı-hı\", \"Devam et\" gibi kısa ifadelerdir; burada tam bir cümle\n var.\n C) Bağlama: İki üyenin duygusu arasında köprü kurmaktır (Burada sadece Zeynep'e odaklı).\n D) Kişiselleştirme: \"Şu an ... hissediyorsun çünkü ...\" kalıbıyla anlam, duygu ve ihtiyacı\n birleştirmektir. Danışman burada sadece duyguyu yansıtmıştır.\n Senaryo (C için): \"Zeynep senin hissettiğin bu daralma hissini, geçen hafta Ahmet de\n yaşamıştı. İkiniz de başkaları sizi anlattığında benzer bir baskı mı hissediyorsunuz?\" deseydi\n cevap Bağlama olurdu.",
+      "historicalNote": "Atıf: 2017 ve 2021 yıllarında \"Bağlama\" ve \"Paylaştırma\" becerileri grupla danışma\n bağlamında sorulmuştur.\n 2026 Notu: \"Engelleme\" (Blocking) tekniğine dikkat! Danışmanın Doruk'un sözünü kesip\n kuralı hatırlatması aslında aynı zamanda bir \"engelleme\"dir. 2026'da bu teknik terim\n sorulabilir",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-31",
+      "number": 31,
+      "topic": "Grupla Psikolojik Danışma",
+      "question": "Bir okulda, rehberlik servisi veli toplantısı düzenlemiştir. Toplantıda okul psikolojik danışmanları\nbazı velilerle çocukları hakkında özel görüşme yapmışlardır. Bu görüşmede okul psikolojik\ndanışmanlarının yaklaşımı bazı velilerin dikkatini çekmiştir. Psikolojik danışmanlar sınıfta\n“yaramazlık” yapan bir öğrencinin velisine “Çocuğunuz biraz hareketli.” derken ödevlerini yapmayan\nve başarısız olan bir öğrencinin velisine ise “Çocuğunuzun sorumluluk duygusunu geliştirmeniz\ngerekiyor.” demiştir.\nPsikolojik danışmanların kullandığı bu konuşma tarzı iletişimde aşağıdakilerden hangisiyle\nadlandırılmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Öz saygı geliştirici dil"
+        },
+        {
+          "key": "B",
+          "text": "Tam mesaj yollama"
+        },
+        {
+          "key": "C",
+          "text": "Duygu yansıtma"
+        },
+        {
+          "key": "D",
+          "text": "Ben dili"
+        },
+        {
+          "key": "E",
+          "text": "Kazan-kazan yöntemi"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Analiz: İletişim psikolojisinde (Cüceloğlu, Gordon), Öz Saygı Geliştirici Dil, bireyin\n kişiliğine saldırmadan, durumu veya davranışı tanımlayan; bireyin kendisini değersiz\n hissetmesini engelleyen yapıcı bir dildir.\n Neden doğru? Danışman, \"yaramaz\" diyerek çocuğu etiketlemek yerine \"hareketli\"\n diyerek durumu betimlemiştir. \"Başarısız\" demek yerine \"sorumluluk duygusunun\n gelişmesi gerekiyor\" diyerek geliştirilebilir bir alana vurgu yapmıştır. Bu yaklaşım\n velinin (ve dolaylı olarak çocuğun) savunmaya geçmesini engeller ve öz saygısını\n korur.",
+      "distractorAnalysis": "B) Tam mesaj yollama: Bir mesajın; gözlem, düşünce, duygu ve ihtiyaç basamaklarının\n tamamını içermesidir. (Örn: \"Ödevlerini yapmadığını görüyorum, bu beni endişelendiriyor\n çünkü başarılı olmanı istiyorum, lütfen plan yapalım\").\n C) Duygu yansıtma: Karşıdakinin hissettiği duyguyu ona geri vermektir. (\"Çocuğunuzun\n başarısızlığı sizi üzüyor\").\n D) Ben dili: Kişinin kendi duygularını ve davranışın üzerindeki etkisini ifade etmesidir. (\"Bu\n davranışın beni yoruyor\").\n E) Kazan-kazan: Çatışma çözme yöntemidir; her iki tarafın da ihtiyacının karşılandığı bir\n çözümdür.\n Senaryo (D için): \"Veliye, 'Çocuğunuzun bu davranışları ders işlememi zorlaştırıyor ve bu\n durum beni endişelendiriyor' deseydi\" cevap Ben Dili olurdu.",
+      "historicalNote": "Atıf: 2015 ve 2019'da \"Öz saygı zedeleyici dil\" (Sen dili, etiketleme vb.) üzerinden sorular\n gelmiştir.\n 2026 Notu: 2026'da \"Kapı aralayıcılar\" veya \"Edilgin dinleme\" gibi iletişim engellerini aşma\n teknikleri sorulabilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-32",
+      "number": 32,
+      "topic": "Kariyer Danışmanlığı",
+      "question": "I. Çocukluğundan beri matematiğe düşkün olan ve iyi bir matematikçi olacağına inanan Altan\nüniversiteye giriş sınavından çok yüksek puan almıştır.\nII. Ailesinin, tıp fakültesini tercih etmesi konusundaki ısrarlarına rağmen vazgeçmeyip matematik\nbölümünü tercih etmiştir.\nBuna göre Altan, yetkinlik algısının aşağıdaki boyutlarından sırasıyla hangisinde iyidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Düzey - Genellik"
+        },
+        {
+          "key": "B",
+          "text": "Düzey - Güç"
+        },
+        {
+          "key": "C",
+          "text": "Genellik - Güç"
+        },
+        {
+          "key": "D",
+          "text": "Güç - Genellik"
+        },
+        {
+          "key": "E",
+          "text": "Genellik - Düzey"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "distractorAnalysis": "",
+      "historicalNote": "Atıf: Bandura'nın öz-yetkinlik kaynakları (Performans başarıları, dolaylı yaşantılar vb.)\n 2017 ve 2021'de sorulmuştur.\n 2026 Notu: 2026'da öz-yetkinliğin 4 temel kaynağı (Doğrudan yaşantılar, Sözel ikna vb.) bir\n vaka üzerinden sorulacaktır. Unutma; en etkili kaynak \"Doğrudan yaşantılar/Performans\n başarıları\"dır!",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-33",
+      "number": 33,
+      "topic": "Kariyer Danışmanlığı",
+      "question": "Cinsiyetin meslek seçimi üzerindeki etkisini inceleyen bir araştırmacı, çalışmasında aşağıdaki\nkuramlardan hangisine mutlaka yer vermelidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Roe'nun ihtiyaç kuramı"
+        },
+        {
+          "key": "B",
+          "text": "Parsons'ın özellik-faktör kuramı"
+        },
+        {
+          "key": "C",
+          "text": "Holland'ın tipoloji kuramı"
+        },
+        {
+          "key": "D",
+          "text": "Lent ve arkadaşlarının sosyal bilişsel kariyer kuramı"
+        },
+        {
+          "key": "E",
+          "text": "Gottfredson'ın daraltma-uzlaşma kuramı"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Analiz: Linda Gottfredson'ın kuramı, kariyer gelişiminde **\"Cinsiyet Rolleri\"**ni merkeze\n alan tek ana akım kuramdır.\n Gelişim Evreleri: 2. aşama (6-8 yaş) \"Cinsiyet Rollerine Yönelim\" evresidir.\n Çocuklar bu yaşta meslekleri \"kadın işi\" ve \"erkek işi\" olarak daraltmaya başlarlar.\n Dolayısıyla cinsiyet değişkenini çalışan bir araştırmacı için Gottfredson\n vazgeçilmezdir.",
+      "distractorAnalysis": "A) Roe: Çocukluktaki anne-baba tutumları ve psikolojik ihtiyaçlara odaklanır.\n B) Parsons: Birey ile işin özelliklerini eşleştirmeye odaklanır (Eşleştirme kuramı).\n C) Holland: Kişilik tipleri (RIASEC) ve çevre uyumuna odaklanır.\n D) Lent (SBKK): Öz-yetkinlik, sonuç beklentileri ve kişisel hedeflere odaklanır.\n Senaryo (A için): \"Bir araştırmacı, aşırı koruyucu ailelerde yetişen çocukların neden insan\n odaklı (hizmet vb.) mesleklere yöneldiğini merak ediyorsa\" cevap Roe olurdu.",
+      "historicalNote": "Atıf: 2018 ve 2022 yıllarında Gottfredson'ın \"Daraltma\" (Circumscription) ve \"Uzlaşma\"\n (Compromise) kavramları sorulmuştur.\n 2026 Notu: \"Bilişsel Harita\" ve \"Prestij\" kavramlarına dikkat! Çocukların meslekleri\n prestijine göre daralttığı 3. aşama (9-13 yaş) 2026'nın favori sorusu olabilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-34",
+      "number": 34,
+      "topic": "Kariyer Danışmanlığı",
+      "question": "Super'ın \"Yaşam Boyu Yaşam Alanı Kuramı\"nda benliğin objektif yanıyla ilgili olan, kariyer\nseçenekleriyle eşleştirmede ve uyum sonuçlarının yordanmasında kullanılan kavram\naşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kariyer örüntüleri"
+        },
+        {
+          "key": "B",
+          "text": "Kalıp yargılar"
+        },
+        {
+          "key": "C",
+          "text": "Mesleki kimlik"
+        },
+        {
+          "key": "D",
+          "text": "Benlik tasarımı"
+        },
+        {
+          "key": "E",
+          "text": "Kariyer olgunluğu"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Analiz: Donald Super'ın kuramında iki temel benlik kavramı vardır:\n 1. Benlik Tasarımı (Self-Concept): Sübjektiftir. Bireyin \"Ben kimim?\" sorusuna\n verdiği içsel cevaptır.\n 2. Mesleki Kimlik (Vocational Identity): Objektiftir. Dışarıdan gözlenebilen\n yetenekler, ilgiler ve kişilik özelliklerinin birleşimidir. Kariyer eşleştirmelerinde\n ölçülebilen ve yordanabilen bu \"objektif\" yan mesleki kimliktir.",
+      "distractorAnalysis": "A) Kariyer örüntüleri: Bireyin yaşam boyu çalıştığı işlerin hiyerarşisi ve türüdür (istikrarlı,\n değişken vb.).\n D) Benlik tasarımı: Kişinin kendi hakkındaki \"öznel\" algısıdır (Soru objektif yanı soruyor).\n E) Kariyer olgunluğu: Bireyin içinde bulunduğu gelişim döneminin kariyer görevlerini\n yerine getirme derecesidir.\n Senaryo (E için): \"8. sınıf öğrencisi bir çocuğun, lise türlerini araştırması ve ilgi alanlarını\n tanımaya çalışması hangi kavramla açıklanır?\" deseydi cevap Kariyer Olgunluğu olurdu.",
+      "historicalNote": "Atıf: 2014, 2017 ve 2021 yıllarında Super'ın \"Gelişim Basamakları\" (Büyüme, Araştırma,\n Yerleşme vb.) sorulmuştur.\n 2026 Notu: Super'ın \"Yaşam Rolleri\" (Çocuk, Öğrenci, Boş zaman değerlendiren, Vatandaş,\n Çalışan, Ev geçindiren) ve \"Gökkuşağı Modeli\" 2026 için çok güçlü bir adaydır.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-35",
+      "number": 35,
+      "topic": "Kariyer Danışmanlığı",
+      "question": "Meslek seçimi, kişiliğin ifadesidir.\n İlgi envanterleri aynı zamanda kişilik envanterleridir.\n Bir mesleğin üyeleri benzer kişilik özelliklerine ve öz geçmişe sahiptir.\n Mesleki doyum, meslekte karar kılma ve başarılı olma; bireyin kişiliği ile bulunduğu çevre\narasındaki bağdaşıma bağlıdır.\nSıralanan bu ilkeler aşağıdaki kuramlardan hangisine aittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tipoloji (Holland)"
+        },
+        {
+          "key": "B",
+          "text": "Karar (Tiedeman)"
+        },
+        {
+          "key": "C",
+          "text": "Özellik-faktör (Parsons)"
+        },
+        {
+          "key": "D",
+          "text": "Psikanalitik (Bordin)"
+        },
+        {
+          "key": "E",
+          "text": "İşe uyum (Lofquist & Dawis)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Analiz: Bu maddeler John Holland'ın \"Tipoloji Kuramı\"nın temel sayıltılarıdır.\n Holland'a göre insanlar 6 tip (Gerçekçi, Araştırmacı, Sanatçı, Sosyal, Girişimci,\n Geleneksel) içine girer.\n \"Meslek seçimi kişiliğin yansımasıdır\" ifadesi Holland'ın mottosudur. Birey,\n kişiliğine uygun (congruence) çevreyi arar.",
+      "distractorAnalysis": "B) Tiedeman: Kariyer seçimini bir \"karar verme süreci\" olarak ele alır (Bekleme ve\n Uygulama evreleri).\n C) Parsons: Daha statiktir. \"Bireyi tanı, işi tanı, ikisini eşleştir\" der. Kişilik tiplerinden bu\n kadar detaylı bahsetmez.\n D) Psikanalitik: Meslek seçimini yüceltme (sublimation) mekanizması ve içgüdülerle\n açıklar.\n E) İşe uyum: İşten memnuniyet (satisfaction) ve işin kişiden memnuniyeti (satisfactoriness)\n arasındaki dengeye odaklanır.\n Senaryo (E için): \"Bireyin yeteneklerinin işin gereklerini karşılaması (Yeterlilik) ile işin\n sunduğu ödüllerin bireyin ihtiyaçlarını karşılaması (Tatmin) arasındaki ilişkiyi inceleyen\n kuram...\" deseydi cevap İşe Uyum olurdu.",
+      "historicalNote": "Atıf: Holland, ÖSYM'nin \"en çok sorduğu\" kariyer kuramcısıdır (Hemen hemen her yıl bir\n soru gelir).\n 2026 Notu: 2026'da \"Tutarlılık\" (Consistency) ve \"Ayırt Etme\" (Differentiation) kavramları\n sorulabilir. Altıgen üzerindeki komşu tiplerin benzerliği tutarlılıktır; bir tipin çok baskın\n olması ayırt etmedir",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-36",
+      "number": 36,
+      "topic": "Araştırma ve İstatistik",
+      "question": "Aşağıdakilerden hangisi gerçek süreksiz bir değişkendir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ağırlık"
+        },
+        {
+          "key": "B",
+          "text": "Başarı"
+        },
+        {
+          "key": "C",
+          "text": "Cinsiyet"
+        },
+        {
+          "key": "D",
+          "text": "Tutum"
+        },
+        {
+          "key": "E",
+          "text": "Zekâ"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Analiz: Ölçme ve değerlendirmede değişkenler yapılarına göre ikiye ayrılır:\n 1. Sürekli Değişken: İki değer arasında sonsuz sayıda değer alabilen, genellikle\n ondalıklı olarak ifade edilebilen değişkenlerdir (Örn: Boy, kilo, yaş).\n 2. Süreksiz (Nitel/Kategorik) Değişken: Sadece tam sayılarla ifade edilen veya\n sınıflara ayrılan, araya başka değerlerin giremediği değişkenlerdir.\n Neden Cinsiyet? Cinsiyet (Kadın-Erkek), üzerinde matematiksel işlem yapılamayan,\n sadece kategorize edilen ve \"orta değer\" almayan gerçek süreksiz bir değişkendir.",
+      "distractorAnalysis": "A) Ağırlık: Sürekli değişkendir. 70,5 kg gibi değerler alabilir.\n B) Başarı: Sürekli kabul edilir (Puan bazında). 75,5 puan alınabilir.\n D) Tutum: Psikolojik bir özellik olarak sürekli kabul edilir; bireyin tutumu \"hiç\" ile \"çok\"\n arasında bir noktadadır.\n E) Zekâ: Psikolojik bir değişkendir ve ölçek üzerinde sürekli kabul edilir (IQ puanları).\n Senaryo (B için): \"Eğer başarıyı sadece 'Geçti-Kaldı' olarak sınıflandırsaydık, bu durum\n yapay süreksiz bir değişken olurdu.\"",
+      "historicalNote": "Atıf: 2014 ve 2018 yıllarında \"Bağımlı-Bağımsız Değişken\" ayrımı sorulmuştur.\n 2026 Notu: 2026'da \"Yapay Süreksiz\" (Sürekliyken sonradan kategoriye ayrılan, örn: boyun\n 'uzun-kısa' denmesi) ile \"Gerçek Süreksiz\" farkı sorulabilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-37",
+      "number": 37,
+      "topic": "Araştırma ve İstatistik",
+      "question": "Aşağıdakilerden hangisi bir psikolojik testin yapı geçerliği kanıtı olarak kesinlikle kullanılabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ölçeğin, depresyon özelliği gösteren bireylerle göstermeyen bireyleri birbirinden ayırt\nettiği görülmüştür."
+        },
+        {
+          "key": "B",
+          "text": "İlk uygulamayla 20 gün sonraki ikinci uygulamada ölçekten elde edilen puanlar arasında 0,67\nkorelasyon belirlenmiştir."
+        },
+        {
+          "key": "C",
+          "text": "Eşdeğer yarılar güvenirlik katsayısı 0,86 olarak bulunmuştur."
+        },
+        {
+          "key": "D",
+          "text": "Ölçeğin alt ölçekleri için elde edilen Cronbach α katsayıları 0,72 ile 0,87 arasında bulunmuştur."
+        },
+        {
+          "key": "E",
+          "text": "Ölçeğin orijinal formu alanda uzman ve iyi derecede İngilizce bilen üç öğretim üyesi tarafından\nTürkçeleştirilmiştir."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Analiz: Yapı Geçerliği, bir testin ölçmeyi amaçladığı teorik yapıyı (Örn: Depresyon) ne\n derece doğru ölçtüğüdür.\n Neden doğru? \"Zıt Gruplar Yöntemi\" (Known-groups method) yapı geçerliği\n kanıtıdır. Eğer bir depresyon testi, doktor tanısı almış depresyon hastaları ile sağlıklı\n bireyleri birbirinden net şekilde ayırabiliyorsa, bu o testin \"depresyon\" yapısını\n doğru şekilde ayırt ettiğini, yani yapı geçerliğinin olduğunu kanıtlar.",
+      "distractorAnalysis": "B) Test-Tekrar Test: Bu bir güvenirlik kanıtıdır (İstikrarlılık/Kararlılık).\n C) Eşdeğer Yarılar: Bu bir güvenirlik kanıtıdır (İç tutarlılık).\n D) Cronbach Alfa: Bu da bir güvenirlik kanıtıdır (Ölçek maddelerinin birbirine benzerliği).\n E) Dil Geçerliği: Testin çevirisinin doğruluğuyla ilgilidir, yapı geçerliğini doğrudan\n kanıtlamaz.\n Senaryo (B için): \"Bir testin zamana karşı dirençli olup olmadığını anlamak için neye\n bakılır?\" deseydi cevap B olurdu.",
+      "historicalNote": "Atıf: Geçerlik türleri (Kapsam, Yordanm, Yapı) her yıl mutlaka bir soru olarak gelir (2017,\n 2019, 2021).\n 2026 Notu: 2026'da \"Yordama Geçerliği\" (Bugünkü puanla gelecekteki başarının tahmini)\n veya \"Kapsam Geçerliği\"nin (Belirtke tablosu) sorulması çok yüksek ihtimaldir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-38",
+      "number": 38,
+      "topic": "Araştırma ve İstatistik",
+      "question": "Aşağıdakilerden hangisi “gelişimsel yaklaşım odaklı” çalışan bir okul psikolojik danışmanının\nçalışma tarzına uygun değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dönemin başında, yapacağı çalışmaların programlarını hazırlamak"
+        },
+        {
+          "key": "B",
+          "text": "Bilgilendirme hizmetini temel alan bir rehberlik programı oluşturmak"
+        },
+        {
+          "key": "C",
+          "text": "Yaptığı faaliyetleri değerlendirme çalışmaları yapmak"
+        },
+        {
+          "key": "D",
+          "text": "Rehberlik hedeflerini öğretim programlarıyla bütünleştirmeye gayret etmek"
+        },
+        {
+          "key": "E",
+          "text": "Rehberlik çalışmalarına okuldaki ilgili kişileri dâhil etmeye özen göstermek"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Analiz: Gelişimsel Rehberlik Modeli (Asca, Myrick), sadece bilgi vermeye değil, bireyin\n tüm gelişim alanlarına (sosyal, duygusal, kariyer, akademik) odaklanır.\n Neden Yanlış? Bilgilendirme hizmetini (Information-giving) merkeze almak, eski tip\n \"Hizmetler Modeli\"ne veya \"Parsonsian (Özellik-Faktör)\" yaklaşıma aittir. Gelişimsel\n model ise kapsamlıdır; sadece bilgi vermez, beceri kazandırır ve proaktiftir.",
+      "distractorAnalysis": "A) Planlılık: Gelişimsel rehberlik programlı ve planlıdır.\n C) Değerlendirme: Programın etkili olup olmadığını anlamak için kanıta dayalı çalışır.\n D) Müfredatla bütünleşme: Rehberlik müfredatın bir parçasıdır (Rehberlik saatleri vb.).\n E) İş birliği (Müşavirlik): Öğretmen, veli ve yönetici sürecin içindedir.\n Senaryo (E için): \"Rehberlik hizmetlerini sadece uzmanın odasında değil, tüm okulun ortak\n çabası olarak gören yaklaşım hangisidir?\" deseydi cevap Gelişimsel Model olurdu.",
+      "historicalNote": "Atıf: Gelişimsel Rehberlik ve Geleneksel Rehberlik farkı 2015, 2018 ve 2022'de soruldu.\n 2026 Notu: 2026'da \"Kapsamlı Psikolojik Danışma ve Rehberlik Programı\"nın (KPDMP)\n dört temel öğesi (Rehberlik müfredatı, Bireysel planlama, Müdahale hizmetleri, Sistem\n desteği) sorulabilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-39",
+      "number": 39,
+      "topic": "Araştırma ve İstatistik",
+      "question": "Psikolojik danışma sürecinde, danışan-danışman ilişkisinde aşağıdakilerden hangisi, danışman\naçısından kabul edilebilir bir davranıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Üç gün öncesinden iptal edilen bir randevudan ücret talep etme"
+        },
+        {
+          "key": "B",
+          "text": "Danışanı kıramayarak onunla öğle yemeğine çıkma"
+        },
+        {
+          "key": "C",
+          "text": "Danışanın göndermiş olduğu yeni yıl kartını kabul etme"
+        },
+        {
+          "key": "D",
+          "text": "Danışma süreci bitiminde danışanla nişanlanma"
+        },
+        {
+          "key": "E",
+          "text": "Danışana evini dekore ettirme"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Analiz: Etik ilkelerde Çoklu İlişkiler ve Sınırlar konusu çok hassastır.\n Neden doğru? Kültürel bağlamda, maddi değeri olmayan, sembolik bir tebrik kartı\n veya küçük bir hediyeyi (bir elma, bir çiçek) kabul etmek, terapötik ittifakı bozmaz;\n aksine reddetmek ilişkiye zarar verebilir. Bu, \"etik dışı bir menfaat\" olarak görülmez.",
+      "distractorAnalysis": "A) Ücret politikası: Genelde son 24 saat içindeki iptallerde ücret alınabilir ama 3 gün\n öncesinden iptal için ücret istemek (Türkiye şartlarında ve okul bağlamında) etik olarak\n tartışmalıdır ve katıdır.\n B-D-E: Bunların tamamı \"İkili İlişki\" (Dual Relationship) hatasıdır. Danışanla sosyal,\n romantik veya ticari bir ilişkiye girmek kesinlikle etik dışıdır.\n Senaryo (B için): \"Danışmanın, danışanıyla terapi dışında arkadaşlık kurması hangi etik\n kuralın ihlalidir?\" deseydi cevap İkili/Çoklu İlişkiler olurdu.",
+      "historicalNote": "Atıf: 2017 ve 2020'de \"Sınır İhlalleri\" ve \"Hediye Kabulü\" üzerine sorular gelmiştir.\n 2026 Notu: 2026'da \"Teknoloji kullanımı ve Etik\" (WhatsApp üzerinden danışma, sosyal\n medyada takipleşme) konusu güncel bir soru olarak karşımıza çıkabilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-40",
+      "number": 40,
+      "topic": "Etik ve Danışma Becerileri",
+      "question": "Bir ortaokulda okul psikolojik danışmanı olarak çalışan Esra Hanım, aşağıdaki durumların\nhangisinde hem yasal hem de etik bir konu olan gizlilik ilkesine aykırı davranmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hafta sonları trafikte mendil satarken gördüğü bir öğrencinin durumu hakkında ilgili kurama bilgi\nvermiştir."
+        },
+        {
+          "key": "B",
+          "text": "Uyuşturucu madde kullandığını tespit ettiği bir öğrenciyi yetkililere bildirmiştir."
+        },
+        {
+          "key": "C",
+          "text": "Okulda sözel zorbalık yapan öğrencinin danışma kayıtlarını okul müdürüne vermiştir."
+        },
+        {
+          "key": "D",
+          "text": "Ailesi boşanmak üzere olan öğrencinin bilgilerini, mahkemenin talebi üzerine mahkemeye\ngöndermiştir."
+        },
+        {
+          "key": "E",
+          "text": "Öğrencinin izniyle, bazı bilgilerini sınıf rehber öğretmeniyle paylaşmıştır."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Analiz: Psikolojik danışma kayıtları (terapi notları) kişiye özeldir ve yüksek düzeyde\n gizlilik gerektirir.\n Neden Yanlış? Okul müdürü, idari amir olsa dahi danışanın özel görüşme kayıtlarını\n görme hakkına sahip değildir. Bu notların paylaşılması danışanın mahremiyetini\n ihlal eder ve danışma sürecine duyulan güveni yok eder. Bu hem meslek etiğine hem\n de KVKK gibi yasal düzenlemelere aykırıdır.",
+      "distractorAnalysis": "A) Çocuk İşçiliği: İhmal ve istismar şüphesi varsa bildirim zorunludur (Yasal zorunluluk).\n B) Madde Kullanımı: Türk Ceza Kanunu ve etik kurallar uyarınca \"kendine zarar verme\n riski\" ve \"suç bildirimi\" kapsamında bildirilmelidir.\n D) Mahkeme Kararı: Yargı kararı, gizliliğin yasal sınırıdır. Hakim talep ederse bilgi verilir.\n E) İzin: Danışanın (veya velisinin) açık rızası varsa bilgi paylaşımı ihlal sayılmaz.\n Senaryo (B için): \"Bir öğrencinin kendine zarar vereceğini söylemesi durumunda\n danışmanın gizliliği bozması hangi kavramla açıklanır?\" deseydi cevap Hayati Tehlike /\n Bildirim Yükümlülüğü olurdu.",
+      "historicalNote": "Atıf: Gizliliğin sınırları 2016, 2019 ve 2021'de defalarca soruldu.\n 2026 Notu: 2026'da \"Cinsel İstismar şüphesinde bildirim yükümlülüğü ve yaş sınırları\"\n üzerine çok kritik bir soru gelebilir. Unutma; istismar şüphesi varsa \"kanıt aranmaksızın\"\n bildirim yapılır",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-41",
+      "number": 41,
+      "topic": "Etik ve Danışma Becerileri",
+      "question": "Okul Psikolojik Danışmanı Tayfun Bey'e başvuran Oya, yaşadığı problemlerinin nedeni olarak\nannesini görmekte ve sürekli onu suçlamaktadır. Bunun üzerine Tayfun Bey, danışma odasına\nkarşılıklı iki sandalye koyarak bunlardan birine Oya'yı oturtur. Oya'dan, oturduğu sandalyeden\nkarşıdaki sandalyeye bakarak annesine yönelik görüşlerini ifade etmesini ister. Sonra da\nkarşısındaki sandalyeye oturtur ve az önceki sandalyede otururken ifade ettiği görüşler\ndoğrultusunda annesi olarak cevap vermesini ister. Sandalye değişimi devam ettirilerek diyalog\nsürdürülür.\nOkul psikolojik danışmanının kullandığı bu teknik aşağıdaki psikolojik danışma\nkuramlarından hangisine aittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gestalt"
+        },
+        {
+          "key": "B",
+          "text": "Davranışçı"
+        },
+        {
+          "key": "C",
+          "text": "Sosyal öğrenme"
+        },
+        {
+          "key": "D",
+          "text": "Kültüre dayalı"
+        },
+        {
+          "key": "E",
+          "text": "Akılcı-duygusal"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Analiz: Soru metninde anlatılan teknik, Gestalt Terapi'nin (Fritz Perls) en meşhur\n tekniklerinden biri olan Boş Sandalye (Empty Chair) ve Rol Değişimi tekniğidir.\n Neden doğru? Gestalt'ta amaç, \"bitmemiş işleri\" (unfinished business) şimdi ve\n burada çözümlemek, bireyin kendi içindeki çatışan yanlarını (Alt köpek-Üst köpek)\n veya bir başkasıyla olan çatışmasını bütünleştirmektir. Oya'nın annesiyle olan\n çatışmasını, sanki annesi oradaymış gibi yaşantılaması tam olarak bu kuramın\n \"yaşantısal\" doğasına uyar.",
+      "distractorAnalysis": "B) Davranışçı: Daha çok maruz bırakma (ev ödevleri), gevşeme egzersizleri veya pekiştirme\n üzerine odaklanır.\n C) Sosyal öğrenme: Model alma ve gözlem üzerine kuruludur.\n E) Akılcı-duygusal (REBT): Ellis'in yaklaşımıdır. Daha çok mantıksız inançları (A-B-C\n modeli) tartışmaya (dispute) odaklanır; bu kadar yaşantısal/tiyatral teknikler öncelikli\n değildir.\n Senaryo (E için): \"Tayfun Bey, Oya'nın 'Annem beni sevmek zorunda' şeklindeki\n mutlakiyetçi inancını saptayıp bunun mantıklı olup olmadığını tartışsaydı\" cevap REBT\n olurdu.",
+      "historicalNote": "Atıf: 2015, 2018 ve 2022'de Gestalt'ın \"Şimdi ve Burada\", \"Farkındalık\" ve \"Temas Engelleri\"\n (Yansıtma, İçe Atım) kavramları sorulmuştur.\n 2026 Notu: 2026'da \"Temas Engelleri\"nden İçe Atım (Introjection) veya Saptırma\n (Deflection) bir vaka üzerinden gelebilir. Unutma; Gestalt'ta \"Neden?\" sorusu sorulmaz,\n \"Nasıl?\" ve \"Şu an ne hissediyorsun?\" soruları sorulur.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-42",
+      "number": 42,
+      "topic": "Etik ve Danışma Becerileri",
+      "question": "Onbirinci sınıf öğrencisi Ceyda, okul psikolojik danışmanına giderek \"Sınıf arkadaşlarım bana çok\nkötü davranıyorlar, beni sık sık tersliyorlar. Sınıfta yalnız kalmamak için onlara tepki göstermiyorum\nama bu durumu ne kadar sürdürebileceğimi bilmiyorum. Bununla ilgili sizin ne düşündüğünüzü\nöğrenmek istiyorum.\" demiştir.\nAşağıdakilerden hangisi okul psikolojik danışmanının bu durumda verebileceği uygun bir\nsaydamlık tepkisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kendini bu kadar ezdirmeni sana hiç yakıştıramadım. Bir yetişkin olduğunda da kendini ezdirirsin\ndiye korkuyorum."
+        },
+        {
+          "key": "B",
+          "text": "Senin böyle bir şey yaşayacağını tahmin etmezdim. O kadar özgüven sahibi gibi\nduruyorsun ki bu senin başına hiç gelmez diye düşünürdüm."
+        },
+        {
+          "key": "C",
+          "text": "Bu durum herkesin başına gelebilir. Benim de gelebilir. Önemli olan değiştirmek için çaba sarf\netmek."
+        },
+        {
+          "key": "D",
+          "text": "Yaşadıklarına çok üzüldüm ve biraz şaşırdım. Okulda bu tür sorunların yaşanmadığını\ndüşünüyordum."
+        },
+        {
+          "key": "E",
+          "text": "Bu yaşlarda herkes benzer şeyler yaşıyor. Zamanla bunlar geçiyor, daha saygılı ve ilgili\narkadaşlıklar kuruyorsun."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Resmî ÖSYM anahtarına göre doğru cevap D seçeneğidir. Saydamlık, danışmanın o anda yaşadığı duyguyu dürüst, ölçülü ve danışana zarar vermeyecek biçimde paylaşmasıdır. “Üzüldüm ve biraz şaşırdım” ifadesi danışmanın kendi yaşantısını açıkça ortaya koyar.",
+      "distractorAnalysis": "A yargılayıcı ve geleceğe ilişkin olumsuz kehanet içerir. B danışanı şaşırtıcı biçimde etiketler. C genelleyici bir bilgi verme, E ise güvence verme ve genellemedir.",
+      "historicalNote": "Atıf: Rogers'ın üç temel koşulu (Empati, Saydamlık, Koşulsuz Kabul) 2014-2023 arası en az 5\n kez soruldu.\n 2026 Notu: 2026'da \"Gelişmiş Empati\" (Danışanın söylemediği ama ima ettiği derin\n duyguyu yakalamak) sorulabilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-43",
+      "number": 43,
+      "topic": "Etik ve Danışma Becerileri",
+      "question": "Üniversite öğrencisi Akif yıl sonu sınavlarına hazırlanarak girmiş ve sadece bir sınavı istediği gibi\ngeçmemiştir. Bununla birlikte Akif, \"Kesin kalacağım.\", \"Ya okulum bir yıl uzarsa?\" gibi cümlelerle\nkendi kendine söylenmektedir.\nAkif aşağıdaki bilişsel çarpıtma türlerinden hangisini kullanmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Seçici soyutlama"
+        },
+        {
+          "key": "B",
+          "text": "Kişiselleştirme"
+        },
+        {
+          "key": "C",
+          "text": "Kutuplaşmış düşünce"
+        },
+        {
+          "key": "D",
+          "text": "Abartma"
+        },
+        {
+          "key": "E",
+          "text": "Yanlış etiketleme"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Resmî ÖSYM anahtarına göre doğru cevap A seçeneğidir. Seçici soyutlamada kişi bütünün içinden tek bir olumsuz ayrıntıyı seçip değerlendirmesini yalnız buna dayandırır. Akif diğer sınavlarını göz ardı ederek yalnız istediği gibi geçmeyen sınava odaklanmaktadır.",
+      "distractorAnalysis": "Kişiselleştirme ilgisiz olayları kendine bağlamadır. Kutuplaşmış düşünce olayları iki uçta değerlendirmedir. Abartma olumsuzluğun önemini büyütmedir; burada belirleyici ipucu başarılı sınavlar arasından yalnız tek olumsuz sonucun seçilmesidir.",
+      "historicalNote": "Atıf: 2016 (bu soru), 2019 ve 2022'de bilişsel çarpıtmalar soruldu.\n 2026 Notu: 2026'da \"Duygusal Mantık Yürütme\" (Hissettiğim için öyledir; örn:\n \"Korkuyorum, demek ki bir tehlike var\") sorulabilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-44",
+      "number": 44,
+      "topic": "Etik ve Danışma Becerileri",
+      "question": "Okul psikolojik danışmanının aşağıdaki çalışmalarından hangisi bireysel rehberlik\nuygulamasıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınıf içi istenmeyen bir davranışından dolayı öğrencinin velisiyle görüşmesi"
+        },
+        {
+          "key": "B",
+          "text": "Sınıfta ders dinlerken etkili not tutma konusunda öğrenciyle bilgi verici görüşme yapması"
+        },
+        {
+          "key": "C",
+          "text": "Sınıfta gözlenen istenmeyen öğrenci davranışının değişimi konusunda sınıf öğretmeniyle\ngörüşmesi"
+        },
+        {
+          "key": "D",
+          "text": "Sınıfta istenmeyen davranışlar gösteren öğrenciyle çözüm odaklı yaklaşımla kısa süreli\ngörüşmeler yapması"
+        },
+        {
+          "key": "E",
+          "text": "Sınıfta arkadaşlık ilişkileriyle ilgili sorun yaşayan öğrenciyi grup danışmasına almak üzere\nöğrenciyle ön görüşme yapması"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Resmî ÖSYM anahtarına göre doğru cevap B seçeneğidir. Bireysel rehberlik, öğrenciye bire bir ortamda gelişimsel ve eğitsel bilgi sunulmasını kapsar. Etkili not tutma konusunda yapılan bilgi verici görüşme bu niteliktedir.",
+      "distractorAnalysis": "A ve C müşavirlik çalışmasıdır. D bireysel psikolojik danışmadır. E ise grupla psikolojik danışma öncesindeki hazırlık görüşmesidir.",
+      "historicalNote": "Atıf: Doğrudan ve Dolaylı hizmetlerin ayrımı 2015, 2018 ve 2021'de soruldu.\n 2026 Notu: 2026'da \"Sistem Desteği\" kapsamındaki faaliyetlerin (Müşavirlik, Program\n yönetimi, Araştırma) detayları sorulabilir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-45",
+      "number": 45,
+      "topic": "Etik ve Danışma Becerileri",
+      "question": "Aşağıdakilerden hangisi grup liderinin, ağlayan bir üyeye verebileceği uygun tepki değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kâğıt mendil uzatması"
+        },
+        {
+          "key": "B",
+          "text": "Ağlamasına sebep olan duygularını paylaşmak isteyip istemediğini sorması"
+        },
+        {
+          "key": "C",
+          "text": "Danışanın duygularını yansıtması"
+        },
+        {
+          "key": "D",
+          "text": "Oturum sonunda konuşma isteğinin olup olmadığını sorması"
+        },
+        {
+          "key": "E",
+          "text": "Rahat olması için dışarı çıkmasını istemesi"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Analiz: Grupla psikolojik danışmada temel amaç, duyguların \"grup içinde\" yaşanması,\n paylaşılması ve normalize edilmesidir.\n Neden Yanlış? Bir üyeyi ağladığı için dışarı çıkarmak, ona \"senin duyguların burada\n kabul görmüyor\" veya \"burada sadece neşeli/sakin olabilirsin\" mesajı verir. Bu\n durum hem o üyeyi dışlar hem de gruptaki güven ortamını ve \"koşulsuz kabul\"\n ilkesini zedeler. Ağlamak, terapötik bir boşalımdır (katarsis) ve grup sürecinin bir\n parçasıdır.",
+      "distractorAnalysis": "A-B-C-D: Bunların hepsi destekleyici, kabul edici ve üyeyi sürece davet eden tutumlardır.\n Kağıt mendil uzatmak insani bir destektir; duygu yansıtmak ise farkındalığı artırır.\n Senaryo (B için): \"Liderin, üyenin gözyaşlarını bir 'veri' olarak görüp, bu gözyaşlarının neyi\n anlattığını sorması hangi aşamada yapılır?\" deseydi cevap Çalışma Evresi olurdu.",
+      "historicalNote": "Atıf: 2017 ve 2020'de \"Zor üyelerle (Suskun, tekelci vb.) baş etme\" teknikleri sorulmuştu.\n 2026 Notu: 2026'da \"Tekelci üye\"nin (grupta sözü kimseye bırakmayan) durdurulması için\n liderin kullanması gereken Engelleme (Blocking) tekniği sorulabilir",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-46",
+      "number": 46,
+      "topic": "Etik ve Danışma Becerileri",
+      "question": "Grupla psikolojik danışmanın bir oturumunda, psikolojik danışman “Dilek, anladığım kadarıyla\nsorumluluk alma konusunda bazı sorunlar yaşıyorsun. Ayşe ve Hakan da benzer sorunları\nolduğundan daha önce bahsetmişlerdi.” der.\nBuna göre psikolojik danışman aşağıdaki psikolojik danışma becerilerinden hangisini\nkullanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Paylaştırma"
+        },
+        {
+          "key": "B",
+          "text": "Somutluk"
+        },
+        {
+          "key": "C",
+          "text": "Yüzleştirme"
+        },
+        {
+          "key": "D",
+          "text": "Geri bildirim"
+        },
+        {
+          "key": "E",
+          "text": "Asgari düzeyde teşvik"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Analiz: Grupla psikolojik danışma literatüründe (Corey) Paylaştırma (Linking); üyelerin\n ortak duygu, yaşantı ve sorunlarını birbirleriyle ilişkilendirme becerisidir.\n Neden doğru? Danışman, Dilek'in sorununu Ayşe ve Hakan'ın daha önce\n anlattıklarıyla birleştirmiştir. Bu becerinin temel amacı, grupta \"Evrensellik\"\n (Yalnız değilim, başkaları da benzer şeyler yaşıyor) hissini yaratmak ve üyeler arası\n etkileşimi artırmaktır.",
+      "distractorAnalysis": "B) Somutluk: Genel ve soyut ifadeleri, net ve yaşantısal örneklere indirgemektir.\n C) Yüzleştirme: Üyenin sözleri ile davranışları arasındaki çelişkiyi (Örn: \"Mutluyum\n diyorsun ama gözlerin doluyor\") önüne koymaktır.\n D) Geri bildirim: Liderin veya üyelerin, bir üyenin davranışı hakkındaki dürüst gözlem ve\n hislerini ona iletmesidir.\n E) Asgari düzeyde teşvik: Konuşmayı sürdürmek için verilen \"hı-hı\", \"anlıyorum\" gibi kısa\n tepkilerdir.\n Senaryo (D için): \"Dilek, sen sorumluluk alamadığını söylediğinde senin adına üzüldüğümü\n ve seni desteklemek istediğimi hissediyorum\" deseydi bu Geri Bildirim olurdu.",
+      "historicalNote": "Atıf: 2017, 2019 ve 2021 yıllarında \"Bağlama\" (Linking) ve \"Paylaştırma\" becerileri (ikisi\n genelde eş anlamlı kullanılır) defalarca soruldu.\n 2026 Notu: 2026'da bu tekniğin zıttı olan \"Kişiye Odaklama\" veya etkileşimi üyelerden\n lidere çeken hatalı yaklaşımlar sorulabilir. Unutma; iyi bir lider etkileşimi üyeler arasına\n yayar.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-47",
+      "number": 47,
+      "topic": "Okul Rehberliği",
+      "question": "Psikolojik danışma grubu lideri üyelere \"Şimdi yaşamınızı düşünüp bunu bir yol haritası olarak\ngöstermenizi istiyorum. Bildiğiniz gibi bazı yollar düz, geniş ve bakımlı, bazıları ise dar, bakımsız\nyani bozuktur. Yolların bazılarında engeller, bazılarında ani virajlar olabilir. Peki sizin yaşam\nyolunuz nasıl, bunlardan hangileri var?\" şeklinde bir açıklama ve yönerge vererek onların etkinliğe\nkatılmalarını sağlar. Böylece üyeler yaşamlarına dair çeşitli yollar çizerler.\nBu grup liderinin yol haritası tekniğini kullanmasının öncelikli amacı aşağıdakilerden\nhangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Üyelerin kendilerine dair farkındalıklarını artırmak"
+        },
+        {
+          "key": "B",
+          "text": "Üyeler arasında güven oluşturmak"
+        },
+        {
+          "key": "C",
+          "text": "Utanç ve suçluluk gibi duyguları ortaya çıkarmak"
+        },
+        {
+          "key": "D",
+          "text": "Üyelerin sonlandırmaya hazır olup olmadıklarını anlamak"
+        },
+        {
+          "key": "E",
+          "text": "Üyelerin yaratıcılıklarını geliştirmek"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Analiz: Gruplarda kullanılan metaforik ve sembolik tekniklerin (Yol haritası, yaşam nehri,\n aile heykelleştirme vb.) temel amacı Kişisel Farkındalık sağlamaktır.\n Neden doğru? Danışman, \"Yol\" metaforu üzerinden üyelerin kendi geçmişlerine,\n zorluklarına ve şimdiki durumlarına dışarıdan bakmalarını (objektifleştirme)\n istemektedir. Üye, çizdiği yoldaki engelleri gördüğünde aslında hayatındaki hangi\n sorunların kendisini durdurduğunu fark eder.",
+      "distractorAnalysis": "B) Güven: Güven genelde buz kırıcı oyunlar ve yapılandırma ile kurulur. Bu teknik daha\n derin bir bireysel analiz içerir.\n C) Utanç/Suçluluk: Bu duygular açığa çıkabilir ama bu tekniğin \"öncelikli\" amacı bu\n duyguları zorlamak değildir.\n D) Sonlandırma: Bu teknik sürecin herhangi bir evresinde (özellikle çalışma evresinde)\n kullanılır; sonlandırmaya özel bir test değildir.\n E) Yaratıcılık: Sanatsal bir faaliyet gibi görünse de PDR'de amaç sanatsal yaratıcılık değil,\n psikolojik içgörüdür.\n Senaryo (D için): \"Liderin 'Grup bittiğinde dışarıdaki hayatınızda bu yolların hangisini\n seçeceksiniz?' diye sorması\" sonlandırma vurgusu yapardı.",
+      "historicalNote": "Atıf: 2018'de \"Grup yaşantısında kullanılan teknikler ve oyunlar\" başlığında benzer bir\n farkındalık sorusu gelmiştir.\n 2026 Notu: 2026'da Moreno'nun Psikodrama teknikleri (Boş sandalye, Ayna, Çift olma)\n üzerinden benzer bir \"öncelikli amaç\" sorusu bekliyoruz.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-48",
+      "number": 48,
+      "topic": "Okul Rehberliği",
+      "question": "Okul psikolojik danışma ve rehberlik servisi, velilerin sağlıklı kişiler arası ilişkiler geliştirmelerini\ndesteklemek amacıyla bir psiko eğitim çalışması yapmayı planlamaktadır. Bu eğitimin\nmodüllerinden birinde \"çocuk, yetişkin, ebeveyn ego durumları ve bunlara uygun sözel mesajlar\"\nişlenecektir.\nSöz konusu modülde yer alan kavramlar aşağıdaki psikolojik danışma kuramlarından\nhangisine aittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Varoluşçu"
+        },
+        {
+          "key": "B",
+          "text": "Transaksiyonel analiz"
+        },
+        {
+          "key": "C",
+          "text": "Davranışçı"
+        },
+        {
+          "key": "D",
+          "text": "Akılcı-duygusal"
+        },
+        {
+          "key": "E",
+          "text": "Çözüm odaklı"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Analiz: Eric Berne tarafından geliştirilen Transaksiyonel Analiz (TA), kişiliği üç temel \"Ego\n Durumu\" ile açıklar:\n 1. Ebeveyn (Parent): Toplumun ve ailenin yargıları, kuralları, \"yapmalısın\"ları.\n 2. Yetişkin (Adult): Mantıklı, veri toplayan, objektif yanımız.\n 3. Çocuk (Child): Doğal duygularımız, yaratıcılığımız veya uyum sağlayan yanımız.\n Bu kavramlar TA'nın imzası niteliğindedir.",
+      "distractorAnalysis": "A) Varoluşçu: Özgürlük, sorumluluk, ölüm gibi temalara odaklanır.\n C) Davranışçı: Pekiştirme tarifeleri ve gözlenebilir davranışlarla ilgilenir.\n D) REBT (Ellis): Mantıksız inançlar (A-B-C modeli) ile ilgilenir.\n E) Çözüm Odaklı: Mucize soru ve istisnalara odaklanır.\n Senaryo (D için): \"Modülün konusu 'Veli-çocuk iletişimindeki meli-malı (shoulds)\n şeklindeki zorunluluk ifadeleri ve bunların mantıksızlığı' olsaydı\" cevap REBT olurdu.",
+      "historicalNote": "Atıf: TA, 2014, 2017 ve 2020 yıllarında \"Yaşam Pozisyonları\" (Ben iyiyim-Sen iyisin vb.) ve\n \"Oyunlar\" üzerinden sorulmuştur.\n 2026 Notu: 2026'da \"Yapısal Analiz\" (Ego durumları) yerine \"Yaşam Senaryosu\" (Life\n Script) kavramı sorulabilir. Bireyin çocuklukta yazdığı hayat senaryosunu fark etmesi\n TA'nın ana hedefidir.",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-49",
+      "number": 49,
+      "topic": "Okul Rehberliği",
+      "question": "Okul Psikolojik Danışmanı Ahmet Bey, rehberlik saatinde sınıftaki öğrencilere madde bağımlılığı,\nverimli ders çalışma, sağlıklı insan ilişkileri ve okul kuralları hakkında bilgi verme çalışmaları\nyapmaktadır.\nAhmet Bey'in yaptığı bu çalışmalar aşağıdaki psikolojik danışma ve rehberlik\nuygulamalarından hangisinin içinde yer almaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Etkileşim grubu"
+        },
+        {
+          "key": "B",
+          "text": "Alan çalışması"
+        },
+        {
+          "key": "C",
+          "text": "Grupla psikolojik danışma"
+        },
+        {
+          "key": "D",
+          "text": "Grup rehberliği"
+        },
+        {
+          "key": "E",
+          "text": "Mesleki danışmanlık"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Analiz: Grup Rehberliği ile Grupla Psikolojik Danışma arasındaki fark PDR ÖABT'nin en\n temel teknik bilgisidir.\n Neden doğru? Ahmet Bey \"bilgi verme\" odaklı, \"sınıf ortamında\", \"rehberlik\n saatinde\" ve \"genel konular\" (bağımlılık, ders çalışma vb.) üzerinde çalışmaktadır.\n Bu, grup rehberliğinin tipik tanımıdır. Grup rehberliği bilgilendirici ve önleyicidir;\n grupla danışma ise duygusal ve sağaltıcıdır.",
+      "distractorAnalysis": "A) Etkileşim grubu: Kişisel büyüme ve üyeler arası anlık duygusal etkileşime odaklanan\n süreçlerdir.\n C) Grupla danışma: Daha küçük gruplarla (8-12 kişi), kişisel ve duygusal sorunların\n çözüldüğü süreçtir (Sınıf ortamında 30-40 kişiyle yapılmaz).\n E) Mesleki danışmanlık: Sadece kariyer ve meslek seçimiyle sınırlı süreçtir.\n Senaryo (C için): \"Ahmet Bey, arkadaşlık kurmakta zorlanan 8 öğrenciyi odasına alıp,\n onların bu konudaki duygularını ve sosyal kaygılarını 10 oturum boyunca çalışsaydı\" cevap\n Grupla Danışma olurdu.",
+      "historicalNote": "Atıf: Bu ayrım 2014, 2016 (bu soru), 2018 ve 2022'de tekrar tekrar soruldu.\n 2026 Notu: 2026'da \"Grup rehberliği ve Grupla danışma farkları\" bir tablo veya öncüllü\n soru olarak gelirse; \"Üye sayısı\", \"Odak noktası (Bilişsel vs Duygusal)\" ve \"Mekan\"\n kriterlerine bakarak soruyu çöz!",
+      "hasOriginalVisual": false
+    },
+    {
+      "id": "2016-50",
+      "number": 50,
+      "topic": "Okul Rehberliği",
+      "question": "Psikolojik danışma ve rehberlik alanında hizmet verenlerin, bireylerin sorun alanlarına en uygun\nteknik ve yolları kullanması gerekmektedir.\nBuna göre, bireylerin yaşayabileceği;\nI. zamanı etkili bir şekilde kullanamama,\nII. sosyal beceri eksikliği,\nIII. sahip olduğu ilgi ve yeteneklerin farkında olmama,\nIV. üst eğitim kurumları hakkında bilgi sahibi olmama\nsorunlarından hangileri için grup rehberliğini kullanmak daha etkili bir yoldur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I ve II"
+        },
+        {
+          "key": "B",
+          "text": "I ve III"
+        },
+        {
+          "key": "C",
+          "text": "I ve IV"
+        },
+        {
+          "key": "D",
+          "text": "II ve III"
+        },
+        {
+          "key": "E",
+          "text": "III ve IV"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Analiz: 49. sorunun analiziyle bağlantılı olarak; Grup Rehberliği bilişsel, eğitsel ve bilgi\n aktarımı odaklıdır.\n I (Zaman yönetimi): Bilgi ve teknik beceri gerektiren eğitsel bir konudur (Grup\n Rehberliği).\n IV (Üst kurum bilgisi): Tamamen bilgi aktarımıdır (Grup Rehberliği).\n II ve III maddeleri ise bireyin \"kendini tanıması\" ve \"davranış değişikliği\"\n gerektiren, daha derin kişisel-sosyal alanlardır (Bireysel rehberlik veya grupla\n danışma daha etkindir).",
+      "distractorAnalysis": "II (Sosyal Beceri): Sosyal beceri eğitimi bir \"psiko-eğitim\" grubudur. Rehberlikten ziyade\n uygulama ve model alma gerektirdiği için grup rehberliği tek başına yeterli kalmaz.\n III (İlgi/Yetenek): Bu test yorumlama ve bireysel farkındalık gerektirir. Toplu bilgi\n vermekten ziyade bireysel yaklaşım önceliklidir.\n Senaryo (A için): \"Eğer soru 'Hangileri için beceri eğitimi grupları kurulabilir?' deseydi\" II.\n madde kesinlikle dahil edilirdi.",
+      "historicalNote": "Atıf: Rehberlik hizmet türleri (Eğitsel, Mesleki, Kişisel-Sosyal) ve bunların uygulama\n biçimleri 2019 ve 2023'te soruldu.\n 2026 Notu: 2026'da \"Kişisel-Sosyal Rehberlik\" alanına giren \"Atılganlık eğitimi\" veya\n \"Çatışma çözme\" becerilerinin hangi grup türüyle daha iyi verileceği sorulabilir.\nMESLEKTAŞIM, 2016 PDR ÖABT ANALİZİMİZİN SONUNA GELDİK!\n50 soruyu; akademik temelleriyle, ÖSYM diliyle ve gelecek tahminleriyle harmanlayarak bitirdik. Bu\nderinlikte bir analiz, senin sadece soruları değil konunun mantığını kavramanı sağlamıştır.\nUnutma: PDR ÖABT, bilgi kadar \"akıl yürütme\" ve \"kavramlar arası köprü kurma\" sınavıdır. Bu\nanalizde gördüğün her \"çeldirici\", aslında bir sonraki yılın \"doğru cevabı\" olabilir",
+      "hasOriginalVisual": false
+    }
+  ]
+}
