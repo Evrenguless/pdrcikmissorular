@@ -1,6 +1,6 @@
 # PDR ÖABT Soru Arşivi
 
-Statik HTML, CSS ve JavaScript ile hazırlanmış 2014-2016 PDR ÖABT sınav uygulaması. Açılış ekranı, yıl seçimi, süreli sınav modu, her yıl için ayrı yerel ilerleme kaydı ve sınav sonu renkli optik değerlendirme içerir.
+Statik HTML, CSS ve JavaScript ile hazırlanmış 2014-2017 PDR ÖABT sınav uygulaması. Açılış ekranı, yıl seçimi, süreli sınav modu, her yıl için ayrı yerel ilerleme kaydı ve sınav sonu renkli optik değerlendirme içerir.
 
 ## Dosyalar
 
@@ -10,6 +10,7 @@ Statik HTML, CSS ve JavaScript ile hazırlanmış 2014-2016 PDR ÖABT sınav uyg
 - `data/2014.json`: 2014 yılına ait 50 soru ve çözümleri
 - `data/2015.json`: 2015 yılına ait 48 değerlendirilen soru ve çözümleri (21 ve 29 iptal)
 - `data/2016.json`: 2016 yılına ait 50 soru ve çözümleri
+- `data/2017.json`: 2017 yılına ait 50 soru ve çözümleri
 - `assets/2014-soru-49.png`: 49. sorunun özgün tablo görseli
 
 ## Yerelde çalıştırma
