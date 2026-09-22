@@ -1,0 +1,1810 @@
+{
+  "year": 2026,
+  "title": "2026 PDR ÖABT",
+  "questionCount": 50,
+  "durationMinutes": 75,
+  "cancelledQuestions": [],
+  "sourceStatus": "Özgün soru görselleri ve yayımlanan cevap anahtarıyla doğrulandı; çözümler PDR Kampüs tarafından hazırlandı.",
+  "questions": [
+    {
+      "id": "2026-01",
+      "number": 1,
+      "topic": "Algı Psikolojisi / Gestalt",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Bütünün, parçaların toplamından farklı ve parçalar arası ilişkilere bağlı olduğunu savunan yaklaşım Gestalt psikolojisidir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/01.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-02",
+      "number": 2,
+      "topic": "Sosyal Psikoloji / Planlı Davranış Kuramı",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Ekonomiye katkı davranışa yönelik tutumu, yakınların onayı öznel normu, davranışın zahmetsiz görülmesi ise algılanan davranış kontrolünü gösterir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/02.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-03",
+      "number": 3,
+      "topic": "Sosyal Psikoloji / Sosyal Etki",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Gruba kabul edilme isteği normatif etkiyi, grubun ders çalışma yöntemlerini bilgi kaynağı görme bilgisel etkiyi, tek bir üyenin karşı çıkışından etkilenme azınlık etkisini gösterir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/03.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-04",
+      "number": 4,
+      "topic": "Biyolojik Psikoloji / Sempatik Sinir Sistemi",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Sempatik uyarılma göz bebeklerini küçültmez; büyütür. Kalp hızı ve adrenalin artar, sindirim azalır, bronşlar genişler.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/04.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-05",
+      "number": 5,
+      "topic": "Öğrenme Psikolojisi / Üst Düzey Koşullanma",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Fren sesi bulantıyla koşullandıktan sonra anons sesi fren sesini haber veren yeni bir uyarıcı olmuş; böylece üst düzey koşullanma gerçekleşmiştir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/05.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-06",
+      "number": 6,
+      "topic": "Öğrenme Psikolojisi / İleriye Ket Vurma",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Önceden öğrenilmiş bilgisayar faresi kullanımı yeni akıllı tahta davranışını bozduğu için ileriye ket vurma vardır.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/06.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-07",
+      "number": 7,
+      "topic": "Gelişim Psikolojisi / Gelişim İlkeleri",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Aynı yaş grubunda kıyafet ölçülerinin farklı olması gelişimde bireysel farklılıklar bulunduğunu gösterir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/07.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-08",
+      "number": 8,
+      "topic": "Kişilik Kuramları / Karen Horney",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Horney’e göre temel kaygının önemli kaynaklarından biri ebeveyn ile çocuk arasındaki sağlıksız ilişkidir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/08.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-09",
+      "number": 9,
+      "topic": "Psikanalitik Kuram / Psikoseksüel Gelişim",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Gizil dönemde cinsel dürtüler görece geri plandadır; çocuk enerjisini okul, spor ve akran ilişkilerine yöneltir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/09.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-10",
+      "number": 10,
+      "topic": "Varoluşçu Yaklaşım",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Varoluşçu yaklaşım özgürlük, sorumluluk ve anlam üzerinde durur; danışanın yaşamına anlam katacak seçimleri keşfetmesi amaçlanır.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/10.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-11",
+      "number": 11,
+      "topic": "Birey Merkezli Yaklaşım",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Koşullu kabulün benlik ile ideal benlik arasında uyumsuzluk yaratması Rogers’ın birey merkezli yaklaşımının temel açıklamasıdır.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/11.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-12",
+      "number": 12,
+      "topic": "Davranışçı Yaklaşım / Sistematik Duyarsızlaştırma",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Korkulan uyarıcıyla aşamalı karşılaşma ve gevşeme egzersizlerinin birlikte kullanılması sistematik duyarsızlaştırmadır.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/12.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-13",
+      "number": 13,
+      "topic": "Bilişsel Terapi / Seçici Soyutlama",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Tek bir olumsuz ayrıntıyı seçip diğer verileri göz ardı etmek seçici soyutlamadır.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/13.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-14",
+      "number": 14,
+      "topic": "Psikanalitik Kuram / Karşıt Tepki Geliştirme",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Çocuğa yönelik bilinçdışı öfkenin tam tersi biçimde aşırı ilgi ve koruyuculuğa dönüştürülmesi karşıt tepki geliştirmedir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/14.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-15",
+      "number": 15,
+      "topic": "Terapötik Beceriler / Kişiselleştirme",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Danışmanın tepkiyi danışanın yaşantısındaki kişisel neden ve amaçla ilişkilendirmesi kişiselleştirme becerisidir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/15.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-16",
+      "number": 16,
+      "topic": "Terapötik Beceriler / Konuşmaya Açık Davet",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "A",
+      "explanation": "“Bu olay sana neler hissettirdi?” ifadesi danışanı duygularını anlatmaya çağıran konuşmaya açık davettir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/16.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-17",
+      "number": 17,
+      "topic": "Terapötik Beceriler / Özetleme",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Danışmanın farklı sorunları kısa ve düzenli biçimde toparlaması özetleme becerisidir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/17.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-18",
+      "number": 18,
+      "topic": "Terapötik Beceriler / Bağlama",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Önceki oturumdaki örüntüyle şimdiki yaşantı arasındaki ilişkiyi kurmak bağlama becerisidir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/18.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-19",
+      "number": 19,
+      "topic": "DSM-5-TR / Şizoid Kişilik Bozukluğu",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Yakın ilişki istememe, duygusal soğukluk ve yalnız etkinlikleri seçme şizoid kişilik bozukluğuyla uyumludur.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/19.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-20",
+      "number": 20,
+      "topic": "DSM-5-TR / Agorafobi",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Kaçmanın ya da yardım almanın zor olacağı ulaşım ve kalabalık ortamlardan yoğun korku duyma agorafobiyi gösterir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/20.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-21",
+      "number": 21,
+      "topic": "DSM-5-TR / Dissosiyatif Amnezi",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Travmatik dönemle ilgili önemli otobiyografik bilgilerin hatırlanamaması dissosiyatif amnezi ölçütleriyle uyumludur.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/21.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-22",
+      "number": 22,
+      "topic": "DSM-5-TR / Şizofreninin Pozitif Belirtileri",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Sanrı ve halüsinasyonlar şizofreninin pozitif belirtileridir; diğer seçenekler negatif belirtilerdir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/22.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-23",
+      "number": 23,
+      "topic": "Özel Eğitim / Disgrafi",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Yazının biçimi, çizgi takibi, yazım ve noktalama alanlarında belirgin güçlük görülmesi disgrafiyi işaret eder.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/23.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-24",
+      "number": 24,
+      "topic": "Özel Eğitim / Zenginleştirme",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Programdaki kazanımlara ek olarak ileri düzey etkinlikler sunulması zenginleştirme stratejisidir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/24.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-25",
+      "number": 25,
+      "topic": "Test Dışı Teknikler / Bibliyoterapi",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Bir edebî eser üzerinden özdeşim, duygu farkındalığı ve yeni çözüm yolları geliştirme bibliyoterapidir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/25.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-26",
+      "number": 26,
+      "topic": "Sosyometri",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Sosyogramda karşılıklı seçimler, seçim puanları ve grup içi konum birlikte değerlendirilir; doğru yorum E seçeneğidir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/26.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-27",
+      "number": 27,
+      "topic": "Test Dışı Teknikler / Problem Tarama Listesi",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Öğrencilerin çok sayıdaki kişisel ve sosyal sorun alanını taramak için en uygun araç problem tarama listesidir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/27.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-28",
+      "number": 28,
+      "topic": "Test Dışı Teknikler / Akran Değerlendirme",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Adayların birbirlerini önceden belirlenmiş ölçütlerle değerlendirmesi akran değerlendirmedir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/28.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-29",
+      "number": 29,
+      "topic": "Ölçme ve Değerlendirme / Ölçüt Dayanaklı Geçerlik",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Ölçüt dayanaklı geçerlik, ölçek puanlarının aynı yapıyla ilişkili dış bir ölçütle bağlantısının incelenmesiyle kanıtlanır.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/29.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-30",
+      "number": 30,
+      "topic": "Ölçme ve Değerlendirme / Kararlılık",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "C",
+      "explanation": "İki hafta arayla alınan puanların birbirine çok yakın olması test-tekrar test kararlılığının yüksek olduğunu gösterir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/30.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-31",
+      "number": 31,
+      "topic": "Ölçme ve Değerlendirme / Madde Ayırt Ediciliği",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Herkesin aynı yanıtı verdiği madde bireyleri ayırt edemez; ölçülen yapıyı açıklamaya katkısı düşüktür.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/31.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-32",
+      "number": 32,
+      "topic": "Terapötik İletişim / Çift Mesaj",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Sözel mesaj ile yüz ifadesi ya da beden dilinin çelişmesi çift mesaj örneğidir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/32.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-33",
+      "number": 33,
+      "topic": "Terapötik İletişim / Saydamlık",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Danışmanın kendi anlık düşüncesini uygun biçimde açıkça paylaşması saydamlıktır.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/33.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-34",
+      "number": 34,
+      "topic": "Terapötik İlişki / Şimdi ve Burada",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Şimdi ve burada kullanımı, ilişkide o anda olanı görünür kılmak ve örtük duyguları açığa çıkarmak için uygundur; karşıt aktarım yapmak için kullanılmaz.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/34.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-35",
+      "number": 35,
+      "topic": "Psikolojik Danışma Süreci / İzleme",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Danışma sonrasında kazanımların sürüp sürmediğini kontrol etmek izleme basamağının işlevidir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/35.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-36",
+      "number": 36,
+      "topic": "Grupla Psikolojik Danışma / Evrensellik",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Üyelerin sorunlarında yalnız olmadıklarını fark etmeleri Yalom’un evrensellik terapötik faktörüdür.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/36.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-37",
+      "number": 37,
+      "topic": "Gruplar / Rehberlik Grubu",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Bilgi verme ve öğrencilerin konuya ilişkin soru ve görüşlerine yer verme amacı rehberlik grubuna uygundur.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/37.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-38",
+      "number": 38,
+      "topic": "Grupla Psikolojik Danışma / Direnç",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Üye sayısının fazlalığı, zorunlu katılım ve üyelerin grup dışında ilişkili olması direnci artırabilecek etmenlerdir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/38.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-39",
+      "number": 39,
+      "topic": "Kariyer Danışmanlığı / Değerler",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Eczacılığı aileye zaman ayırma ve iş güvencesi nedeniyle uygun görmesi Mehmet’in değerleriyle ilgilidir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/39.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-40",
+      "number": 40,
+      "topic": "Kariyer Danışmanlığı / Kariyer Tekeri",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "B",
+      "explanation": "İlgi, beceri, değer, önemli kişiler, öğrenim ve iş/yaşam deneyimleri ile fırsatları birlikte inceleyen model Kariyer Tekeri’dir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/40.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-41",
+      "number": 41,
+      "topic": "Kariyer Danışmanlığı / İşe Uyum Kuramı",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "C",
+      "explanation": "İşe Uyum Kuramı kişi ile çevre arasındaki karşılıklı uygunluğu inceler; danışmanın kişi adına kariyer seçmesi beklenmez.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/41.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-42",
+      "number": 42,
+      "topic": "Kariyer Danışmanlığı / Sosyal Öğrenme Kuramı",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Kalıtımsal özellikler, çevresel koşullar, öğrenme yaşantıları ve görev yaklaşım becerileri Krumboltz’un sosyal öğrenme kuramının öğeleridir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/42.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-43",
+      "number": 43,
+      "topic": "Kariyer Danışmanlığı / Roe",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Meslek seçimini çocuklukta ebeveynlerle kurulan ilişki ve ihtiyaçların karşılanma biçimiyle açıklayan kuram Roe’nun İhtiyaç Kuramı’dır.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/43.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-44",
+      "number": 44,
+      "topic": "Kariyer Danışmanlığı / Gottfredson",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "E",
+      "explanation": "Gottfredson’a göre daraltma benlik gelişimiyle birlikte ilerler; bilişsel gelişimle ilişkilidir ve önce cinsiyet rolüne, sonra prestije uymayan seçenekler elenir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/44.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-45",
+      "number": 45,
+      "topic": "Okul RPD / Kapsamlı Gelişimsel Rehberlik",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Kapsamlı gelişimsel rehberlik yalnız sorunlara tepki veren problem odaklı bir anlayış değildir; bütün öğrencilerin gelişimini destekler.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/45.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-46",
+      "number": 46,
+      "topic": "İstatistik / Betimsel İstatistikler",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Tabloda son testin ortalama, ortanca, standart sapma ve ranjı artmış; mod iki ölçümde de 30 kalmıştır. Bu nedenle doğru çıkarım D seçeneğidir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/46.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-47",
+      "number": 47,
+      "topic": "Araştırma Yöntemleri / Değişkenler",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Zekâ puanı sabit tutulan kontrol değişkeni, sosyal statü beklentisi bağımlı, ailenin sosyoekonomik düzeyi bağımsız değişkendir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/47.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-48",
+      "number": 48,
+      "topic": "İstatistik / Bağımlı Örneklemler t-Testi",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Bağımlı örneklemler t-testi aynı grubun iki zamandaki ölçümlerini karşılaştırır; bu koşulu yalnız II. problem karşılar.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/48.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-49",
+      "number": 49,
+      "topic": "Meslek Etiği",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Danışanın bilgisi olmadan kayıt kullanmak etik değildir. Küçük bir vedalaşma armağanını uygun sınırlarla kabul etmek ve yetkin olunmayan durumda süpervizyon almak uygundur.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/49.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    },
+    {
+      "id": "2026-50",
+      "number": 50,
+      "topic": "Meslek Etiği / Yararlılık",
+      "question": "Soru metni ve seçenekleri aşağıdaki özgün sınav görselinde yer almaktadır.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A seçeneği"
+        },
+        {
+          "key": "B",
+          "text": "B seçeneği"
+        },
+        {
+          "key": "C",
+          "text": "C seçeneği"
+        },
+        {
+          "key": "D",
+          "text": "D seçeneği"
+        },
+        {
+          "key": "E",
+          "text": "E seçeneği"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Bedensel belirtiler için uygun sağlık hizmetine yönlendirme danışanın iyiliğini gözetir ve yararlılık ilkesiyle doğrudan ilişkilidir.",
+      "distractorAnalysis": "Diğer seçenekler, soru kökündeki ayırt edici kavram veya koşulları tam olarak karşılamamaktadır.",
+      "historicalNote": "2026 MEB-ÖABT Rehberlik sınavı sorusudur.",
+      "hasOriginalVisual": true,
+      "visual": "assets/questions/2026/50.jpg",
+      "imageOnly": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # PDR ÖABT Soru Arşivi
 
-Statik HTML, CSS ve JavaScript ile hazırlanmış 2014-2025 PDR ÖABT sınav uygulaması. 2026 doğrulama aşamasındadır. Açılış ekranı, yıl seçimi, süreli sınav modu, her yıl için ayrı yerel ilerleme kaydı ve sınav sonu renkli optik değerlendirme içerir.
+Statik HTML, CSS ve JavaScript ile hazırlanmış 2014-2026 PDR ÖABT sınav uygulaması. Açılış ekranı, yıl seçimi, süreli sınav modu, her yıl için ayrı yerel ilerleme kaydı ve sınav sonu renkli optik değerlendirme içerir.
 
 ## Dosyalar
 
@@ -19,6 +19,7 @@ Statik HTML, CSS ve JavaScript ile hazırlanmış 2014-2025 PDR ÖABT sınav uyg
 - `data/2023.json`: 2023 yılına ait 75 soru ve çözümleri
 - `data/2024.json`: 2024 yılına ait 75 soru ve çözümleri
 - `data/2025.json`: 2025 yılına ait 50 soru ve çözümleri
+- `data/2026.json`: 2026 yılına ait 50 özgün soru görseli ve PDR Kampüs çözümleri
 - `assets/2014-soru-49.png`: 49. sorunun özgün tablo görseli
 
 ## Yerelde çalıştırma
