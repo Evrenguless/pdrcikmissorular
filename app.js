@@ -328,12 +328,12 @@ function renderQuestion() {
     // CEVAP BUTONUNU ÇALIŞTIRAN BÖLÜM
 
     b.disabled = state.finished || ((state.mode === "practice" || state.mode === "topic") && !!state.answers[item.id]);
-    if (state.finished || (state.mode === "practice" && !!state.answers[item.id])) {
+    if (state.finished || ((state.mode === "practice" || state.mode === "topic") && !!state.answers[item.id])) {
       b.classList.toggle("review-correct", opt.key === item.answer);
       b.classList.toggle("review-wrong", opt.key === state.answers[item.id] && opt.key !== item.answer);
     }
     b.onclick = () => {
-      if (state.finished || (state.mode === "practice" && state.answers[item.id])) return;
+      if (state.finished || ((state.mode === "practice" || state.mode === "topic") && state.answers[item.id])) return;
       state.answers[item.id] = opt.key;
       renderQuestion();
     };
@@ -364,7 +364,7 @@ function renderProgress() {
     questionCount() - count;
 
   els.progressLabel.textContent =
-    `Soru ${state.current + 1} / ${state.data.questionCount}`;
+    `Soru ${state.current + 1} / ${questionCount()}`;
 
   els.answeredLabel.textContent =
     `${count} yanıtlandı`;
@@ -415,7 +415,7 @@ function renderGrid() {
 
 function tryFinish() {
   const remaining =
-    state.data.questionCount -
+    questionCount() -
     Object.keys(state.answers).length;
 
   els.modal.hidden = false;
@@ -698,7 +698,7 @@ document.querySelectorAll("[data-review-tab]").forEach(b => {
 // SINAV SAYACI
 
 setInterval(() => {
-  if (!state.startedAt || state.finished || state.mode === "practice") {
+  if (!state.startedAt || state.finished || state.mode === "practice" || state.mode === "topic") {
     return;
   }
 
