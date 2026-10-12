@@ -61,6 +61,7 @@
       <div class="exam-progress-wrap"><div class="exam-progress-copy"><span id="progressLabel">Soru 1 / 50</span><b id="answeredLabel">0 yanıtlandı</b></div><div class="progress"><span id="progressBar"></span></div></div>
       <div class="header-actions"><div class="timer"><span>◷</span><b id="timer">75:00</b></div><button class="icon-button" id="openOptic" type="button" aria-label="Optik formu aç">☷ <span class="optic-trigger-text">Optik</span></button></div>
     </header>
+    <div class="exam-back-row"><button type="button" id="examBack" class="button secondary back-navigation">← Geri dön</button><span id="examBackHint">Mod seçimine dön</span></div>
     <main class="exam-main">
       <section class="question-stage">
         <div class="question-kicker"><span id="topic">Konu</span><button id="bookmark" type="button" aria-pressed="false">♡ Sonra bak</button></div>
@@ -76,7 +77,7 @@
   </div>
 
   <section class="results" id="resultsView" hidden>
-    <header class="results-header"><a class="brand compact" href="#"><img class="brand-logo" src="https://pdrkampus.com/assets/logo.png" alt="PDR Kampüs" width="46" height="46"><span><b>PDR ÖABT</b><small>Cevap anahtarı</small></span></a><button class="button secondary" id="restartExam" type="button">Sınavı yeniden çöz</button></header>
+    <header class="results-header"><button class="button secondary back-navigation" id="resultsBack" type="button">← Geri dön</button><a class="brand compact" href="#"><img class="brand-logo" src="https://pdrkampus.com/assets/logo.png" alt="PDR Kampüs" width="46" height="46"><span><b>PDR ÖABT</b><small>Cevap anahtarı</small></span></a><button class="button secondary" id="restartExam" type="button">Sınavı yeniden çöz</button></header>
     <main class="results-main answer-key-main">
       <div class="answer-key-heading"><span class="overline" id="resultYearLabel">2014 PDR ÖABT sonucu</span><h1>Sınav tamamlandı</h1><p>İşaretlediğin cevaplar: yeşil doğru, kırmızı yanlış. Yanlışların doğru şıkkı hemen altında.</p></div>
       <section class="answer-key-card"><div class="answer-key-grid" id="resultGrid" aria-label="Sınav cevap anahtarı"></div></section>
