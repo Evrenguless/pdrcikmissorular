@@ -385,14 +385,28 @@ function renderResults() {
   const grid = $("#resultGrid");
   grid.innerHTML = "";
   state.data.questions.forEach(item => {
+    const selected = state.answers[item.id];
+    const correct = selected === item.answer;
     const entry = document.createElement("div");
-    entry.className = "answer-key-item " +
-      (!state.answers[item.id] ? "blank" : state.answers[item.id] === item.answer ? "correct" : "wrong");
+    entry.className = "answer-key-item " + (!selected ? "blank" : correct ? "correct" : "wrong");
     const number = document.createElement("span");
+    number.className = "answer-key-number";
     number.textContent = item.number + ".";
-    const answer = document.createElement("strong");
-    answer.textContent = item.answer;
-    entry.append(number, answer);
+    const choice = document.createElement("strong");
+    choice.textContent = selected || "—";
+    choice.setAttribute("aria-label", selected ? "İşaretlediğin cevap: " + selected : "Boş bırakıldı");
+    entry.append(number, choice);
+    if (selected && !correct) {
+      const answer = document.createElement("small");
+      answer.className = "answer-key-correct";
+      answer.textContent = "Doğru: " + item.answer;
+      entry.appendChild(answer);
+    } else if (!selected) {
+      const answer = document.createElement("small");
+      answer.className = "answer-key-correct";
+      answer.textContent = "Doğru: " + item.answer;
+      entry.appendChild(answer);
+    }
     grid.appendChild(entry);
   });
 }
