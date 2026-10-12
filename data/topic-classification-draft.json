@@ -1,5 +1,5 @@
 {
-  "description": "Sekiz başlık altında konu eşleştirme çalışma dosyası. question_text_reviewed incelemeden geçenlerdir. Diğerleri aday veya inceleme bekliyor; tamamı doğrulanmadan konu modu açılmamalı.",
+  "description": "Dokuz ana başlıklı konu eşleştirme taslağı. Özel Eğitim bağımsız kategori. question_text_reviewed kayıtları gözden geçirilmiş veya belirgin özgün özel eğitim etiketleriyle eşleştirilmiştir; prefix_candidate kayıtları henüz içerik doğrulaması bekler.",
   "categories": [
     "Temel Psikolojik Kavramlar",
     "Psikolojik Danışma Kuram, İlke ve Teknikleri",
@@ -8,7 +8,8 @@
     "Bireyle ve Grupla Psikolojik Danışma",
     "Mesleki Rehberlik ve Kariyer Danışmanlığı",
     "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-    "Meslek Etiği ve Yasal Konular"
+    "Meslek Etiği ve Yasal Konular",
+    "Özel Eğitim"
   ],
   "questions": [
     {
@@ -637,9 +638,9 @@
       "year": 2015,
       "number": 20,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Özel eğitim sorularında sekiz kategori arasındaki kapsam sınırı ayrıca değerlendirilmeli."
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni özel eğitim, kaynaştırma veya öğrenme güçlüğü hakkındadır."
     },
     {
       "id": "2015-22",
@@ -1069,18 +1070,18 @@
       "year": 2016,
       "number": 20,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Özel eğitim sorularında sekiz kategori arasındaki kapsam sınırı ayrıca değerlendirilmeli."
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni özel eğitim, kaynaştırma veya öğrenme güçlüğü hakkındadır."
     },
     {
       "id": "2016-21",
       "year": 2016,
       "number": 21,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Özel eğitim sorularında sekiz kategori arasındaki kapsam sınırı ayrıca değerlendirilmeli."
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni özel eğitim, kaynaştırma veya öğrenme güçlüğü hakkındadır."
     },
     {
       "id": "2016-22",
@@ -1519,18 +1520,18 @@
       "year": 2017,
       "number": 20,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Özel eğitim sorusunun sekiz kategori ile uyumu ayrıca değerlendirilmesi gerekir."
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni özel eğitim, kaynaştırma veya öğrenme güçlüğü hakkındadır."
     },
     {
       "id": "2017-21",
       "year": 2017,
       "number": 21,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Özel eğitim sorusunun sekiz kategori ile uyumu ayrıca değerlendirilmesi gerekir."
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni özel eğitim, kaynaştırma veya öğrenme güçlüğü hakkındadır."
     },
     {
       "id": "2017-22",
@@ -1969,18 +1970,18 @@
       "year": 2018,
       "number": 20,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Özel eğitim sorusunun sekiz kategori ile uyumu ayrıca değerlendirilmesi gerekir."
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni özel eğitim, kaynaştırma veya öğrenme güçlüğü hakkındadır."
     },
     {
       "id": "2018-21",
       "year": 2018,
       "number": 21,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Özel eğitim sorusunun sekiz kategori ile uyumu ayrıca değerlendirilmesi gerekir."
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni özel eğitim, kaynaştırma veya öğrenme güçlüğü hakkındadır."
     },
     {
       "id": "2018-22",
@@ -2480,24 +2481,27 @@
       "year": 2019,
       "number": 30,
       "originalTopic": "Özel Eğitim ve Kaynaştırma",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2019-31",
       "year": 2019,
       "number": 31,
       "originalTopic": "Özel Eğitim / Üstün Yetenekliler",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2019-32",
       "year": 2019,
       "number": 32,
       "originalTopic": "Özel Eğitim / Kaynaştırma (Entegrasyon)",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2019-33",
@@ -3080,24 +3084,27 @@
       "year": 2020,
       "number": 30,
       "originalTopic": "Özel Eğitim / Özgül Öğrenme Güçlüğü (ÖÖG) ve Sınıf İçi",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2020-31",
       "year": 2020,
       "number": 31,
       "originalTopic": "Özel Eğitim / Değerlendirmenin Aşamaları (Gönderme",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2020-32",
       "year": 2020,
       "number": 32,
       "originalTopic": "Özel Eğitim / Temel İlkeler",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2020-33",
@@ -3680,24 +3687,27 @@
       "year": 2021,
       "number": 30,
       "originalTopic": "Özel Eğitim / Özgül Öğrenme Güçlüğü (ÖÖG) Yanılgıları",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2021-31",
       "year": 2021,
       "number": 31,
       "originalTopic": "Özel Eğitim / Zihinsel Yetersizlik Belirtileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2021-32",
       "year": 2021,
       "number": 32,
       "originalTopic": "Özel Eğitim / Üstün Yetenekli Çocuklar ve Düşük Başarı",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2021-33",
@@ -4280,24 +4290,27 @@
       "year": 2022,
       "number": 30,
       "originalTopic": "Özel Eğitim / Özgül Öğrenme Güçlüğü (ÖÖG) Davranışsal",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2022-31",
       "year": 2022,
       "number": 31,
       "originalTopic": "Özel Eğitim / Değerlendirme Süreci (Gönderme Öncesi",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2022-32",
       "year": 2022,
       "number": 32,
       "originalTopic": "Özel Eğitim / Otizm Spektrum Bozukluğu (OSB) Belirtileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2022-33",
@@ -4312,8 +4325,9 @@
       "year": 2022,
       "number": 34,
       "originalTopic": "Özel Eğitim / Yaratıcı Dramanın Faydaları",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2022-35",
@@ -4872,8 +4886,9 @@
       "year": 2023,
       "number": 29,
       "originalTopic": "Özel Eğitim / Özgül Öğrenme Bozukluğu (Disleksi)",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2023-30",
@@ -4888,16 +4903,18 @@
       "year": 2023,
       "number": 31,
       "originalTopic": "Özel Eğitim / Özel Eğitimde Değerlendirme Süreci",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2023-32",
       "year": 2023,
       "number": 32,
       "originalTopic": "Özel Eğitim / En Az Kısıtlayıcı Ortam (LRE)",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2023-33",
@@ -5480,24 +5497,27 @@
       "year": 2024,
       "number": 30,
       "originalTopic": "Özel Eğitim / Özgül Öğrenme Bozukluğu (Diskalkuli)",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2024-31",
       "year": 2024,
       "number": 31,
       "originalTopic": "Özel Eğitim / Değerlendirme Yaklaşımları (Programa Dayalı",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2024-32",
       "year": 2024,
       "number": 32,
       "originalTopic": "Özel Eğitim / İşitme Yetersizliği Belirtileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2024-33",
@@ -6008,8 +6028,9 @@
       "year": 2025,
       "number": 21,
       "originalTopic": "Özel Eğitim / Özgül Öğrenme Güçlüğü ve Yerleştirme Kararı",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2025-22",
@@ -6024,16 +6045,18 @@
       "year": 2025,
       "number": 23,
       "originalTopic": "Özel Eğitim / Uygulamalı Davranış Analizi (UDA - ABA)",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2025-24",
       "year": 2025,
       "number": 24,
       "originalTopic": "Özel Eğitim / Doğal Öğretim Yöntemleri (Naturalistic",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2025-25",
@@ -6424,16 +6447,18 @@
       "year": 2026,
       "number": 23,
       "originalTopic": "Özel Eğitim / Disgrafi",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2026-24",
       "year": 2026,
       "number": 24,
       "originalTopic": "Özel Eğitim / Zenginleştirme",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Özel Eğitim",
+      "status": "question_text_reviewed",
+      "reviewNote": "Özgün konu etiketi doğrudan özel eğitim alt alanını belirtmektedir; sınıflandırma konusu olarak eşlendi."
     },
     {
       "id": "2026-25",
