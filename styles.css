@@ -307,3 +307,13 @@ body{background:#fafaf6;color:var(--ink)}
 .brand>strong{display:block;font-family:Manrope,Arial,sans-serif;font-size:22px;font-weight:800;line-height:1.2;letter-spacing:normal;color:#123c31}
 .brand>strong>span{display:inline!important;font:inherit;color:#3e8169}
 @media(max-width:600px){.brand>.brand-logo,.brand.compact>.brand-logo{width:44px;height:44px}.brand>strong{font-size:20px}}
+
+/* Tek dokunuşla yıl seçimi: açılır liste yerine kompakt buton ızgarası */
+.mode-year-picker{display:block;max-width:730px;padding:18px 20px;margin:20px 0 30px}
+.mode-year-title{display:block;font-size:13px;font-weight:800;color:#264a39;margin-bottom:12px}
+.mode-year-grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:8px}
+.mode-year-option{min-width:0;min-height:44px;border:1px solid #d7e6db;border-radius:10px;background:#f9fcfa;color:#264b3a;font:800 13px Manrope,system-ui,sans-serif;cursor:pointer;transition:background .15s,border-color .15s,box-shadow .15s}
+.mode-year-option:hover{background:#eaf4ed;border-color:#8fbba0}
+.mode-year-option.active{background:#123c31;border-color:#123c31;color:#fff;box-shadow:0 3px 10px rgba(18,60,49,.13)}
+.mode-year-option:focus-visible{outline:3px solid #9ac7a9;outline-offset:2px}
+@media(max-width:600px){.mode-year-picker{padding:14px;margin:14px 0 24px}.mode-year-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:7px}.mode-year-option{min-height:42px}}
