@@ -2305,8 +2305,9 @@
       "year": 2019,
       "number": 8,
       "originalTopic": "Okul Psikolojik Danışmanlığı / Gelişim Kuramları",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2019-09",
@@ -2692,16 +2693,18 @@
       "year": 2019,
       "number": 56,
       "originalTopic": "Okul RPD Hizmetleri / Program Kazanımları",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2019-57",
       "year": 2019,
       "number": 57,
       "originalTopic": "Okul RPD Hizmetleri / Kapsamlı Gelişimsel Rehberlik",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2019-58",
@@ -2756,8 +2759,9 @@
       "year": 2019,
       "number": 64,
       "originalTopic": "Okul PDR Hizmetleri / Öğretmen Müşavirliği (Konsültasyon)",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2019-65",
@@ -2788,16 +2792,18 @@
       "year": 2019,
       "number": 68,
       "originalTopic": "Okul RPD Hizmetleri / Grup Planlama ve Süreç",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2019-69",
       "year": 2019,
       "number": 69,
       "originalTopic": "Okul RPD Hizmetleri / İlk Görüşme ve Vaka Yönetimi",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2019-70",
@@ -2812,40 +2818,45 @@
       "year": 2019,
       "number": 71,
       "originalTopic": "Okul RPD Hizmetleri / Etkinlik Tasarımı ve Oryantasyon",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2019-72",
       "year": 2019,
       "number": 72,
       "originalTopic": "Okul RPD Hizmetleri / Önleyici Rehberlik İlkeleri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2019-73",
       "year": 2019,
       "number": 73,
       "originalTopic": "Okul RPD Hizmetleri / Bilişsel Temelli Rehberlik Etkinlikleri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2019-74",
       "year": 2019,
       "number": 74,
       "originalTopic": "Okul RPD Hizmetleri / Rehberlik Hizmet Alanları (Yönetsel",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2019-75",
       "year": 2019,
       "number": 75,
       "originalTopic": "Okul RPD Hizmetleri / Rehberliğin Temel İlkeleri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2020-01",
@@ -3303,8 +3314,9 @@
       "year": 2020,
       "number": 57,
       "originalTopic": "Okul RPD Hizmetleri / KGRP Bileşenleri (Müdahale",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2020-58",
@@ -3391,8 +3403,9 @@
       "year": 2020,
       "number": 68,
       "originalTopic": "Okul RPD Hizmetleri / Rehberliğin İşlevleri ve Problem",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2020-69",
@@ -3415,8 +3428,9 @@
       "year": 2020,
       "number": 71,
       "originalTopic": "Okul RPD Hizmetleri / Öz Saygı Müdahaleleri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2020-72",
@@ -3439,16 +3453,18 @@
       "year": 2020,
       "number": 74,
       "originalTopic": "Okul RPD Hizmetleri / Rehberlik ve Psikolojik Danışma",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2020-75",
       "year": 2020,
       "number": 75,
       "originalTopic": "Eğitimde Rehberlik / Problem Çözme Becerisi Basamakları",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki ölçülen rehberlik/danışma uygulaması esas alınarak incelendi."
     },
     {
       "id": "2021-01",
