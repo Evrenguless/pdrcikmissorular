@@ -129,7 +129,7 @@ function applyYearLabels() {
   $("#resumeExam").hidden = !hasProgress;
 }
 
-async function selectYear(year) {
+async function selectYear(year, initial = false) {
   state.year = Number(year);
 
   try {
@@ -149,7 +149,7 @@ async function selectYear(year) {
       renderResults();
     } else {
       $("#modeYear").textContent = `${state.year} PDR ÖABT`;
-      show("mode");
+      show(initial ? "welcome" : "mode");
     }
 
   } catch (error) {
@@ -637,4 +637,4 @@ setInterval(() => {
 
 // UYGULAMAYI BAŞLAT
 
-selectYear(2014);
+selectYear(2014, true);
