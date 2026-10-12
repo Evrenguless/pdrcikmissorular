@@ -1,5 +1,5 @@
 {
-  "description": "Dokuz kategorili çalışma taslağı. question_text_reviewed önceki içerik incelemesi; stem_label_prechecked otomatik ön kontrol (kesin doğrulama değil); prefix_candidate etiket temelli aday; needs_content_review belirsiz.",
+  "description": "Dokuz kategori: içerik incelemesi, etiket-kök ön kontrolü, etiket adayı ve belirsiz ayrımı. 2026 soru gövdeleri görselde; görseller bağımsız incelenmeden kesin doğrulama yok.",
   "categories": [
     "Temel Psikolojik Kavramlar",
     "Psikolojik Danışma Kuram, İlke ve Teknikleri",
@@ -5309,7 +5309,8 @@
       "number": 42,
       "originalTopic": "Psikolojik Danışman Özellikleri / Temel Kavramlar",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Psikolojik danışmanın terapötik süreçteki özellikleri."
     },
     {
       "id": "2023-43",
@@ -5353,7 +5354,8 @@
       "number": 47,
       "originalTopic": "Mesleki Rehberlik / Kademelere Göre Kariyer Gelişim",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Kademelere göre kariyer gelişimi etkinlikleri."
     },
     {
       "id": "2023-48",
@@ -5441,8 +5443,9 @@
       "year": 2023,
       "number": 57,
       "originalTopic": "Rehberlik Kuramları / Gelişimsel vs Geleneksel Rehberlik",
-      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Gelişimsel ve geleneksel rehberlik modelinin karşılaştırılması, danışma kuramları değil rehberlik/program alanıdır."
     },
     {
       "id": "2023-58",
@@ -5962,7 +5965,8 @@
       "number": 40,
       "originalTopic": "Kişiler Arası İlişkiler / Joseph DeVito’nun İlişki Aşamaları",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Kişiler arası ilişki gelişim aşamaları."
     },
     {
       "id": "2024-41",
