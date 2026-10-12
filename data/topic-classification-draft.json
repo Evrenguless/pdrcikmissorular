@@ -124,9 +124,9 @@
       "year": 2014,
       "number": 13,
       "originalTopic": "Psikolojik Danışma Kuramları",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni ve seçeneklerde ölçülen kavram incelendi."
     },
     {
       "id": "2014-14",
@@ -196,9 +196,9 @@
       "year": 2014,
       "number": 21,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni ve seçeneklerde ölçülen kavram incelendi."
     },
     {
       "id": "2014-22",
@@ -241,9 +241,9 @@
       "year": 2014,
       "number": 26,
       "originalTopic": "Grupla Psikolojik Danışma",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni ve seçeneklerde ölçülen kavram incelendi."
     },
     {
       "id": "2014-27",
@@ -268,18 +268,18 @@
       "year": 2014,
       "number": 29,
       "originalTopic": "Grupla Psikolojik Danışma",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni ve seçeneklerde ölçülen kavram incelendi."
     },
     {
       "id": "2014-30",
       "year": 2014,
       "number": 30,
       "originalTopic": "Grupla Psikolojik Danışma",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni ve seçeneklerde ölçülen kavram incelendi."
     },
     {
       "id": "2014-31",
@@ -349,9 +349,9 @@
       "year": 2014,
       "number": 38,
       "originalTopic": "Araştırma ve İstatistik",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni ve seçeneklerde ölçülen kavram incelendi."
     },
     {
       "id": "2014-39",
@@ -376,9 +376,9 @@
       "year": 2014,
       "number": 41,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni ve seçeneklerde ölçülen kavram incelendi."
     },
     {
       "id": "2014-42",
@@ -394,9 +394,9 @@
       "year": 2014,
       "number": 43,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni ve seçeneklerde ölçülen kavram incelendi."
     },
     {
       "id": "2014-44",
@@ -421,18 +421,18 @@
       "year": 2014,
       "number": 46,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni ve seçeneklerde ölçülen kavram incelendi."
     },
     {
       "id": "2014-47",
       "year": 2014,
       "number": 47,
       "originalTopic": "Okul Rehberliği",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni ve seçeneklerde ölçülen kavram incelendi."
     },
     {
       "id": "2014-48",
@@ -457,9 +457,9 @@
       "year": 2014,
       "number": 50,
       "originalTopic": "Okul Rehberliği",
-      "category": null,
-      "status": "needs_content_review",
-      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metni ve seçeneklerde ölçülen kavram incelendi."
     },
     {
       "id": "2015-01",
