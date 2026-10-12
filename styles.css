@@ -300,3 +300,10 @@ body{background:#fafaf6;color:var(--ink)}
 .mode-year-picker select{width:100%;min-width:0;padding:11px 14px;border:1px solid #cbded1;border-radius:9px;background:#f7fbf8;color:#123c31;font:700 13px Manrope,system-ui,sans-serif;cursor:pointer}
 .mode-year-picker select:focus-visible{outline:3px solid #a3c9b0;outline-offset:2px}
 @media(max-width:550px){.mode-year-picker{align-items:stretch;flex-direction:column;gap:8px;margin:16px 0 22px}.welcome-nav .campus-link-copy small{font-size:9px}}
+
+/* Ana PDR Kampüs ile aynı logo/wordmark kuralları (tekil kaynak: ana site) */
+.brand{display:flex;align-items:center;gap:10px;white-space:nowrap;text-decoration:none}
+.brand>.brand-logo,.brand.compact>.brand-logo{display:block;width:49px;height:49px;object-fit:contain;flex-shrink:0}
+.brand>strong{display:block;font-family:Manrope,Arial,sans-serif;font-size:22px;font-weight:800;line-height:1.2;letter-spacing:normal;color:#123c31}
+.brand>strong>span{display:inline!important;font:inherit;color:#3e8169}
+@media(max-width:600px){.brand>.brand-logo,.brand.compact>.brand-logo{width:44px;height:44px}.brand>strong{font-size:20px}}
