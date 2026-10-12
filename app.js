@@ -10,12 +10,17 @@ const state = {
   reviewIndex: null,
   reviewTab: "explanation",
   mode: "exam",
-  yearChosen: false
+  yearChosen: false,
+  topicId: null,
+  topicQuestions: [],
+  classification: null
 };
 
 const $ = s => document.querySelector(s);
 
-const storageKey = () => `pdr-oabt-${state.year}-${state.mode}-v4`;
+const storageKey = () => state.mode === "topic" ? `pdr-oabt-${state.year}-topic-${state.topicId}-v1` : `pdr-oabt-${state.year}-${state.mode}-v4`;
+const activeQuestions = () => state.mode === "topic" ? state.topicQuestions : state.data.questions;
+const questionCount = () => activeQuestions().length;
 
 const els = {
   welcome: $("#welcomeView"),
@@ -76,7 +81,7 @@ function load() {
 }
 
 function q() {
-  return state.data.questions[state.current];
+  return activeQuestions()[state.current];
 }
 
 // EKRAN YÖNETİMİ
@@ -90,6 +95,7 @@ function show(view, fromHistory = false) {
   activeView = view;
   els.welcome.hidden = view !== "welcome";
   $("#modeView").hidden = view !== "mode";
+  $("#topicView").hidden = view !== "topic";
   els.exam.hidden = view !== "exam";
   els.results.hidden = view !== "results";
 
@@ -170,6 +176,51 @@ async function selectYear(year, initial = false) {
   }
 }
 
+
+async function openTopicSelection() {
+  try {
+    if (!state.classification) {
+      const response = await fetch("data/topic-classification-draft.json");
+      if (!response.ok) throw new Error("Konu verisi indirilemedi");
+      state.classification = await response.json();
+    }
+    $("#topicYearHeading").textContent = state.year + " PDR ÖABT · KONU MODU";
+    const rows = state.classification.questions.filter(row => row.year === state.year && row.category);
+    const list = $("#topicList");
+    list.replaceChildren();
+    state.classification.categories.forEach((category, index) => {
+      const related = rows.filter(row => row.category === category);
+      const reviewed = related.filter(row => row.status === "question_text_reviewed").length;
+      const provisional = related.length - reviewed;
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "topic-choice";
+      button.disabled = related.length === 0;
+      const title = document.createElement("strong");
+      title.textContent = category;
+      const counts = document.createElement("span");
+      counts.textContent = related.length + " soru" + (provisional ? " · " + provisional + " ön eşleştirme" : "");
+      button.append(title, counts);
+      if (related.length) button.onclick = () => {
+        const ids = new Set(related.map(row => row.id));
+        state.mode = "topic";
+        state.topicId = index;
+        state.topicQuestions = state.data.questions.filter(q => ids.has(q.id));
+        if (!state.topicQuestions.length) { toast("Bu konu için soru bulunamadı."); return; }
+        load();
+        begin(!state.startedAt || state.finished);
+      };
+      list.appendChild(button);
+    });
+    const unassigned = state.classification.questions.filter(row => row.year === state.year && !row.category).length;
+    $("#topicUnassigned").textContent = unassigned ? unassigned + " sınıflandırılmamış soru konu moduna dahil edilmedi." : "Soru sayıları bu yılın mevcut eşleştirmelerine dayanmaktadır.";
+    show("topic");
+  } catch (error) {
+    console.error(error);
+    toast("Konu listesi yüklenemedi.");
+  }
+}
+
 // SINAVI BAŞLATMA
 
 function begin(fresh = false) {
@@ -202,8 +253,8 @@ function begin(fresh = false) {
   legend.innerHTML = '<span><i class="answered"></i> Yanıtlandı</span><span><i class="flagged"></i> İşaretli</span>';
   const restart = $("#restartFromOptic");
   if (restart) restart.hidden = true;
-  $("#timer").closest(".timer").hidden = state.mode === "practice";
-  $("#examBackHint").textContent = "Mod seçimine dön";
+  $("#timer").closest(".timer").hidden = (state.mode === "practice" || state.mode === "topic");
+  $("#examBackHint").textContent = state.mode === "topic" ? "Konu seçimine dön" : "Mod seçimine dön";
   show("exam");
   renderQuestion();
   save();
@@ -214,7 +265,7 @@ function begin(fresh = false) {
 function renderQuestion() {
   const item = q();
 
-  els.topic.textContent = state.mode === "practice" ? "Çalışma Modu" : "";
+  els.topic.textContent = state.mode === "practice" ? "Çalışma Modu" : state.mode === "topic" ? state.classification.categories[state.topicId] : "";
 
   els.number.textContent =
     String(item.number).padStart(2, "0");
@@ -276,7 +327,7 @@ function renderQuestion() {
 
     // CEVAP BUTONUNU ÇALIŞTIRAN BÖLÜM
 
-    b.disabled = state.finished || (state.mode === "practice" && !!state.answers[item.id]);
+    b.disabled = state.finished || ((state.mode === "practice" || state.mode === "topic") && !!state.answers[item.id]);
     if (state.finished || (state.mode === "practice" && !!state.answers[item.id])) {
       b.classList.toggle("review-correct", opt.key === item.answer);
       b.classList.toggle("review-wrong", opt.key === state.answers[item.id] && opt.key !== item.answer);
@@ -295,7 +346,7 @@ function renderQuestion() {
   els.prev.disabled = state.current === 0;
 
   els.next.textContent =
-    state.current === state.data.questionCount - 1
+    state.current === questionCount() - 1
       ? "Optik forma dön →"
       : "Sonraki soru →";
 
@@ -310,7 +361,7 @@ function renderProgress() {
   const count = Object.keys(state.answers).length;
 
   const remaining =
-    state.data.questionCount - count;
+    questionCount() - count;
 
   els.progressLabel.textContent =
     `Soru ${state.current + 1} / ${state.data.questionCount}`;
@@ -319,7 +370,7 @@ function renderProgress() {
     `${count} yanıtlandı`;
 
   els.bar.style.width =
-    `${count / state.data.questionCount * 100}%`;
+    `${count / questionCount() * 100}%`;
 
   els.finishHint.textContent = remaining
     ? `${remaining} soru kaldı`
@@ -331,7 +382,7 @@ function renderProgress() {
 function renderGrid() {
   els.grid.innerHTML = "";
 
-  state.data.questions.forEach((item, i) => {
+  activeQuestions().forEach((item, i) => {
     const b = document.createElement("button");
 
     b.type = "button";
@@ -388,7 +439,7 @@ function resultStats() {
   let wrong = 0;
   let blank = 0;
 
-  state.data.questions.forEach(item => {
+  activeQuestions().forEach(item => {
     const answer = state.answers[item.id];
 
     if (!answer) {
@@ -430,7 +481,7 @@ function renderResults() {
   restart.hidden = false;
   const legend = els.optic.querySelector(".optic-legend");
   legend.innerHTML = '<span><i class="result-correct"></i> Doğru</span><span><i class="result-wrong"></i> Yanlış</span><span><i class="result-blank"></i> Boş</span>';
-  state.data.questions.forEach(item => {
+  activeQuestions().forEach(item => {
     const selected = state.answers[item.id];
     const isCorrect = selected === item.answer;
     const cell = document.createElement("button");
@@ -450,7 +501,7 @@ function renderResults() {
     }
     cell.title = selected ? `Soru ${item.number}: işaretlenen ${selected}, doğru ${item.answer}` : `Soru ${item.number}: boş, doğru cevap ${item.answer}`;
     cell.onclick = () => {
-      const index = state.data.questions.findIndex(q => q.id === item.id);
+      const index = activeQuestions().findIndex(q => q.id === item.id);
       if (index < 0) return;
       state.current = index;
       els.exam.classList.add("result-reviewing");
@@ -494,7 +545,7 @@ function openReview(index, button) {
 }
 
 function renderReview() {
-  const item = state.data.questions[state.reviewIndex];
+  const item = activeQuestions()[state.reviewIndex];
 
   const user = state.answers[item.id] || "Boş";
 
@@ -571,27 +622,27 @@ $("#examBack").onclick = () => {
   els.optic.classList.remove("open");
   els.modal.hidden = true;
   $("#modeYear").textContent = state.year + " PDR ÖABT";
-  show("mode");
+  show(state.mode === "topic" ? "topic" : "mode");
 };
 $("#resultsBack").onclick = () => show("mode");
 
 $("#modeHome").onclick = e => { e.preventDefault(); show("welcome"); };
 document.querySelectorAll("[data-mode]").forEach(button => button.onclick = () => {
-  if (button.dataset.mode === "topic") {
-    toast("Konu eşleştirmeleri doğrulanıyor; henüz açılmadı.");
-    return;
-  }
   if (!state.yearChosen) {
     toast("Başlamak için önce bir sınav yılı seç.");
     document.querySelector(".mode-year-option")?.focus();
     return;
   }
+  if (button.dataset.mode === "topic") { openTopicSelection(); return; }
   state.mode = button.dataset.mode;
+  state.topicQuestions = [];
   load();
   // Geri dönen kullanıcı, aynı moddaki kaydedilmiş cevaplarıyla devam eder.
   begin(!state.startedAt || state.finished);
 });
 
+$("#topicBack").onclick = () => show("mode");
+$("#topicHome").onclick = e => { e.preventDefault(); show("welcome"); };
 $("#resumeExam").onclick = () => { state.yearChosen = true; begin(false); };
 
 $("#homeButton").onclick = e => {
