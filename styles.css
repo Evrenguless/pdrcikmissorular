@@ -112,3 +112,46 @@ body{background:#fafaf6;color:var(--ink)}
 .mode-card:focus-visible{outline:3px solid #a7cbb7;outline-offset:3px}
 @media(max-width:850px){.year-panel{max-height:none}.year-list{overflow:visible}.welcome-grid{align-items:start}}
 @media(max-width:600px){.welcome-nav .campus-link{max-width:132px;text-align:center;line-height:1.35}.welcome-grid{padding-block:32px}.welcome-copy h1{margin:18px 0}.welcome-copy .overline{font-size:10px}.year-list .year-card{min-height:64px}.mode-content{padding:40px 0 54px}.mode-content h1{font-size:clamp(32px,8vw,42px)}.mode-cards{gap:12px}.mode-card{min-height:220px;padding:23px}.mode-card .mode-icon{margin-bottom:21px}.mode-card .mode-tag{top:23px;right:18px}}
+
+/* Odaklı soru çözüm yerleşimi · PDR Kampüs */
+.exam-app:not(.exam-finished) .exam-main{max-width:1360px;grid-template-columns:minmax(0,1fr) 302px;gap:clamp(20px,3vw,42px);align-items:start}
+.exam-app .question-stage{min-width:0}
+.exam-app .question-card{padding:clamp(22px,3vw,38px);min-height:0}
+.question-card-top{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-bottom:20px}
+.question-overline{font-size:10px;letter-spacing:.12em;font-weight:800;color:#6a8575}
+.question-card-top .question-index{margin:6px 0 0;font-size:clamp(25px,3vw,36px);line-height:1.1;color:#123c31}
+.question-view-label{font-size:11px;color:#597266;background:#eef5ef;padding:8px 12px;border-radius:999px;white-space:nowrap;font-weight:700}
+.question-card .question-visual.source-sheet{display:block;width:100%;height:auto;max-width:100%;max-height:none;object-fit:contain;object-position:center;border:0;border-radius:10px;padding:0;margin:0 0 22px;background:#fff}
+.answer-area{border-top:1px solid #e5ece7;padding-top:23px}
+.answer-header{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin-bottom:14px}
+.answer-header strong{font:800 14px Manrope,sans-serif;color:#243b30}
+.answer-header small{color:#728177;font-size:11px}
+.answer-area .options{grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}
+.answer-area .option{display:flex;justify-content:center;align-items:center;min-width:0;min-height:66px;padding:8px;border-radius:12px;border:1px solid #dbe6de;text-align:center;transition:background .15s,border-color .15s,transform .15s}
+.answer-area .option .option-key{width:auto;height:auto;min-width:36px;min-height:36px;border-radius:10px;display:grid;place-items:center;margin:0;font:800 18px Manrope,sans-serif}
+.answer-area .option:not(:disabled):hover{border-color:#80ae92;background:#f0f7f2;transform:translateY(-1px)}
+.answer-area .option.selected{border-color:#17654b;background:#e7f2eb}
+.exam-app:not(.exam-finished) .optic{position:sticky;top:100px;padding:23px 20px}
+.optic-helper{font-size:12px;line-height:1.4;color:#6b7c72;margin:6px 0 0}
+.exam-app:not(.exam-finished) .optic-grid{gap:7px}
+.exam-app:not(.exam-finished) .grid-button{font-weight:700;min-width:0}
+.exam-app:not(.exam-finished) .grid-button.current{box-shadow:0 0 0 2px rgba(23,101,75,.16)}
+.optic-trigger-text{font-size:11px;font-weight:800;margin-left:4px}
+.exam-controls{margin-top:17px}
+.exam-controls .button{min-height:50px}
+@media(max-width:1000px){
+  .exam-app:not(.exam-finished) .exam-main{grid-template-columns:minmax(0,1fr);max-width:850px}
+  .exam-app:not(.exam-finished) .optic{position:fixed;top:0;right:0;width:min(340px,100vw);height:100dvh;max-height:100dvh;z-index:25;transform:translateX(105%);overflow-y:auto;border-radius:0;box-shadow:-18px 0 56px rgba(0,0,0,.15)}
+  .exam-app:not(.exam-finished) .optic.open{transform:translateX(0)}
+}
+@media(max-width:580px){
+  .exam-app .question-card{padding:18px 15px}
+  .question-card-top{margin-bottom:16px}
+  .question-view-label{font-size:10px;padding:7px 9px}
+  .answer-area{padding-top:17px}
+  .answer-header{flex-direction:column;gap:3px}
+  .answer-area .options{gap:6px}
+  .answer-area .option{min-height:56px;padding:4px;border-radius:10px}
+  .answer-area .option .option-key{font-size:16px;min-width:26px;min-height:30px}
+  .optic-trigger-text{display:none}
+}
