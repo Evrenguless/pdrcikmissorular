@@ -59,3 +59,36 @@
 .mode-card[aria-disabled="true"]{opacity:.65;background:#f4f5f0;cursor:default}.mode-card[aria-disabled="true"]:hover{transform:none;border-color:var(--line)}
 .option.review-correct{border-color:#19805a!important;background:#e1f4e9!important}.option.review-wrong{border-color:#bb3939!important;background:#ffebe8!important}
 @media(max-width:760px){.mode-cards{grid-template-columns:1fr}.mode-card{min-height:210px}.mode-head{height:80px}}
+
+/* PDR Kampüs ana platformundan uyarlanan ortak yerleşim */
+:root{--ink:#24342e;--muted:#65756c;--green:#123c31;--green2:#17654b;--mint:#e9f3ed;--cream:#fafaf6;--line:#dce7de;--r:20px}
+body{background:#fafaf6;color:var(--ink)}
+.brand-logo{width:46px;height:46px;object-fit:contain;flex:0 0 auto;border-radius:0}
+.brand.compact .brand-logo{width:40px;height:40px}
+.brand b{font-size:17px;letter-spacing:-.025em}
+.welcome{background:#fafaf6;padding-inline:clamp(20px,5vw,80px)}
+.welcome:after{display:none}
+.welcome-nav{height:86px;border-bottom:1px solid var(--line)}
+.welcome-grid{max-width:1200px;grid-template-columns:minmax(0,1fr) minmax(360px,.83fr);gap:clamp(28px,5vw,76px)}
+.welcome-copy h1{font-size:clamp(39px,5.1vw,69px);line-height:1.09;letter-spacing:-.04em;max-width:680px}
+.hero-accent{color:#17654b}
+.welcome-copy>p{font-size:17px;line-height:1.8}
+.campus-link{color:#123c31;font-size:13px;font-weight:700;text-decoration:none;border:1px solid #d9e5dc;border-radius:999px;padding:11px 17px;background:#fff}
+.campus-link:hover{border-color:#abcabb}
+.year-panel{background:#fff;border:1px solid var(--line);border-radius:20px;box-shadow:0 15px 36px rgba(18,60,49,.055)}
+.year-list .year-card{border-radius:13px;background:#fafbf8}
+.year-list .year-card.active{background:#eaf3ed}
+.exam-facts strong{color:#123c31}
+.welcome-foot{border-top:1px solid var(--line);color:var(--muted)}
+.welcome-foot a{color:#17654b;text-decoration:none;font-weight:700}
+.mode-screen{background:#fafaf6}
+.mode-head{height:86px}
+.mode-content{max-width:1150px}
+.mode-card{box-shadow:none;border-radius:18px}
+.mode-card:hover{border-color:#8eb39d}
+.exam-header,.results-header{background:#fff;border-bottom:1px solid var(--line)}
+.question-card,.optic,.answer-key-card{border-radius:18px;box-shadow:none;border:1px solid var(--line);background:#fff}
+.button{border-radius:12px}
+.button.primary{box-shadow:none}
+@media(max-width:850px){.welcome-grid{grid-template-columns:1fr;gap:28px;padding-block:36px}.welcome-copy h1{max-width:630px}.year-panel{max-width:100%}.welcome{min-height:100vh}.welcome-nav{height:76px}}
+@media(max-width:550px){.welcome{padding-inline:16px}.welcome-grid{padding-block:28px}.welcome-copy h1{font-size:clamp(34px,9vw,49px)}.welcome-copy>p{font-size:15px}.campus-link{font-size:11px;padding:9px 10px}.brand b{font-size:15px}.brand-logo{width:40px;height:40px}.welcome-actions{flex-wrap:wrap}.mode-head{height:76px}.mode-card{padding:24px}}
