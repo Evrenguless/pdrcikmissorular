@@ -164,3 +164,6 @@ body{background:#fafaf6;color:var(--ink)}
 .results-header #resultsBack{min-height:38px;padding:0 12px;white-space:nowrap}
 .exam-app.exam-finished .exam-back-row{max-width:1040px}
 @media(max-width:700px){.exam-back-row{margin:12px auto -7px;padding:0 15px}.exam-back-row>span{display:none}.results-header #resultsBack{font-size:12px}}
+
+/* Ana platformla aynı marka yazımı */
+.brand b .brand-campus{font-weight:600;color:#17654b;text-transform:none}
