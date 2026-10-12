@@ -142,10 +142,11 @@ async function selectYear(year) {
     load();
     applyYearLabels();
 
-    show(state.finished ? "results" : "welcome");
-
     if (state.finished) {
+      show("exam");
       renderResults();
+    } else {
+      show("welcome");
     }
 
   } catch (error) {
@@ -178,6 +179,14 @@ function begin(fresh = false) {
       state.data.durationMinutes * 60 * 1000;
   }
 
+  els.exam.classList.remove("exam-finished");
+  els.optic.classList.remove("open");
+  els.grid.setAttribute("aria-label", "Soru numaraları");
+  $("#finishExam").hidden = false;
+  const legend = els.optic.querySelector(".optic-legend");
+  legend.innerHTML = '<span><i class="answered"></i> Yanıtlandı</span><span><i class="flagged"></i> İşaretli</span>';
+  const restart = $("#restartFromOptic");
+  if (restart) restart.hidden = true;
   show("exam");
   renderQuestion();
   save();
@@ -335,13 +344,6 @@ function tryFinish() {
     state.data.questionCount -
     Object.keys(state.answers).length;
 
-  if (remaining) {
-    toast(
-      `Sınavı bitirmek için ${remaining} soruyu daha yanıtlamalısın.`
-    );
-    return;
-  }
-
   els.modal.hidden = false;
 }
 
@@ -352,8 +354,8 @@ function finish() {
 
   els.modal.hidden = true;
 
+  show("exam");
   renderResults();
-  show("results");
 }
 
 // SONUÇ HESAPLAMA
@@ -381,36 +383,49 @@ function resultStats() {
 // SONUÇ EKRANI
 
 function renderResults() {
-  applyYearLabels();
-  const grid = $("#resultGrid");
-  grid.innerHTML = "";
+  els.exam.classList.add("exam-finished");
+  els.optic.classList.add("open");
+  els.grid.innerHTML = "";
+  els.grid.setAttribute("aria-label", "Sınav sonucu optik formu");
+  const stats = resultStats();
+  els.finishHint.textContent = `${stats.correct} doğru · ${stats.wrong} yanlış · ${stats.blank} boş`;
+  $("#finishExam").hidden = true;
+  let restart = $("#restartFromOptic");
+  if (!restart) {
+    restart = document.createElement("button");
+    restart.id = "restartFromOptic";
+    restart.type = "button";
+    restart.className = "button secondary";
+    restart.textContent = "Sınavı yeniden çöz";
+    restart.onclick = () => {
+      if (confirm("Bu sınavın cevaplarını silip yeniden başlamak istiyor musun?")) begin(true);
+    };
+    els.optic.appendChild(restart);
+  }
+  restart.hidden = false;
+  const legend = els.optic.querySelector(".optic-legend");
+  legend.innerHTML = '<span><i class="result-correct"></i> Doğru</span><span><i class="result-wrong"></i> Yanlış</span><span><i class="result-blank"></i> Boş</span>';
   state.data.questions.forEach(item => {
     const selected = state.answers[item.id];
-    const correct = selected === item.answer;
-    const entry = document.createElement("div");
-    entry.className = "answer-key-item " + (!selected ? "blank" : correct ? "correct" : "wrong");
+    const isCorrect = selected === item.answer;
+    const cell = document.createElement("div");
+    cell.className = "grid-button result-cell " + (!selected ? "result-blank" : isCorrect ? "result-correct" : "result-wrong");
     const number = document.createElement("span");
-    number.className = "answer-key-number";
-    number.textContent = item.number + ".";
+    number.className = "result-number";
+    number.textContent = item.number;
     const choice = document.createElement("strong");
+    choice.className = "result-choice";
     choice.textContent = selected || "—";
-    choice.setAttribute("aria-label", selected ? "İşaretlediğin cevap: " + selected : "Boş bırakıldı");
-    entry.append(number, choice);
-    if (selected && !correct) {
-      const answer = document.createElement("small");
-      answer.className = "answer-key-correct";
-      answer.textContent = "Doğru: " + item.answer;
-      entry.appendChild(answer);
-    } else if (!selected) {
-      const answer = document.createElement("small");
-      answer.className = "answer-key-correct";
-      answer.textContent = "Doğru: " + item.answer;
-      entry.appendChild(answer);
+    cell.append(number, choice);
+    if (selected && !isCorrect) {
+      const correct = document.createElement("small");
+      correct.textContent = "Doğru " + item.answer;
+      cell.appendChild(correct);
     }
-    grid.appendChild(entry);
+    cell.title = selected ? `Soru ${item.number}: işaretlenen ${selected}, doğru ${item.answer}` : `Soru ${item.number}: boş, doğru cevap ${item.answer}`;
+    els.grid.appendChild(cell);
   });
 }
-
 // CEVAP İNCELEME
 
 function openReview(index, button) {
@@ -573,8 +588,8 @@ setInterval(() => {
   if (left === 0) {
     state.finished = true;
     save();
+    show("exam");
     renderResults();
-    show("results");
   }
 
 }, 1000);
