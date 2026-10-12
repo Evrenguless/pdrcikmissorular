@@ -193,32 +193,22 @@ function renderQuestion() {
   els.number.textContent =
     String(item.number).padStart(2, "0");
 
-  // Orijinal görsel kullanılan sorularda
-  // gereksiz açıklama metnini gizle.
+  // Tüm yılların kırpılmış görselleri assets/questions klasöründe.
 
-  if (item.imageOnly) {
-    els.question.textContent = "";
-    els.question.hidden = true;
-  } else {
-    els.question.textContent = item.question;
-    els.question.hidden = false;
-  }
+  els.question.textContent = "";
+  els.question.hidden = true;
 
   // ORİJİNAL SORU GÖRSELİ
 
-  els.visual.hidden = !item.hasOriginalVisual;
+  els.visual.hidden = false;
 
   els.visual.classList.toggle(
     "source-sheet",
-    !!item.imageOnly
+    true
   );
 
-  if (item.hasOriginalVisual) {
-    els.visual.src = item.visual;
-    els.visual.alt = `${state.year} yılı ${item.number}. soru`;
-  } else {
-    els.visual.removeAttribute("src");
-  }
+  els.visual.src = `assets/questions/${state.year}/${String(item.number).padStart(2, "0")}.jpg`;
+  els.visual.alt = `${state.year} yılı ${item.number}. soru`;
 
   // SORUYU İŞARETLEME
 
@@ -256,16 +246,7 @@ function renderQuestion() {
     // Görsel sorularda sadece A B C D E.
     // Metin sorularda seçenek metinleri de görünür.
 
-    if (item.imageOnly) {
-      b.innerHTML = `
-        <span class="option-key">${opt.key}</span>
-      `;
-    } else {
-      b.innerHTML = `
-        <span class="option-key">${opt.key}</span>
-        <span>${opt.text}</span>
-      `;
-    }
+    b.innerHTML = `<span class="option-key">${opt.key}</span>`;
 
     // CEVAP BUTONUNU ÇALIŞTIRAN BÖLÜM
 
@@ -401,49 +382,18 @@ function resultStats() {
 
 function renderResults() {
   applyYearLabels();
-
-  const s = resultStats();
-
-  const percent = Math.round(
-    s.correct / state.data.questionCount * 100
-  );
-
-  $("#correctCount").textContent = s.correct;
-  $("#wrongCount").textContent = s.wrong;
-  $("#blankCount").textContent = s.blank;
-  $("#scorePercent").textContent = percent;
-
-  $("#scoreTitle").textContent =
-    percent >= 80
-      ? "Çok güçlü bir sonuç!"
-      : percent >= 60
-      ? "İyi gidiyorsun."
-      : "Gelişim alanların hazır.";
-
   const grid = $("#resultGrid");
-
   grid.innerHTML = "";
-
-  state.data.questions.forEach((item, i) => {
-    const b = document.createElement("button");
-
-    b.type = "button";
-
-    b.className =
-      "result-button " +
-      (!state.answers[item.id]
-        ? "blank"
-        : state.answers[item.id] === item.answer
-        ? "correct"
-        : "wrong");
-
-    b.textContent = item.number;
-
-    b.title = `${item.number}. soruyu incele`;
-
-    b.onclick = () => openReview(i, b);
-
-    grid.appendChild(b);
+  state.data.questions.forEach(item => {
+    const entry = document.createElement("div");
+    entry.className = "answer-key-item " +
+      (!state.answers[item.id] ? "blank" : state.answers[item.id] === item.answer ? "correct" : "wrong");
+    const number = document.createElement("span");
+    number.textContent = item.number + ".";
+    const answer = document.createElement("strong");
+    answer.textContent = item.answer;
+    entry.append(number, answer);
+    grid.appendChild(entry);
   });
 }
 
@@ -483,26 +433,17 @@ function renderReview() {
 
   const reviewQuestion = $("#reviewQuestion");
 
-  if (item.imageOnly) {
-    reviewQuestion.textContent = "";
-    reviewQuestion.hidden = true;
-  } else {
-    reviewQuestion.textContent = item.question;
-    reviewQuestion.hidden = false;
-  }
+  reviewQuestion.textContent = "";
+  reviewQuestion.hidden = true;
 
-  visual.hidden = !item.hasOriginalVisual;
+  visual.hidden = false;
 
   visual.classList.toggle(
     "source-sheet",
     !!item.imageOnly
   );
 
-  if (item.hasOriginalVisual) {
-    visual.src = item.visual;
-  } else {
-    visual.removeAttribute("src");
-  }
+  visual.src = `assets/questions/${state.year}/${String(item.number).padStart(2, "0")}.jpg`;
 
   $("#answerComparison").innerHTML =
     `Senin cevabın: <b>${user}</b>
