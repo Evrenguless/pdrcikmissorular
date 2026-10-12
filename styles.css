@@ -17,3 +17,20 @@
 .answer-key-item.blank{background:#f5f5f3;border-color:#d1d4cf}
 .answer-key-item.blank strong{color:#777}
 .answer-key-correct{grid-column:1/-1;color:#17654b;font-size:11px;font-weight:800;text-align:right}
+
+/* Sınav bittikten sonra mevcut sağ optik, sonuç optiğine dönüşür. */
+.exam-app.exam-finished .question-stage{display:none!important}
+.exam-app.exam-finished .exam-main{display:block;max-width:1040px;margin:0 auto;padding-top:32px}
+.exam-app.exam-finished .optic{display:block!important;position:static;width:100%;max-width:none;transform:none;max-height:none;overflow:visible;box-shadow:var(--shadow);border-radius:24px}
+.exam-app.exam-finished #closeOptic{display:none}
+.exam-app.exam-finished .optic-grid{grid-template-columns:repeat(5,minmax(0,1fr));gap:12px}
+.exam-app.exam-finished .grid-button.result-cell{height:auto;aspect-ratio:auto;min-height:82px;padding:9px 5px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;text-align:center;cursor:default;outline:none;box-shadow:none}
+.exam-app.exam-finished .result-number{font-size:12px;opacity:.8}
+.exam-app.exam-finished .result-choice{font-size:25px;line-height:1.1}
+.exam-app.exam-finished .result-cell small{font-size:10px;font-weight:700}
+.exam-app.exam-finished .result-cell.result-correct{background:#1c8059;border-color:#1c8059;color:#fff}
+.exam-app.exam-finished .result-cell.result-wrong{background:#b83737;border-color:#b83737;color:#fff}
+.exam-app.exam-finished .result-cell.result-blank{background:#f3f4f2;border-color:#cbd2cf;color:#68776e}
+.optic-legend i.result-correct{background:#1c8059}.optic-legend i.result-wrong{background:#b83737}.optic-legend i.result-blank{background:#cbd2cf}
+.exam-app.exam-finished #restartFromOptic{width:100%;margin-top:12px}
+@media(max-width:700px){.exam-app.exam-finished .exam-main{padding:12px}.exam-app.exam-finished .optic-grid{gap:6px}.exam-app.exam-finished .grid-button.result-cell{min-height:70px}.exam-app.exam-finished .result-choice{font-size:21px}.exam-app.exam-finished .result-cell small{font-size:9px}}
