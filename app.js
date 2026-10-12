@@ -191,6 +191,7 @@ function begin(fresh = false) {
   const restart = $("#restartFromOptic");
   if (restart) restart.hidden = true;
   $("#timer").closest(".timer").hidden = state.mode === "practice";
+  $("#examBackHint").textContent = "Mod seçimine dön";
   show("exam");
   renderQuestion();
   save();
@@ -395,6 +396,7 @@ function resultStats() {
 function renderResults() {
   els.exam.classList.add("exam-finished");
   els.exam.classList.remove("result-reviewing");
+  $("#examBackHint").textContent = "Mod seçimine dön";
   els.optic.classList.add("open");
   els.grid.innerHTML = "";
   els.grid.setAttribute("aria-label", "Sınav sonucu optik formu");
@@ -440,6 +442,7 @@ function renderResults() {
       if (index < 0) return;
       state.current = index;
       els.exam.classList.add("result-reviewing");
+      $("#examBackHint").textContent = "Sonuç optiğine dön";
       renderQuestion();
       window.scrollTo(0, 0);
     };
@@ -541,6 +544,19 @@ els.bookmark.onclick = () => {
 
 $("#startExam").onclick = () => show("mode");
 $("#modeBack").onclick = () => show("welcome");
+$("#examBack").onclick = () => {
+  if (state.finished && els.exam.classList.contains("result-reviewing")) {
+    renderResults();
+    return;
+  }
+  if (!state.finished) save();
+  els.optic.classList.remove("open");
+  els.modal.hidden = true;
+  $("#modeYear").textContent = state.year + " PDR ÖABT";
+  show("mode");
+};
+$("#resultsBack").onclick = () => show("mode");
+
 $("#modeHome").onclick = e => { e.preventDefault(); show("welcome"); };
 document.querySelectorAll("[data-mode]").forEach(button => button.onclick = () => {
   if (button.dataset.mode === "topic") {
