@@ -1,5 +1,5 @@
 {
-  "description": "ÖABT konu eşleme taslağı. prefix_candidate kayıtları yalnızca etiket tabanlı adaydır; soru içeriğiyle onaylanmadan konu modunda kullanılmamalıdır.",
+  "description": "Sekiz başlık altında konu eşleştirme çalışma dosyası. question_text_reviewed incelemeden geçenlerdir. Diğerleri aday veya inceleme bekliyor; tamamı doğrulanmadan konu modu açılmamalı.",
   "categories": [
     "Temel Psikolojik Kavramlar",
     "Psikolojik Danışma Kuram, İlke ve Teknikleri",
@@ -16,72 +16,81 @@
       "year": 2014,
       "number": 1,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-02",
       "year": 2014,
       "number": 2,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-03",
       "year": 2014,
       "number": 3,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-04",
       "year": 2014,
       "number": 4,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-05",
       "year": 2014,
       "number": 5,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-06",
       "year": 2014,
       "number": 6,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-07",
       "year": 2014,
       "number": 7,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-08",
       "year": 2014,
       "number": 8,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-09",
       "year": 2014,
       "number": 9,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-10",
@@ -89,7 +98,8 @@
       "number": 10,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-11",
@@ -97,7 +107,8 @@
       "number": 11,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-12",
@@ -105,15 +116,17 @@
       "number": 12,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-13",
       "year": 2014,
       "number": 13,
       "originalTopic": "Psikolojik Danışma Kuramları",
-      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "category": null,
+      "status": "needs_content_review",
+      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
     },
     {
       "id": "2014-14",
@@ -121,7 +134,8 @@
       "number": 14,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-15",
@@ -129,7 +143,8 @@
       "number": 15,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-16",
@@ -137,39 +152,44 @@
       "number": 16,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-17",
       "year": 2014,
       "number": 17,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-18",
       "year": 2014,
       "number": 18,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-19",
       "year": 2014,
       "number": 19,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-20",
       "year": 2014,
       "number": 20,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-21",
@@ -177,7 +197,8 @@
       "number": 21,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
       "category": null,
-      "status": "needs_content_review"
+      "status": "needs_content_review",
+      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
     },
     {
       "id": "2014-22",
@@ -185,7 +206,8 @@
       "number": 22,
       "originalTopic": "Bireyi Tanıma ve Testler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-23",
@@ -193,7 +215,8 @@
       "number": 23,
       "originalTopic": "Bireyi Tanıma ve Testler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-24",
@@ -201,7 +224,8 @@
       "number": 24,
       "originalTopic": "Bireyi Tanıma ve Testler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-25",
@@ -209,15 +233,17 @@
       "number": 25,
       "originalTopic": "Bireyi Tanıma ve Testler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-26",
       "year": 2014,
       "number": 26,
       "originalTopic": "Grupla Psikolojik Danışma",
-      "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "category": null,
+      "status": "needs_content_review",
+      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
     },
     {
       "id": "2014-27",
@@ -225,7 +251,8 @@
       "number": 27,
       "originalTopic": "Grupla Psikolojik Danışma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-28",
@@ -233,23 +260,26 @@
       "number": 28,
       "originalTopic": "Grupla Psikolojik Danışma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-29",
       "year": 2014,
       "number": 29,
       "originalTopic": "Grupla Psikolojik Danışma",
-      "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "category": null,
+      "status": "needs_content_review",
+      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
     },
     {
       "id": "2014-30",
       "year": 2014,
       "number": 30,
       "originalTopic": "Grupla Psikolojik Danışma",
-      "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "category": null,
+      "status": "needs_content_review",
+      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
     },
     {
       "id": "2014-31",
@@ -257,7 +287,8 @@
       "number": 31,
       "originalTopic": "Grupla Psikolojik Danışma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-32",
@@ -265,7 +296,8 @@
       "number": 32,
       "originalTopic": "Kariyer Danışmanlığı",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-33",
@@ -273,7 +305,8 @@
       "number": 33,
       "originalTopic": "Kariyer Danışmanlığı",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-34",
@@ -281,7 +314,8 @@
       "number": 34,
       "originalTopic": "Kariyer Danışmanlığı",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-35",
@@ -289,7 +323,8 @@
       "number": 35,
       "originalTopic": "Kariyer Danışmanlığı",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-36",
@@ -297,7 +332,8 @@
       "number": 36,
       "originalTopic": "Araştırma ve İstatistik",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-37",
@@ -305,31 +341,35 @@
       "number": 37,
       "originalTopic": "Araştırma ve İstatistik",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-38",
       "year": 2014,
       "number": 38,
       "originalTopic": "Araştırma ve İstatistik",
-      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "prefix_candidate"
+      "category": null,
+      "status": "needs_content_review",
+      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
     },
     {
       "id": "2014-39",
       "year": 2014,
       "number": 39,
       "originalTopic": "Araştırma ve İstatistik",
-      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "prefix_candidate"
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-40",
       "year": 2014,
       "number": 40,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-41",
@@ -337,15 +377,17 @@
       "number": 41,
       "originalTopic": "Etik ve Danışma Becerileri",
       "category": null,
-      "status": "needs_content_review"
+      "status": "needs_content_review",
+      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
     },
     {
       "id": "2014-42",
       "year": 2014,
       "number": 42,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-43",
@@ -353,23 +395,26 @@
       "number": 43,
       "originalTopic": "Etik ve Danışma Becerileri",
       "category": null,
-      "status": "needs_content_review"
+      "status": "needs_content_review",
+      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
     },
     {
       "id": "2014-44",
       "year": 2014,
       "number": 44,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-45",
       "year": 2014,
       "number": 45,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-46",
@@ -377,7 +422,8 @@
       "number": 46,
       "originalTopic": "Etik ve Danışma Becerileri",
       "category": null,
-      "status": "needs_content_review"
+      "status": "needs_content_review",
+      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
     },
     {
       "id": "2014-47",
@@ -385,23 +431,26 @@
       "number": 47,
       "originalTopic": "Okul Rehberliği",
       "category": null,
-      "status": "needs_content_review"
+      "status": "needs_content_review",
+      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
     },
     {
       "id": "2014-48",
       "year": 2014,
       "number": 48,
       "originalTopic": "Okul Rehberliği",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-49",
       "year": 2014,
       "number": 49,
       "originalTopic": "Okul Rehberliği",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru metnine göre yeniden eşleştirildi."
     },
     {
       "id": "2014-50",
@@ -409,7 +458,8 @@
       "number": 50,
       "originalTopic": "Okul Rehberliği",
       "category": null,
-      "status": "needs_content_review"
+      "status": "needs_content_review",
+      "reviewNote": "Soru/şıkların tamamı ayrıca incelenmeli."
     },
     {
       "id": "2015-01",
