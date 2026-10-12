@@ -565,7 +565,8 @@ document.querySelectorAll("[data-mode]").forEach(button => button.onclick = () =
   }
   state.mode = button.dataset.mode;
   load();
-  begin(true);
+  // Geri dönen kullanıcı, aynı moddaki kaydedilmiş cevaplarıyla devam eder.
+  begin(!state.startedAt || state.finished);
 });
 
 $("#resumeExam").onclick = () => begin(false);
