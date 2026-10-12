@@ -272,3 +272,12 @@ body{background:#fafaf6;color:var(--ink)}
   .exam-app.exam-finished.result-reviewing .answer-area .options{gap:6px}
   .exam-app.exam-finished.result-reviewing .answer-area .option{min-height:49px;padding:4px}
 }
+
+/* Tek satır kurumsal marka: simge + PDRkampüs, fazladan etiket/ok yok */
+.welcome-nav .campus-link{gap:10px;min-height:52px;padding:7px 15px 7px 8px;align-items:center}
+.welcome-nav .campus-link-symbol{display:grid;place-items:center}
+.welcome-nav .campus-link-copy{display:flex;align-items:center;justify-content:center}
+.welcome-nav .campus-link-copy strong{font-size:16px;line-height:1.2}
+.welcome-nav .year-monogram,.year-list .year-monogram{display:flex;align-items:center;justify-content:center;line-height:1!important;padding:0!important;text-align:center;font-variant-numeric:lining-nums tabular-nums}
+@media(max-width:550px){.welcome-nav .campus-link{gap:7px;min-height:44px;padding:6px 10px 6px 6px}.welcome-nav .campus-link-copy strong{font-size:13px}}
+@media(max-width:385px){.welcome-nav .campus-link-symbol{display:grid}}
