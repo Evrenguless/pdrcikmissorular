@@ -155,3 +155,12 @@ body{background:#fafaf6;color:var(--ink)}
   .answer-area .option .option-key{font-size:16px;min-width:26px;min-height:30px}
   .optic-trigger-text{display:none}
 }
+
+/* Tüm çözüm aşamalarında açık geri navigasyonu */
+.exam-back-row{max-width:1360px;margin:22px auto -16px;padding:0 clamp(20px,4vw,60px);display:flex;align-items:center;gap:13px}
+.exam-back-row .back-navigation{min-height:39px;padding:0 15px;background:#fff;border-color:var(--line)}
+.exam-back-row>span{font-size:12px;color:var(--muted)}
+.results-header{gap:16px}
+.results-header #resultsBack{min-height:38px;padding:0 12px;white-space:nowrap}
+.exam-app.exam-finished .exam-back-row{max-width:1040px}
+@media(max-width:700px){.exam-back-row{margin:12px auto -7px;padding:0 15px}.exam-back-row>span{display:none}.results-header #resultsBack{font-size:12px}}
