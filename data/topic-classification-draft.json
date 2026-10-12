@@ -1,5 +1,5 @@
 {
-  "description": "Dokuz ana başlıklı konu eşleştirme taslağı. Özel Eğitim bağımsız kategori. question_text_reviewed kayıtları gözden geçirilmiş veya belirgin özgün özel eğitim etiketleriyle eşleştirilmiştir; prefix_candidate kayıtları henüz içerik doğrulaması bekler.",
+  "description": "Dokuz kategorili çalışma taslağı. question_text_reviewed önceki içerik incelemesi; stem_label_prechecked otomatik ön kontrol (kesin doğrulama değil); prefix_candidate etiket temelli aday; needs_content_review belirsiz.",
   "categories": [
     "Temel Psikolojik Kavramlar",
     "Psikolojik Danışma Kuram, İlke ve Teknikleri",
@@ -2250,8 +2250,8 @@
       "number": 1,
       "originalTopic": "Gelişim Psikolojisi / Araştırma Yöntemleri",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-02",
@@ -2283,8 +2283,8 @@
       "number": 5,
       "originalTopic": "Bilişsel Psikoloji / Öğrenme Psikolojisi",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-06",
@@ -2292,8 +2292,8 @@
       "number": 6,
       "originalTopic": "Öğrenme Psikolojisi / Edimsel Koşullanma",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-07",
@@ -2318,8 +2318,8 @@
       "number": 9,
       "originalTopic": "Kişilik Kuramları / Karen Horney",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-10",
@@ -2327,8 +2327,8 @@
       "number": 10,
       "originalTopic": "Kişilik Kuramları / Harry Stack Sullivan",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-11",
@@ -2336,8 +2336,8 @@
       "number": 11,
       "originalTopic": "Kişilik Kuramları / Bireysel Psikoloji (Adler)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-12",
@@ -2345,8 +2345,8 @@
       "number": 12,
       "originalTopic": "Psikolojik Danışma Kuramları / Psikanaliz",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-13",
@@ -2354,8 +2354,8 @@
       "number": 13,
       "originalTopic": "Psikolojik Danışma Kuramları / Birey Merkezli (İnsancıl)",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-14",
@@ -2363,8 +2363,8 @@
       "number": 14,
       "originalTopic": "Psikolojik Danışma Kuramları / Bilişsel Terapi",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-15",
@@ -2372,8 +2372,8 @@
       "number": 15,
       "originalTopic": "Psikolojik Danışma Kuramları / Gerçeklik Terapisi (Glasser)",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-16",
@@ -2381,8 +2381,8 @@
       "number": 16,
       "originalTopic": "Aile Danışmanlığı Kuramları / Murray Bowen",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-17",
@@ -2390,8 +2390,8 @@
       "number": 17,
       "originalTopic": "Psikolojik Danışma Kuramları / Saldırganlığın Doğası",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-18",
@@ -2399,8 +2399,8 @@
       "number": 18,
       "originalTopic": "Psikolojik Danışma Kuramları / ADDT (Ellis)",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-19",
@@ -2424,8 +2424,8 @@
       "number": 21,
       "originalTopic": "Grupla Psikolojik Danışma / Grup Evreleri",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-22",
@@ -2433,8 +2433,8 @@
       "number": 22,
       "originalTopic": "Psikolojik Danışma Becerileri / Yüzleştirme",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-23",
@@ -2442,8 +2442,8 @@
       "number": 23,
       "originalTopic": "Psikolojik Danışma Becerileri / İlk Oturum ve İlişki Kurma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-24",
@@ -2451,8 +2451,8 @@
       "number": 24,
       "originalTopic": "Psikolojik Danışma Becerileri / Kendini Açma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-25",
@@ -2460,8 +2460,8 @@
       "number": 25,
       "originalTopic": "Anormal Psikoloji / DSM-5 / Panik Bozukluk",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-26",
@@ -2469,8 +2469,8 @@
       "number": 26,
       "originalTopic": "Anormal Psikoloji / Kişilik Bozuklukları",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-27",
@@ -2478,8 +2478,8 @@
       "number": 27,
       "originalTopic": "Anormal Psikoloji / Şizofreni Spektrumu (Sanrılar)",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-28",
@@ -2487,8 +2487,8 @@
       "number": 28,
       "originalTopic": "Anormal Psikoloji / Madde Kullanım Bozuklukları",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-29",
@@ -2496,8 +2496,8 @@
       "number": 29,
       "originalTopic": "Anormal Psikoloji / Çocuk ve Ergen Psikopatolojisi",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-30",
@@ -2540,8 +2540,8 @@
       "number": 34,
       "originalTopic": "Bireyi Tanıma Teknikleri / Psikolojik Testler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-35",
@@ -2549,8 +2549,8 @@
       "number": 35,
       "originalTopic": "Psikolojik Testler / Projektif Teknikler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-36",
@@ -2558,8 +2558,8 @@
       "number": 36,
       "originalTopic": "Bireyi Tanıma Teknikleri / Psikolojik Testlerde Hatalar",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-37",
@@ -2567,8 +2567,8 @@
       "number": 37,
       "originalTopic": "Bireyi Tanıma Teknikleri / Sosyometrik & Dramatik",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-38",
@@ -2576,8 +2576,8 @@
       "number": 38,
       "originalTopic": "Bireyi Tanıma Teknikleri / Sosyometri",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-39",
@@ -2585,8 +2585,8 @@
       "number": 39,
       "originalTopic": "Bireyi Tanıma Teknikleri / Gözlem Hataları",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-40",
@@ -2594,8 +2594,8 @@
       "number": 40,
       "originalTopic": "Psikolojik Danışma Becerileri / Dinleme Engelleri",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-41",
@@ -2603,8 +2603,8 @@
       "number": 41,
       "originalTopic": "Grupla Psikolojik Danışma / Yalom'un Terapötik Faktörleri",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-42",
@@ -2612,8 +2612,8 @@
       "number": 42,
       "originalTopic": "Grupla Psikolojik Danışma / Danışmanın Kişisel Sorunları",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-43",
@@ -2629,8 +2629,8 @@
       "number": 44,
       "originalTopic": "Grupla Psikolojik Danışma / Grup Türleri (ASGW)",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-45",
@@ -2638,8 +2638,8 @@
       "number": 45,
       "originalTopic": "İletişim Becerileri / Etkin Dinleme ve Sen Dili",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-46",
@@ -2647,8 +2647,8 @@
       "number": 46,
       "originalTopic": "İletişim Becerileri / Tam Mesaj (McKay)",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-47",
@@ -2656,8 +2656,8 @@
       "number": 47,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Kariyer Olgunluğu",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-48",
@@ -2665,8 +2665,8 @@
       "number": 48,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Ann Roe'nun Anne-Baba",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-49",
@@ -2674,8 +2674,8 @@
       "number": 49,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Holland'ın Tipoloji Kuramı",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-50",
@@ -2683,8 +2683,8 @@
       "number": 50,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Ginzberg ve Arkadaşları",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-51",
@@ -2692,8 +2692,8 @@
       "number": 51,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Donald Super",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-52",
@@ -2701,8 +2701,8 @@
       "number": 52,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Temel İlkeler",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-53",
@@ -2710,8 +2710,8 @@
       "number": 53,
       "originalTopic": "Araştırma Yöntemleri / Değişken Türleri",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-54",
@@ -2719,8 +2719,8 @@
       "number": 54,
       "originalTopic": "İstatistik / Dağılım Ölçüleri",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-55",
@@ -2728,8 +2728,8 @@
       "number": 55,
       "originalTopic": "İstatistik / Hipotez Testleri (t-testi)",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-56",
@@ -2755,8 +2755,8 @@
       "number": 58,
       "originalTopic": "Mesleki Etik ve Yasalar / Etik İlkelerin Faydaları",
       "category": "Meslek Etiği ve Yasal Konular",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-59",
@@ -2764,8 +2764,8 @@
       "number": 59,
       "originalTopic": "Mesleki Etik ve Yasalar / Gizlilik Sınırları ve İstismar",
       "category": "Meslek Etiği ve Yasal Konular",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-60",
@@ -2773,8 +2773,8 @@
       "number": 60,
       "originalTopic": "Mesleki Etik ve Yasalar / İkili (Çoklu) İlişkiler",
       "category": "Meslek Etiği ve Yasal Konular",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-61",
@@ -2782,8 +2782,8 @@
       "number": 61,
       "originalTopic": "Psikolojik Danışma Kuramları / ADDT (A-B-C Çözümlemesi)",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-62",
@@ -2791,8 +2791,8 @@
       "number": 62,
       "originalTopic": "Psikolojik Danışma Kuramları / Gestalt (Bitirilmemiş İşler)",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-63",
@@ -2800,8 +2800,8 @@
       "number": 63,
       "originalTopic": "Grupla Psikolojik Danışma / Direnç Belirtileri",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-64",
@@ -2818,8 +2818,8 @@
       "number": 65,
       "originalTopic": "Grupla Psikolojik Danışma / Öğüt Verme ve Odağı",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-66",
@@ -2827,8 +2827,8 @@
       "number": 66,
       "originalTopic": "Grupla Psikolojik Danışma / Paylaştırma (Bağlama) Becerisi",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-67",
@@ -2836,8 +2836,8 @@
       "number": 67,
       "originalTopic": "Grupla Psikolojik Danışma / Johari Penceresi",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-68",
@@ -2863,8 +2863,8 @@
       "number": 70,
       "originalTopic": "Gelişim Psikolojisi / Sosyal İlişkiler ve Araştırma Yorumlama",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2019-71",
@@ -2917,8 +2917,8 @@
       "number": 1,
       "originalTopic": "Gelişim / Sosyal Psikoloji (Duygusal Zekâ)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-02",
@@ -2926,8 +2926,8 @@
       "number": 2,
       "originalTopic": "Sosyal Psikoloji / Özgeci (Altruistik) Davranış",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-03",
@@ -2935,8 +2935,8 @@
       "number": 3,
       "originalTopic": "Sosyal Psikoloji / Sosyal Etki ve Uyma",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-04",
@@ -2944,8 +2944,8 @@
       "number": 4,
       "originalTopic": "Fizyolojik Psikoloji / Nörotransmitterler",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-05",
@@ -2953,8 +2953,8 @@
       "number": 5,
       "originalTopic": "Öğrenme Psikolojisi / Edimsel Koşullanma (Ceza Türleri)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-06",
@@ -2962,8 +2962,8 @@
       "number": 6,
       "originalTopic": "Öğrenme Psikolojisi / Edimsel Koşullanma (Pekiştirme",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-07",
@@ -2971,8 +2971,8 @@
       "number": 7,
       "originalTopic": "Gelişim Psikolojisi / Gelişimin Bağlamsallığı (Baltes)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-08",
@@ -2980,8 +2980,8 @@
       "number": 8,
       "originalTopic": "Gelişim Psikolojisi / Bronfenbrenner’in Ekolojik Kuramı",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-09",
@@ -2989,8 +2989,8 @@
       "number": 9,
       "originalTopic": "Kişilik Kuramları / Büyük Beşli (Big Five)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-10",
@@ -2998,8 +2998,8 @@
       "number": 10,
       "originalTopic": "Gelişim Psikolojisi / Erikson (Psikososyal Gelişim)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-11",
@@ -3007,8 +3007,8 @@
       "number": 11,
       "originalTopic": "Kişilik Kuramları / Psikanalitik Yaklaşım (Savunma",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-12",
@@ -3016,8 +3016,8 @@
       "number": 12,
       "originalTopic": "Kişilik Kuramları / Carl Jung (Analitik Psikoloji)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-13",
@@ -3025,8 +3025,8 @@
       "number": 13,
       "originalTopic": "Psikolojik Danışma Kuramları / Varoluşçu Yaklaşım",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-14",
@@ -3034,8 +3034,8 @@
       "number": 14,
       "originalTopic": "Psikolojik Danışma Kuramları / Bağlanma Stilleri",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-15",
@@ -3043,8 +3043,8 @@
       "number": 15,
       "originalTopic": "Psikolojik Danışma Kuramları / Gestalt Terapisi (Teknikler)",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-16",
@@ -3052,8 +3052,8 @@
       "number": 16,
       "originalTopic": "Psikolojik Danışma Kuramları / Gerçeklik Terapisi (Seçim",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-17",
@@ -3061,8 +3061,8 @@
       "number": 17,
       "originalTopic": "Psikolojik Danışma Kuramları / Transaksiyonel Analiz (TA)",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-18",
@@ -3070,8 +3070,8 @@
       "number": 18,
       "originalTopic": "Psikolojik Danışma Becerileri / Kişiselleştirme (Carkhuff)",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-19",
@@ -3079,8 +3079,8 @@
       "number": 19,
       "originalTopic": "Psikolojik Danışma Becerileri / Bağlama (Linking)",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-20",
@@ -3088,8 +3088,8 @@
       "number": 20,
       "originalTopic": "Psikolojik Danışma Becerileri / Özetleme (Summarizing)",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-21",
@@ -3097,8 +3097,8 @@
       "number": 21,
       "originalTopic": "Psikolojik Danışma Becerileri / İçerik Yansıması (Yeniden",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-22",
@@ -3106,8 +3106,8 @@
       "number": 22,
       "originalTopic": "Grupla Psikolojik Danışma / Liderlik Becerileri (Sınır Koyma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-23",
@@ -3115,8 +3115,8 @@
       "number": 23,
       "originalTopic": "Psikolojik Danışma Süreci / Sonlandırma (Termination)",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-24",
@@ -3124,8 +3124,8 @@
       "number": 24,
       "originalTopic": "Grupla Psikolojik Danışma / Başlangıç Evresi Görevleri",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-25",
@@ -3133,8 +3133,8 @@
       "number": 25,
       "originalTopic": "Anormal Psikoloji / DSM-5 / Obsesif Kompulsif Kişilik",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-26",
@@ -3142,8 +3142,8 @@
       "number": 26,
       "originalTopic": "Anormal Psikoloji / DSM-5 / İkiuçlu (Bipolar) Bozukluk",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-27",
@@ -3151,8 +3151,8 @@
       "number": 27,
       "originalTopic": "Anormal Psikoloji / DSM-5 / Yaygın Kaygı Bozukluğu (YKB)",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-28",
@@ -3160,8 +3160,8 @@
       "number": 28,
       "originalTopic": "Anormal Psikoloji / DSM-5 / Özgül Fobi (Karanlık Fobisi)",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-29",
@@ -3169,8 +3169,8 @@
       "number": 29,
       "originalTopic": "Anormal Psikoloji / Etiyoloji (Hastalık Nedenleri)",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-30",
@@ -3205,8 +3205,8 @@
       "number": 33,
       "originalTopic": "Bireyi Tanıma Teknikleri / Temel İlkeler ve Geri Bildirim",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-34",
@@ -3214,8 +3214,8 @@
       "number": 34,
       "originalTopic": "Bireyi Tanıma Teknikleri / Profil Yorumlama ve Ayrışma",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-35",
@@ -3223,8 +3223,8 @@
       "number": 35,
       "originalTopic": "Bireyi Tanıma Teknikleri / Ölçme Araçlarının",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-36",
@@ -3232,8 +3232,8 @@
       "number": 36,
       "originalTopic": "Bireyi Tanıma Teknikleri / Ölçme ve Değerlendirme",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-37",
@@ -3241,8 +3241,8 @@
       "number": 37,
       "originalTopic": "Bireyi Tanıma Teknikleri / Kimdir Bu? (Sosyometrik",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-38",
@@ -3250,8 +3250,8 @@
       "number": 38,
       "originalTopic": "Psikolojik Danışma Kuramları / Psikodrama (J.L. Moreno)",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-39",
@@ -3259,8 +3259,8 @@
       "number": 39,
       "originalTopic": "Psikolojik Danışma Kuramları / Bibliyoterapi (Kitapla",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-40",
@@ -3268,8 +3268,8 @@
       "number": 40,
       "originalTopic": "Grupla Psikolojik Danışma / Zor Üye Davranışları",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-41",
@@ -3277,8 +3277,8 @@
       "number": 41,
       "originalTopic": "Grupla Psikolojik Danışma / Gönülsüz (Dirençli) Üyelerle",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-42",
@@ -3286,8 +3286,8 @@
       "number": 42,
       "originalTopic": "Psikolojik Danışma Etik İlkeleri / Karşıt Aktarım ve",
       "category": "Meslek Etiği ve Yasal Konular",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-43",
@@ -3295,8 +3295,8 @@
       "number": 43,
       "originalTopic": "Grupla Psikolojik Danışma / Grup Evreleri (Geçiş Evresi)",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-44",
@@ -3304,8 +3304,8 @@
       "number": 44,
       "originalTopic": "Psikolojik Danışma Kuramları / Karşıt Aktarım (Örnek Vaka)",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-45",
@@ -3313,8 +3313,8 @@
       "number": 45,
       "originalTopic": "İletişim Becerileri / Thomas Gordon (İletişim Engelleri)",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-46",
@@ -3322,8 +3322,8 @@
       "number": 46,
       "originalTopic": "İletişim Becerileri / Etkin (Aktif) Dinleme",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-47",
@@ -3331,8 +3331,8 @@
       "number": 47,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Yetenek (Aptitude)",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-48",
@@ -3340,8 +3340,8 @@
       "number": 48,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Sosyal Bilişsel Kariyer",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-49",
@@ -3349,8 +3349,8 @@
       "number": 49,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Holland'ın Tipleri",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-50",
@@ -3358,8 +3358,8 @@
       "number": 50,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Donald Super'ın Büyüme",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-51",
@@ -3367,8 +3367,8 @@
       "number": 51,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Linda Gottfredson",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-52",
@@ -3376,8 +3376,8 @@
       "number": 52,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Ginzberg ve Arkadaşları",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-53",
@@ -3385,8 +3385,8 @@
       "number": 53,
       "originalTopic": "Araştırma Yöntemleri / Değişken Türleri",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-54",
@@ -3394,8 +3394,8 @@
       "number": 54,
       "originalTopic": "Araştırma Yöntemleri / Korelasyonel Araştırmalar (Neden-",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-55",
@@ -3403,8 +3403,8 @@
       "number": 55,
       "originalTopic": "Araştırma Yöntemleri / Deneysel Desenler",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-56",
@@ -3412,8 +3412,8 @@
       "number": 56,
       "originalTopic": "İstatistik / Normal Dağılım ve Simetri Mantığı (Ali'nin Puanı)",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-57",
@@ -3430,8 +3430,8 @@
       "number": 58,
       "originalTopic": "Mesleki Etik ve Yasalar / İkili (Çoklu) İlişkiler (Örnek Vaka)",
       "category": "Meslek Etiği ve Yasal Konular",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-59",
@@ -3439,8 +3439,8 @@
       "number": 59,
       "originalTopic": "Mesleki Etik ve Yasalar / Gizliliğin Sınırları (İstisnalar)",
       "category": "Meslek Etiği ve Yasal Konular",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-60",
@@ -3448,8 +3448,8 @@
       "number": 60,
       "originalTopic": "Mesleki Etik ve Yasalar / Yetkinlik, Sınırlar ve Sevk",
       "category": "Meslek Etiği ve Yasal Konular",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-61",
@@ -3457,8 +3457,8 @@
       "number": 61,
       "originalTopic": "Bireyle Psikolojik Danışma / Danışma Sürecinin Aşamaları",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-62",
@@ -3466,8 +3466,8 @@
       "number": 62,
       "originalTopic": "Gelişim Psikolojisi / Albert Bandura (Öz Yeterlik)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-63",
@@ -3475,8 +3475,8 @@
       "number": 63,
       "originalTopic": "Psikolojik Danışma Becerileri / Dirençle Baş Etme Yolları",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-64",
@@ -3484,8 +3484,8 @@
       "number": 64,
       "originalTopic": "Psikolojik Danışma Kuramları / Çözüm Odaklı Kısa Süreli",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-65",
@@ -3493,8 +3493,8 @@
       "number": 65,
       "originalTopic": "Grupla Psikolojik Danışma / Yüzleştirme ve Hedefle Bağlantı",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-66",
@@ -3502,8 +3502,8 @@
       "number": 66,
       "originalTopic": "Bireyle Psikolojik Danışma / Danışma Süreci Basamakları",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-67",
@@ -3511,8 +3511,8 @@
       "number": 67,
       "originalTopic": "Bireyle Psikolojik Danışma / Egan Modeli (Eylem Aşamasına",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-68",
@@ -3529,8 +3529,8 @@
       "number": 69,
       "originalTopic": "Grupla Psikolojik Danışma / Tekelci Üye (Monopolizer)",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-70",
@@ -3538,8 +3538,8 @@
       "number": 70,
       "originalTopic": "Grupla Psikolojik Danışma / Üye-Lider Aktarımı",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-71",
@@ -3556,8 +3556,8 @@
       "number": 72,
       "originalTopic": "Psikolojik Danışma Kuramları / BDT (Bilişsel",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-73",
@@ -3565,8 +3565,8 @@
       "number": 73,
       "originalTopic": "Gelişim Psikolojisi / Ergenlikte Bedensel Gelişim ve",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2020-74",
@@ -3601,8 +3601,8 @@
       "number": 2,
       "originalTopic": "Sosyal Psikoloji / İkna ve Uyum Teknikleri",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-03",
@@ -3610,8 +3610,8 @@
       "number": 3,
       "originalTopic": "Kişilik Kuramları / Harry Stack Sullivan (Kişilerarası İlişkiler)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-04",
@@ -3619,8 +3619,8 @@
       "number": 4,
       "originalTopic": "Sosyal Psikoloji / Temel Yükleme Hatası (Fundamental",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-05",
@@ -3628,8 +3628,8 @@
       "number": 5,
       "originalTopic": "Gelişim Psikolojisi / Erikson (Özerkliğe Karşı Kuşku ve Utanç)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-06",
@@ -3637,8 +3637,8 @@
       "number": 6,
       "originalTopic": "Öğrenme ve Bilişsel Psikoloji / Bellekte Karışma (Ket Vurma)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-07",
@@ -3646,8 +3646,8 @@
       "number": 7,
       "originalTopic": "Gelişim Psikolojisi / Piaget (Özümleme ve Uyma)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-08",
@@ -3655,8 +3655,8 @@
       "number": 8,
       "originalTopic": "Bilişsel Psikoloji / Uzun Süreli Bellek Türleri (Tulving)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-09",
@@ -3664,8 +3664,8 @@
       "number": 9,
       "originalTopic": "Öğrenme Psikolojisi / Klasik Koşullanma (Karşıt Koşullama)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-10",
@@ -3673,8 +3673,8 @@
       "number": 10,
       "originalTopic": "Fizyolojik Psikoloji / Beynin Dil Merkezleri (Broca &",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-11",
@@ -3682,8 +3682,8 @@
       "number": 11,
       "originalTopic": "Kişilik Kuramları / Psikanaliz (Karşıt Tepki Geliştirme)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-12",
@@ -3691,8 +3691,8 @@
       "number": 12,
       "originalTopic": "Psikolojik Danışma Kuramları / Rogers (Terapist Kaynaklı",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-13",
@@ -3700,8 +3700,8 @@
       "number": 13,
       "originalTopic": "Psikolojik Danışma Kuramları / Psikanaliz (Karşıt Aktarım",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-14",
@@ -3709,8 +3709,8 @@
       "number": 14,
       "originalTopic": "Psikolojik Danışma Kuramları / BDT (Sokratik Sorgulama -",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-15",
@@ -3718,8 +3718,8 @@
       "number": 15,
       "originalTopic": "Psikolojik Danışma Kuramları / Öyküsel (Narrative) Terapi",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-16",
@@ -3727,8 +3727,8 @@
       "number": 16,
       "originalTopic": "Psikolojik Danışma Kuramları / Gerçeklik Terapisi (Seçim ve",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-17",
@@ -3736,8 +3736,8 @@
       "number": 17,
       "originalTopic": "Psikolojik Danışma Kuramları / Gestalt (Sözel Olmayan",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-18",
@@ -3745,8 +3745,8 @@
       "number": 18,
       "originalTopic": "Psikolojik Danışma Kuramları / Bireysel Psikoloji (Sosyal İlgi",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-19",
@@ -3754,8 +3754,8 @@
       "number": 19,
       "originalTopic": "Bireyle Psikolojik Danışma / Danışma Sürecinin Aşamaları",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-20",
@@ -3763,8 +3763,8 @@
       "number": 20,
       "originalTopic": "Psikolojik Danışma Becerileri / Somutluk (Concreteness)",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-21",
@@ -3772,8 +3772,8 @@
       "number": 21,
       "originalTopic": "Psikolojik Danışma Becerileri / Ardışık Diyalog Analizi",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-22",
@@ -3781,8 +3781,8 @@
       "number": 22,
       "originalTopic": "Grupla Psikolojik Danışma / Terapötik Beceriler",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-23",
@@ -3790,8 +3790,8 @@
       "number": 23,
       "originalTopic": "Grupla Psikolojik Danışma / Geri Bildirim (Feedback)",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-24",
@@ -3799,8 +3799,8 @@
       "number": 24,
       "originalTopic": "Bireyle Psikolojik Danışma / Bağlama (Süreç ve Yaşam",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-25",
@@ -3808,8 +3808,8 @@
       "number": 25,
       "originalTopic": "Anormal Psikoloji / DSM-5 / Karşıt Olma-Karşı Gelme",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-26",
@@ -3817,8 +3817,8 @@
       "number": 26,
       "originalTopic": "Anormal Psikoloji / DSM-5 / Dissosiyasyon (Gerçekdışılık)",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-27",
@@ -3826,8 +3826,8 @@
       "number": 27,
       "originalTopic": "Anormal Psikoloji / DSM-5 / Bağımlı Kişilik Bozukluğu",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-28",
@@ -3835,8 +3835,8 @@
       "number": 28,
       "originalTopic": "Anormal Psikoloji / DSM-5 / Antisosyal Kişilik Bozukluğu",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-29",
@@ -3844,8 +3844,8 @@
       "number": 29,
       "originalTopic": "Anormal Psikoloji / DSM-5 / Şizotipal Kişilik Bozukluğu",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-30",
@@ -3880,8 +3880,8 @@
       "number": 33,
       "originalTopic": "Bireyi Tanıma Teknikleri / Çocuk Projektif Testleri (CAT)",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-34",
@@ -3889,8 +3889,8 @@
       "number": 34,
       "originalTopic": "Bireyi Tanıma Teknikleri / Testlerin Standardizasyon Grubu",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-35",
@@ -3898,8 +3898,8 @@
       "number": 35,
       "originalTopic": "Bireyi Tanıma Teknikleri / Okul İhtiyaç Analizi (Problem",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-36",
@@ -3907,8 +3907,8 @@
       "number": 36,
       "originalTopic": "Psikolojik Danışma Kuramları / Psikodrama (Ayna Tekniği)",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-37",
@@ -3916,8 +3916,8 @@
       "number": 37,
       "originalTopic": "Bireyi Tanıma Teknikleri / Arzu Listesi Tekniği",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-38",
@@ -3925,8 +3925,8 @@
       "number": 38,
       "originalTopic": "Bireyi Tanıma Teknikleri / Anekdot (Olay Kaydı) Nesnellik",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-39",
@@ -3934,8 +3934,8 @@
       "number": 39,
       "originalTopic": "Bireyi Tanıma Teknikleri / Temel İlkeler (Geri Bildirim)",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-40",
@@ -3952,8 +3952,8 @@
       "number": 41,
       "originalTopic": "Grupla Psikolojik Danışma / Ortak (Yardımcı) Liderlik",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-42",
@@ -3961,8 +3961,8 @@
       "number": 42,
       "originalTopic": "Grupla Psikolojik Danışma / Grup Türleri (Kendi Kendine",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-43",
@@ -3970,8 +3970,8 @@
       "number": 43,
       "originalTopic": "Grupla Psikolojik Danışma / Sessiz (Suskun) Üye Yönetimi",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-44",
@@ -3979,8 +3979,8 @@
       "number": 44,
       "originalTopic": "Grupla Psikolojik Danışma / Yalom'un Terapötik Faktörleri",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-45",
@@ -3988,8 +3988,8 @@
       "number": 45,
       "originalTopic": "Bireyle Psikolojik Danışma / Amaç Belirlemenin İşlevleri",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-46",
@@ -3997,8 +3997,8 @@
       "number": 46,
       "originalTopic": "Grupla Psikolojik Danışma / Grup Dışı Sosyalleşme (Etik",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-47",
@@ -4006,8 +4006,8 @@
       "number": 47,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Meslek Seçimini Etkileyen",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-48",
@@ -4015,8 +4015,8 @@
       "number": 48,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Ginzberg’in Deneme",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-49",
@@ -4024,8 +4024,8 @@
       "number": 49,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / SBKK (Düşük Öz Yeterlik",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-50",
@@ -4033,8 +4033,8 @@
       "number": 50,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Ann Roe'nun Kuramsal",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-51",
@@ -4042,8 +4042,8 @@
       "number": 51,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Holland'ın Tipleri",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-52",
@@ -4051,8 +4051,8 @@
       "number": 52,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Karar Verme Süreci",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-53",
@@ -4060,8 +4060,8 @@
       "number": 53,
       "originalTopic": "İstatistik / Dağılım Grafiği Analizi (Sola Çarpık Dağılım)",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-54",
@@ -4069,8 +4069,8 @@
       "number": 54,
       "originalTopic": "İstatistik / Başarı Karşılaştırması (Z Puanı)",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-55",
@@ -4078,8 +4078,8 @@
       "number": 55,
       "originalTopic": "Araştırma Yöntemleri / Hipotez Türleri (Tek Yönlü Alternatif",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-56",
@@ -4096,8 +4096,8 @@
       "number": 57,
       "originalTopic": "Araştırma Yöntemleri / Değişken Türleri (Kontrol",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-58",
@@ -4105,8 +4105,8 @@
       "number": 58,
       "originalTopic": "Mesleki Etik ve Yasalar / Ahlaki İlkeler (Özerklik)",
       "category": "Meslek Etiği ve Yasal Konular",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-59",
@@ -4114,8 +4114,8 @@
       "number": 59,
       "originalTopic": "Mesleki Etik ve Yasalar / Değer Dayatması (İdeolojik",
       "category": "Meslek Etiği ve Yasal Konular",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-60",
@@ -4123,8 +4123,8 @@
       "number": 60,
       "originalTopic": "Mesleki Etik ve Yasalar / Kayıt Tutma Standartları (Kodlama)",
       "category": "Meslek Etiği ve Yasal Konular",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-61",
@@ -4132,8 +4132,8 @@
       "number": 61,
       "originalTopic": "Bireyle Psikolojik Danışma / Sonlandırma Aşaması",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-62",
@@ -4168,8 +4168,8 @@
       "number": 65,
       "originalTopic": "Psikolojik Danışma Becerileri / Ödev Direnci ve Terapötik",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-66",
@@ -4177,8 +4177,8 @@
       "number": 66,
       "originalTopic": "Bireyle Psikolojik Danışma / İlk Oturum ve Değerlendirme",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-67",
@@ -4186,8 +4186,8 @@
       "number": 67,
       "originalTopic": "Psikolojik Danışma Kuramları / ADDT (A-B-C-D",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-68",
@@ -4195,8 +4195,8 @@
       "number": 68,
       "originalTopic": "Psikolojik Danışma Becerileri / Yüzleştirme (Çelişkiyi",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-69",
@@ -4231,8 +4231,8 @@
       "number": 72,
       "originalTopic": "Grupla Psikolojik Danışma / Zor Üye Davranışları (Üstünlük",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-73",
@@ -4240,8 +4240,8 @@
       "number": 73,
       "originalTopic": "Psikolojik Danışma Kuramları / Bilinçli Farkındalık",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2021-74",
@@ -4267,8 +4267,8 @@
       "number": 1,
       "originalTopic": "Bilişsel Psikoloji / Algısal Değişmezlik",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-02",
@@ -4276,8 +4276,8 @@
       "number": 2,
       "originalTopic": "Sosyal Psikoloji / Grup Dinamikleri (Normlar ve Roller)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-03",
@@ -4285,8 +4285,8 @@
       "number": 3,
       "originalTopic": "Fizyolojik Psikoloji / Savaş ya da Kaç (Fight or Flight) Tepkisi",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-04",
@@ -4294,8 +4294,8 @@
       "number": 4,
       "originalTopic": "Sosyal Psikoloji / Sosyal Kaytarma ve Sosyal Hızlandırma",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-05",
@@ -4303,8 +4303,8 @@
       "number": 5,
       "originalTopic": "Bilişsel Psikoloji / Bilgiyi İşleme Kuramı (Kodlama Çeşitliliği",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-06",
@@ -4312,8 +4312,8 @@
       "number": 6,
       "originalTopic": "Bilişsel Psikoloji / Örtük (Gizil/Prosedürel) Bellek Bozukluğu",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-07",
@@ -4321,8 +4321,8 @@
       "number": 7,
       "originalTopic": "Gelişim Psikolojisi / Fiziksel Gelişim (İnce ve Kaba Motor",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-08",
@@ -4330,8 +4330,8 @@
       "number": 8,
       "originalTopic": "Gelişim Psikolojisi / Piaget (Madde Korunumu)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-09",
@@ -4339,8 +4339,8 @@
       "number": 9,
       "originalTopic": "Gelişim Psikolojisi / Kohlberg (İyi Çocuk Olma Evresi)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-10",
@@ -4348,8 +4348,8 @@
       "number": 10,
       "originalTopic": "Öğrenme Psikolojisi / Bandura (Karşılıklı Belirlemecilik)",
       "category": "Temel Psikolojik Kavramlar",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-11",
@@ -4357,8 +4357,8 @@
       "number": 11,
       "originalTopic": "Psikolojik Danışma Kuramları / Psikanaliz (İyileşme Kriteri",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-12",
@@ -4366,8 +4366,8 @@
       "number": 12,
       "originalTopic": "Psikolojik Danışma Kuramları / Bilişsel Terapi",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-13",
@@ -4375,8 +4375,8 @@
       "number": 13,
       "originalTopic": "Psikolojik Danışma Kuramları / ADDT (Ellis - Üç Temel",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-14",
@@ -4384,8 +4384,8 @@
       "number": 14,
       "originalTopic": "Psikolojik Danışma Kuramları / Davranışçı Terapi (Tarihsel",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-15",
@@ -4393,8 +4393,8 @@
       "number": 15,
       "originalTopic": "Psikolojik Danışma Kuramları / Birey Merkezli Terapi (Carl",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-16",
@@ -4402,8 +4402,8 @@
       "number": 16,
       "originalTopic": "Psikolojik Danışma Kuramları / Varoluşçu Yaklaşım (Nihai",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-17",
@@ -4411,8 +4411,8 @@
       "number": 17,
       "originalTopic": "Psikolojik Danışma Kuramları / Transaksiyonel Analiz",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-18",
@@ -4420,8 +4420,8 @@
       "number": 18,
       "originalTopic": "Psikolojik Danışma Kuramları / ÇOKST (İstisnai Sorular)",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-19",
@@ -4429,8 +4429,8 @@
       "number": 19,
       "originalTopic": "Psikolojik Danışma Becerileri / Kendini Açma (O Andaki",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-20",
@@ -4438,8 +4438,8 @@
       "number": 20,
       "originalTopic": "Psikolojik Danışma Becerileri / Diyalog Analizi",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-21",
@@ -4447,8 +4447,8 @@
       "number": 21,
       "originalTopic": "Bireyle Psikolojik Danışma / Terapötik Beceri Eşleştirmeleri",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-22",
@@ -4456,8 +4456,8 @@
       "number": 22,
       "originalTopic": "Grupla Psikolojik Danışma / Paylaştırma (Bağlama)",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-23",
@@ -4465,8 +4465,8 @@
       "number": 23,
       "originalTopic": "Bireyle Psikolojik Danışma / Sorunu Tanımlama",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-24",
@@ -4474,8 +4474,8 @@
       "number": 24,
       "originalTopic": "Bireyle Psikolojik Danışma / Süreç İlkeleri ve İş Birliği",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-25",
@@ -4483,8 +4483,8 @@
       "number": 25,
       "originalTopic": "Anormal Psikoloji / DSM-5 / Özgül Fobiler (Kaçınma ve",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-26",
@@ -4492,8 +4492,8 @@
       "number": 26,
       "originalTopic": "Anormal Psikoloji / DSM-5 / Paranoid Kişilik Bozukluğu",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-27",
@@ -4501,8 +4501,8 @@
       "number": 27,
       "originalTopic": "Anormal Psikoloji / DSM-5 / Şizofreni Tanı Kriterleri",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-28",
@@ -4510,8 +4510,8 @@
       "number": 28,
       "originalTopic": "Anormal Psikoloji / Madde Bağımlılığı (Kesilme / Yoksunluk)",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-29",
@@ -4519,8 +4519,8 @@
       "number": 29,
       "originalTopic": "Anormal Psikoloji / DSM-5 Sınıflandırma Sınırları",
       "category": "Davranış ve Uyum Problemleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-30",
@@ -4555,8 +4555,8 @@
       "number": 33,
       "originalTopic": "Bireyi Tanıma Teknikleri / Akademik Hata ve Test Dışı",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-34",
@@ -4573,8 +4573,8 @@
       "number": 35,
       "originalTopic": "Bireyi Tanıma Teknikleri / Özellik Kayıt Çizelgesi",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-36",
@@ -4582,8 +4582,8 @@
       "number": 36,
       "originalTopic": "Bireyi Tanıma Teknikleri / İlgi Envanterleri (Yetenek ile",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-37",
@@ -4591,8 +4591,8 @@
       "number": 37,
       "originalTopic": "Bireyi Tanıma Teknikleri / Sosyometri Çizelgesi Hesaplaması",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-38",
@@ -4600,8 +4600,8 @@
       "number": 38,
       "originalTopic": "Ölçme ve Değerlendirme / Madde Yanlılığı (DIF) ve Hata",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-39",
@@ -4609,8 +4609,8 @@
       "number": 39,
       "originalTopic": "Ölçme ve Değerlendirme / Güvenirlik ve Geçerlik İlişkisi",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-40",
@@ -4618,8 +4618,8 @@
       "number": 40,
       "originalTopic": "İletişim Becerileri / Özsaygı (Benlik Saygısı) Geliştirici Dil",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-41",
@@ -4627,8 +4627,8 @@
       "number": 41,
       "originalTopic": "Psikolojik Danışma Becerileri / Dinleme Engelleri (Yüzeysel",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-42",
@@ -4636,8 +4636,8 @@
       "number": 42,
       "originalTopic": "Bireyle Psikolojik Danışma / Amaç (Hedef) Belirleme",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-43",
@@ -4645,8 +4645,8 @@
       "number": 43,
       "originalTopic": "Bireyle Psikolojik Danışma / Sağlıklı Amaç (Hedef) Kriterleri",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-44",
@@ -4654,8 +4654,8 @@
       "number": 44,
       "originalTopic": "Psikolojik Danışma Becerileri / Yüzleştirme İlkeleri (İma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-45",
@@ -4663,8 +4663,8 @@
       "number": 45,
       "originalTopic": "Grupla Psikolojik Danışma / Direnç ve Evre İlişkileri",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-46",
@@ -4672,8 +4672,8 @@
       "number": 46,
       "originalTopic": "Grupla Psikolojik Danışma / Yalom'un Terapötik Faktörleri",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-47",
@@ -4681,8 +4681,8 @@
       "number": 47,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Karar Verme Faktörleri",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-48",
@@ -4690,8 +4690,8 @@
       "number": 48,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Kariyer Mitleri (Yanılgılar)",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-49",
@@ -4699,8 +4699,8 @@
       "number": 49,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / İş Uyumu Kuramı (Lofquist",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-50",
@@ -4708,8 +4708,8 @@
       "number": 50,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Ann Roe (İhtiyaç Kuramı",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-51",
@@ -4717,8 +4717,8 @@
       "number": 51,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Nancy Schlossberg",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-52",
@@ -4726,8 +4726,8 @@
       "number": 52,
       "originalTopic": "Kariyer Psikolojik Danışmanlığı / Mesleki Hedeflerin",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-53",
@@ -4735,8 +4735,8 @@
       "number": 53,
       "originalTopic": "Ölçme ve Değerlendirme / Korelasyon Tablosu Okuma ve",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-54",
@@ -4744,8 +4744,8 @@
       "number": 54,
       "originalTopic": "Ölçme ve Değerlendirme / Madde Analizi (Zorluk ve Ayırt",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-55",
@@ -4762,8 +4762,8 @@
       "number": 56,
       "originalTopic": "Araştırma Yöntemleri / Değişken Tasarımı",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-57",
@@ -4771,8 +4771,8 @@
       "number": 57,
       "originalTopic": "Araştırma Yöntemleri / Nitel Araştırma Desenleri",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-58",
@@ -4780,8 +4780,8 @@
       "number": 58,
       "originalTopic": "Mesleki Etik ve Yasalar / Bilgilendirilmiş Onam (Informed",
       "category": "Meslek Etiği ve Yasal Konular",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-59",
@@ -4789,8 +4789,8 @@
       "number": 59,
       "originalTopic": "Mesleki Etik ve Yasalar / Çevrim içi (Online) Danışma",
       "category": "Meslek Etiği ve Yasal Konular",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-60",
@@ -4798,8 +4798,8 @@
       "number": 60,
       "originalTopic": "Mesleki Etik ve Yasalar / Değer Dayatması (Etik Olmayan",
       "category": "Meslek Etiği ve Yasal Konular",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-61",
@@ -4807,8 +4807,8 @@
       "number": 61,
       "originalTopic": "Bireyle Psikolojik Danışma / İlk Oturum ve Müdahale",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-62",
@@ -4816,8 +4816,8 @@
       "number": 62,
       "originalTopic": "Psikolojik Danışma Kuramları / Gestalt (Boş Sandalye İşlevi)",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-63",
@@ -4825,8 +4825,8 @@
       "number": 63,
       "originalTopic": "Psikolojik Danışma Kuramları / BDT (Judith Beck - Temel",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-64",
@@ -4834,8 +4834,8 @@
       "number": 64,
       "originalTopic": "Grupla Psikolojik Danışma / Grup Evreleri (Geçiş Evresi",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-65",
@@ -4843,8 +4843,8 @@
       "number": 65,
       "originalTopic": "Grupla Psikolojik Danışma / Lider Müdahalesi (Sınır Koyma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-66",
@@ -4852,8 +4852,8 @@
       "number": 66,
       "originalTopic": "Grupla Psikolojik Danışma / ÇOKST ve Grup Hedefleri",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-67",
@@ -4869,8 +4869,8 @@
       "number": 68,
       "originalTopic": "Grupla Psikolojik Danışma / Çalışma (Eylem) Aşaması",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "question_text_reviewed",
-      "reviewNote": "Özgün konu alt başlığı ve soru kökü karşılaştırıldı; konu uyumu ön kontrolden geçti."
+      "status": "stem_label_prechecked",
+      "reviewNote": "Etiket ve soru kökü otomatik ön kontrolden geçti; henüz tek tek akademik doğrulanmadı."
     },
     {
       "id": "2022-69",
