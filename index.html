@@ -59,16 +59,16 @@
     <header class="exam-header">
       <a class="brand compact" href="#" id="homeButton"><img class="brand-logo" src="https://pdrkampus.com/assets/logo.png" alt="PDR Kampüs" width="46" height="46"><span><b>PDR ÖABT</b><small id="examYearLabel">2014 sınavı</small></span></a>
       <div class="exam-progress-wrap"><div class="exam-progress-copy"><span id="progressLabel">Soru 1 / 50</span><b id="answeredLabel">0 yanıtlandı</b></div><div class="progress"><span id="progressBar"></span></div></div>
-      <div class="header-actions"><div class="timer"><span>◷</span><b id="timer">75:00</b></div><button class="icon-button" id="openOptic" type="button" aria-label="Optik formu aç">☷</button></div>
+      <div class="header-actions"><div class="timer"><span>◷</span><b id="timer">75:00</b></div><button class="icon-button" id="openOptic" type="button" aria-label="Optik formu aç">☷ <span class="optic-trigger-text">Optik</span></button></div>
     </header>
     <main class="exam-main">
       <section class="question-stage">
         <div class="question-kicker"><span id="topic">Konu</span><button id="bookmark" type="button" aria-pressed="false">♡ Sonra bak</button></div>
-        <article class="question-card"><div class="question-index" id="questionNumber">01</div><h2 id="questionText">Soru yükleniyor…</h2><img class="question-visual" id="questionVisual" alt="Soruyla ilgili özgün tablo" hidden><div class="options" id="options" role="radiogroup" aria-label="Cevap seçenekleri"></div></article>
+        <article class="question-card"><div class="question-card-top"><div><span class="question-overline">ÖZGÜN SINAV SORUSU</span><div class="question-index" id="questionNumber">01</div></div><span class="question-view-label">Soru kitapçığı</span></div><h2 id="questionText">Soru yükleniyor…</h2><img class="question-visual" id="questionVisual" alt="Soruyla ilgili özgün tablo" hidden loading="eager" decoding="async"><div class="answer-area"><div class="answer-header"><strong>Cevabını işaretle</strong><small>Bir seçenek seç: A, B, C, D veya E</small></div><div class="options" id="options" role="radiogroup" aria-label="Cevap seçenekleri"></div></div></article>
         <div class="exam-controls"><button class="button secondary" id="prevButton" type="button">← Önceki</button><button class="button primary" id="nextButton" type="button">Sonraki soru →</button></div>
       </section>
       <aside class="optic" id="opticPanel">
-        <div class="optic-head"><div><span class="overline">Optik form</span><h3 id="opticYear">2014</h3></div><button id="closeOptic" type="button">×</button></div>
+        <div class="optic-head"><div><span class="overline">Soru takibi</span><h3 id="opticYear">2014</h3><p class="optic-helper">Sorular arasında geçiş yap</p></div><button id="closeOptic" type="button">×</button></div>
         <div class="optic-grid" id="questionGrid"></div><div class="optic-legend"><span><i class="answered"></i>Yanıtlandı</span><span><i class="flagged"></i>İşaretli</span></div>
         <button class="button finish" id="finishExam" type="button">Sınavı bitir <small id="finishHint">50 soru kaldı</small></button>
       </aside>
