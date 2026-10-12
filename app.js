@@ -9,7 +9,8 @@ const state = {
   finished: false,
   reviewIndex: null,
   reviewTab: "explanation",
-  mode: "exam"
+  mode: "exam",
+  yearChosen: false
 };
 
 const $ = s => document.querySelector(s);
@@ -80,7 +81,13 @@ function q() {
 
 // EKRAN YÖNETİMİ
 
-function show(view) {
+let activeView = "welcome";
+let navigationInitialized = false;
+function show(view, fromHistory = false) {
+  if (navigationInitialized && !fromHistory && view !== activeView) {
+    history.pushState({pdrOabtView:view}, "", location.pathname + location.search);
+  }
+  activeView = view;
   els.welcome.hidden = view !== "welcome";
   $("#modeView").hidden = view !== "mode";
   els.exam.hidden = view !== "exam";
@@ -144,7 +151,9 @@ async function selectYear(year, initial = false) {
     load();
     applyYearLabels();
 
-    $("#modeYear").textContent = `${state.year} PDR ÖABT`;
+    state.yearChosen = !initial;
+    $("#modeYearSelect").value = initial ? "" : String(state.year);
+    $("#modeYear").textContent = initial ? "Çözüm modları" : `${state.year} PDR ÖABT`;
     // Sayfa yenilendiğinde daima giriş ekranında kal.
     // Kaydedilmiş sınav cevapları ve sonuçlar silinmez.
     if (initial) {
@@ -546,7 +555,16 @@ els.bookmark.onclick = () => {
   renderQuestion();
 };
 
-$("#startExam").onclick = () => show("mode");
+$("#startExam").onclick = () => {
+  state.yearChosen = false;
+  $("#modeYearSelect").value = "";
+  $("#modeYear").textContent = "Çözüm modları";
+  show("mode");
+};
+$("#modeYearSelect").onchange = async e => {
+  if (!e.target.value) { state.yearChosen = false; $("#modeYear").textContent = "Çözüm modları"; return; }
+  await selectYear(Number(e.target.value));
+};
 $("#modeBack").onclick = () => show("welcome");
 $("#examBack").onclick = () => {
   if (state.finished && els.exam.classList.contains("result-reviewing")) {
@@ -567,13 +585,18 @@ document.querySelectorAll("[data-mode]").forEach(button => button.onclick = () =
     toast("Konu eşleştirmeleri doğrulanıyor; henüz açılmadı.");
     return;
   }
+  if (!state.yearChosen) {
+    toast("Başlamak için önce bir sınav yılı seç.");
+    $("#modeYearSelect").focus();
+    return;
+  }
   state.mode = button.dataset.mode;
   load();
   // Geri dönen kullanıcı, aynı moddaki kaydedilmiş cevaplarıyla devam eder.
   begin(!state.startedAt || state.finished);
 });
 
-$("#resumeExam").onclick = () => begin(false);
+$("#resumeExam").onclick = () => { state.yearChosen = true; begin(false); };
 
 $("#homeButton").onclick = e => {
   e.preventDefault();
@@ -656,6 +679,13 @@ setInterval(() => {
 
 }, 1000);
 
+// Tarayıcı geri/ileri tuşları uygulama ekranları arasında hareket eder.
+history.replaceState({pdrOabtView:"welcome"}, "", location.pathname + location.search);
+window.addEventListener("popstate", e => {
+  const view = e.state && e.state.pdrOabtView;
+  if (!view) { show("welcome", true); return; }
+  if (view === "exam" && state.finished && !els.exam.classList.contains("result-reviewing")) renderResults();
+  show(view, true);
+});
 // UYGULAMAYI BAŞLAT
-
-selectYear(2014, true);
+selectYear(2014, true).then(() => { navigationInitialized = true; });
