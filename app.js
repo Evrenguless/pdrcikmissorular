@@ -118,7 +118,8 @@ function applyYearLabels() {
   $("#welcomeQuestionCount").textContent = c;
   $("#welcomeDuration").textContent = d;
 
-  $("#examYearLabel").textContent = `${y} sınavı`;
+  const examYearLabel = $("#examYearLabel");
+  if (examYearLabel) examYearLabel.textContent = `${y} sınavı`;
   $("#opticYear").textContent = y;
 
   $("#resultYearLabel").textContent = `${y} PDR ÖABT sonucu`;
