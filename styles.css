@@ -339,3 +339,18 @@ body{background:var(--oabt-surface);color:var(--oabt-ink);font-family:Manrope,Ar
 .oabt-footer a:focus-visible{outline:2px solid #65a982;outline-offset:4px}
 @media(max-width:750px){.oabt-footer{margin-top:46px;padding-top:38px}.oabt-footer-main{grid-template-columns:repeat(2,minmax(0,1fr));gap:32px 20px}.oabt-footer-about{grid-column:1/-1}.oabt-footer-bottom{flex-direction:column;align-items:flex-start;gap:16px}}
 @media(max-width:440px){.oabt-footer-main{grid-template-columns:1fr}.oabt-footer-about{grid-column:auto}}
+
+/* Konu modunun PDR Kampüs tasarım dilindeki ekranı */
+.topic-screen{min-height:100dvh;background:#fafaf6;color:#24342e}
+.topic-content{max-width:1130px;padding:clamp(32px,6vw,72px) 24px 90px;margin:0 auto}
+.topic-content h1{font-size:clamp(32px,4vw,52px);line-height:1.16;letter-spacing:-.035em;margin:18px 0}
+.topic-content>p{color:#63766a;line-height:1.7;max-width:720px}
+.topic-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:32px}
+.topic-choice{min-height:110px;border:1px solid #dce7de;background:#fff;border-radius:16px;text-align:left;display:flex;flex-direction:column;justify-content:center;gap:12px;padding:22px;cursor:pointer;transition:border-color .15s,box-shadow .15s}
+.topic-choice strong{font:800 15px/1.45 Manrope,system-ui,sans-serif;color:#173d30}
+.topic-choice span{font:600 12px Manrope,system-ui,sans-serif;color:#648173}
+.topic-choice:not(:disabled):hover{border-color:#96c1a5;box-shadow:0 7px 20px rgba(18,60,49,.08)}
+.topic-choice:focus-visible{outline:3px solid #96c1a5;outline-offset:3px}
+.topic-choice:disabled{opacity:.5;cursor:not-allowed}
+.topic-content .topic-disclaimer{font-size:12px;margin-top:22px}
+@media(max-width:680px){.topic-list{grid-template-columns:1fr}.topic-choice{min-height:92px;padding:18px}}
