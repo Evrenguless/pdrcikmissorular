@@ -281,3 +281,9 @@ body{background:#fafaf6;color:var(--ink)}
 .welcome-nav .year-monogram,.year-list .year-monogram{display:flex;align-items:center;justify-content:center;line-height:1!important;padding:0!important;text-align:center;font-variant-numeric:lining-nums tabular-nums}
 @media(max-width:550px){.welcome-nav .campus-link{gap:7px;min-height:44px;padding:6px 10px 6px 6px}.welcome-nav .campus-link-copy strong{font-size:13px}}
 @media(max-width:385px){.welcome-nav .campus-link-symbol{display:grid}}
+
+/* Ana markada alt başlık kullanma: tek satır logo + PDRkampüs */
+.brand>span{display:flex;align-items:center}
+.brand>span>small{display:none!important}
+.brand{gap:12px;align-items:center}
+.brand b{line-height:1.2}
