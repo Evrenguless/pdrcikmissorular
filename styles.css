@@ -287,3 +287,7 @@ body{background:#fafaf6;color:var(--ink)}
 .brand>span>small{display:none!important}
 .brand{gap:12px;align-items:center}
 .brand b{line-height:1.2}
+
+/* Tipografik optik merkezleme: rakamın font tabanı kutuda aşağı kaymamalı */
+.year-list .year-monogram{display:grid!important;place-items:center!important;flex-shrink:0;overflow:hidden}
+.year-list .year-monogram-number{display:block;line-height:1;transform:translateY(-2px);font-family:Manrope,system-ui,sans-serif;font-weight:800;font-size:inherit;letter-spacing:-.035em}
