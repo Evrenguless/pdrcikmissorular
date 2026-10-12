@@ -589,7 +589,7 @@ els.prev.onclick = () => {
 };
 
 els.next.onclick = () => {
-  if (state.current < state.data.questionCount - 1) {
+  if (state.current < questionCount() - 1) {
     state.current++;
     renderQuestion();
   } else {
