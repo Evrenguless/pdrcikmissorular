@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="PDR ÖABT çıkmış sorularını yıl yıl çözün ve sınav sonunda sonuçlarınızı görün.">
-  <title>PDR ÖABT Soru Arşivi</title>
+  <title>PDR ÖABT Çıkmış Sorular | PDR Kampüs</title>
+  <link rel="icon" href="https://pdrkampus.com/assets/logo.png" type="image/png">
   <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
@@ -11,19 +12,19 @@
 <body>
   <section class="welcome" id="welcomeView">
     <div class="welcome-nav">
-      <a class="brand" href="#"><span class="brand-glyph">P</span><span><b>PDR ÖABT</b><small>Soru Arşivi</small></span></a>
-      <span class="verified-badge"><i></i> ÖSYM anahtarıyla doğrulandı</span>
+      <a class="brand" href="#"><img class="brand-logo" src="https://pdrkampus.com/assets/logo.png" alt="PDR Kampüs" width="46" height="46"><span><b>PDR ÖABT</b><small>Soru Arşivi</small></span></a>
+      <a class="campus-link" href="https://pdrkampus.com/" target="_blank" rel="noopener">PDR Kampüs ana sayfa ↗</a>
     </div>
     <div class="welcome-grid">
       <div class="welcome-copy">
         <span class="overline" id="welcomeYearLabel">Çıkmış sorular · 2014</span>
-        <h1>Bilgini gerçek sınav sorularıyla ölç.</h1>
-        <p>Çıkmış soruları sınav düzeninde çöz. Cevap anahtarı sınav bitince gösterilir.</p>
+        <h1>Çıkmış sorularla <span class="hero-accent">kendi hızında hazırlan.</span></h1>
+        <p>2014–2026 PDR ÖABT soruları tek yerde. Yılını seç, çalışma biçimini belirle ve sınava hazırlan.</p>
         <div class="welcome-actions"><button class="button primary large" id="startExam" type="button">Sınava başla <span>→</span></button><button class="button text" id="resumeExam" type="button" hidden>Kaldığım yerden devam et</button></div>
         <div class="exam-facts"><div><strong id="welcomeQuestionCount">50</strong><span>Soru</span></div><div><strong id="welcomeDuration">75</strong><span>Dakika</span></div><div><strong>5</strong><span>Seçenek</span></div></div>
       </div>
       <div class="year-panel">
-        <div class="panel-head"><span>Yıl seçimi</span><small>13 sınav hazır</small></div>
+        <div class="panel-head"><span>Çıkmış soru arşivi</span><small>2014–2026</small></div>
         <div class="year-list">
           <button class="year-card active" data-year="2014" type="button"><span class="year-monogram">14</span><span class="year-info"><b>2014 PDR ÖABT</b><small>50 soru ve cevap anahtarı</small></span><span class="year-state">Hazır</span></button>
           <button class="year-card" data-year="2015" type="button"><span class="year-monogram">15</span><span class="year-info"><b>2015 PDR ÖABT</b><small>48 soru · 2 soru iptal</small></span><span class="year-state">Hazır</span></button>
@@ -42,11 +43,11 @@
         <p>Tüm yıllar sınava hazır.</p>
       </div>
     </div>
-    <div class="welcome-foot"><span>PDR Kampüs</span><span>Odaklan · Çöz · Analiz et</span></div>
+    <div class="welcome-foot"><a href="https://pdrkampus.com/">PDR Kampüs ↗</a><span>Öğren · Uygula · Geliş</span></div>
   </section>
 
   <section class="mode-screen" id="modeView" hidden>
-    <div class="mode-head"><a class="brand" href="#" id="modeHome"><span class="brand-glyph">P</span><span><b>PDR ÖABT</b><small>Çözüm modu</small></span></a><button class="button secondary" id="modeBack" type="button">← Yıllara dön</button></div>
+    <div class="mode-head"><a class="brand" href="#" id="modeHome"><img class="brand-logo" src="https://pdrkampus.com/assets/logo.png" alt="PDR Kampüs" width="46" height="46"><span><b>PDR ÖABT</b><small>Çözüm modu</small></span></a><button class="button secondary" id="modeBack" type="button">← Yıllara dön</button></div>
     <main class="mode-content"><span class="overline" id="modeYear">2014 PDR ÖABT</span><h1>Nasıl çözmek istersin?</h1><p>Bir çözüm modu seçerek başla.</p><div class="mode-cards">
       <button class="mode-card" type="button" data-mode="practice"><span class="mode-icon">✓</span><strong>Çalışma Modu</strong><span>Süre sınırı olmadan çöz. İşaretlediğinde doğru ya da yanlış olduğunu hemen gör.</span><em>Hemen dönüt →</em></button>
       <button class="mode-card" type="button" data-mode="exam"><span class="mode-icon">◷</span><strong>Sınav Modu</strong><span>Gerçek sınav süresiyle çöz. Sonuçlar sınav bitince optik formda görünür.</span><em>Süreli sınav →</em></button>
@@ -56,7 +57,7 @@
 
   <div class="exam-app" id="examView" hidden>
     <header class="exam-header">
-      <a class="brand compact" href="#" id="homeButton"><span class="brand-glyph">P</span><span><b>PDR ÖABT</b><small id="examYearLabel">2014 sınavı</small></span></a>
+      <a class="brand compact" href="#" id="homeButton"><img class="brand-logo" src="https://pdrkampus.com/assets/logo.png" alt="PDR Kampüs" width="46" height="46"><span><b>PDR ÖABT</b><small id="examYearLabel">2014 sınavı</small></span></a>
       <div class="exam-progress-wrap"><div class="exam-progress-copy"><span id="progressLabel">Soru 1 / 50</span><b id="answeredLabel">0 yanıtlandı</b></div><div class="progress"><span id="progressBar"></span></div></div>
       <div class="header-actions"><div class="timer"><span>◷</span><b id="timer">75:00</b></div><button class="icon-button" id="openOptic" type="button" aria-label="Optik formu aç">☷</button></div>
     </header>
@@ -75,7 +76,7 @@
   </div>
 
   <section class="results" id="resultsView" hidden>
-    <header class="results-header"><a class="brand compact" href="#"><span class="brand-glyph">P</span><span><b>PDR ÖABT</b><small>Cevap anahtarı</small></span></a><button class="button secondary" id="restartExam" type="button">Sınavı yeniden çöz</button></header>
+    <header class="results-header"><a class="brand compact" href="#"><img class="brand-logo" src="https://pdrkampus.com/assets/logo.png" alt="PDR Kampüs" width="46" height="46"><span><b>PDR ÖABT</b><small>Cevap anahtarı</small></span></a><button class="button secondary" id="restartExam" type="button">Sınavı yeniden çöz</button></header>
     <main class="results-main answer-key-main">
       <div class="answer-key-heading"><span class="overline" id="resultYearLabel">2014 PDR ÖABT sonucu</span><h1>Sınav tamamlandı</h1><p>İşaretlediğin cevaplar: yeşil doğru, kırmızı yanlış. Yanlışların doğru şıkkı hemen altında.</p></div>
       <section class="answer-key-card"><div class="answer-key-grid" id="resultGrid" aria-label="Sınav cevap anahtarı"></div></section>
