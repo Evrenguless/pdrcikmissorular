@@ -92,3 +92,23 @@ body{background:#fafaf6;color:var(--ink)}
 .button.primary{box-shadow:none}
 @media(max-width:850px){.welcome-grid{grid-template-columns:1fr;gap:28px;padding-block:36px}.welcome-copy h1{max-width:630px}.year-panel{max-width:100%}.welcome{min-height:100vh}.welcome-nav{height:76px}}
 @media(max-width:550px){.welcome{padding-inline:16px}.welcome-grid{padding-block:28px}.welcome-copy h1{font-size:clamp(34px,9vw,49px)}.welcome-copy>p{font-size:15px}.campus-link{font-size:11px;padding:9px 10px}.brand b{font-size:15px}.brand-logo{width:40px;height:40px}.welcome-actions{flex-wrap:wrap}.mode-head{height:76px}.mode-card{padding:24px}}
+
+/* PDR Kampüs · ana sayfa ve mod seçiminin son yerleşim düzeni */
+.welcome-grid{align-items:center;padding-block:44px}
+.welcome-copy .overline{display:inline-block;padding:9px 13px;border:1px solid #dce9df;border-radius:999px;background:#edf5ee;letter-spacing:.09em}
+.welcome-copy h1{margin-top:24px}
+.welcome-actions .button.primary{background:#123c31}
+.year-panel{max-height:min(690px,calc(100vh - 154px));display:flex;flex-direction:column;min-height:0}
+.year-panel .panel-head{flex:0 0 auto}
+.year-list{min-height:0;overflow-y:auto;overscroll-behavior:contain;padding:3px 5px 5px 2px;scrollbar-color:#bccfc0 transparent;scrollbar-width:thin}
+.year-list .year-card{min-height:67px;width:100%}
+.year-list .year-card:focus-visible{outline:3px solid #a7cbb7;outline-offset:2px}
+.mode-content{padding-top:clamp(48px,7vw,82px)}
+.mode-content>p{max-width:560px;line-height:1.7}
+.mode-card{position:relative;min-height:325px;padding:28px;gap:0}
+.mode-card .mode-icon{margin-bottom:24px}
+.mode-card .mode-tag{position:absolute;top:30px;right:23px;color:#17654b;font:800 10px Manrope,sans-serif;letter-spacing:.06em;background:#ebf4ed;border-radius:999px;padding:8px 10px;max-width:calc(100% - 112px);text-align:center}
+.mode-card[aria-disabled="true"] .mode-tag{color:#67776e;background:#e3e9e4}
+.mode-card:focus-visible{outline:3px solid #a7cbb7;outline-offset:3px}
+@media(max-width:850px){.year-panel{max-height:none}.year-list{overflow:visible}.welcome-grid{align-items:start}}
+@media(max-width:600px){.welcome-nav .campus-link{max-width:132px;text-align:center;line-height:1.35}.welcome-grid{padding-block:32px}.welcome-copy h1{margin:18px 0}.welcome-copy .overline{font-size:10px}.year-list .year-card{min-height:64px}.mode-content{padding:40px 0 54px}.mode-content h1{font-size:clamp(32px,8vw,42px)}.mode-cards{gap:12px}.mode-card{min-height:220px;padding:23px}.mode-card .mode-icon{margin-bottom:21px}.mode-card .mode-tag{top:23px;right:18px}}
