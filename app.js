@@ -152,7 +152,7 @@ async function selectYear(year, initial = false) {
     applyYearLabels();
 
     state.yearChosen = !initial;
-    $("#modeYearSelect").value = initial ? "" : String(state.year);
+    document.querySelectorAll("[data-mode-year]").forEach(b => { const chosen = !initial && Number(b.dataset.modeYear) === state.year; b.classList.toggle("active", chosen); b.setAttribute("aria-pressed", String(chosen)); });
     $("#modeYear").textContent = initial ? "Çözüm modları" : `${state.year} PDR ÖABT`;
     // Sayfa yenilendiğinde daima giriş ekranında kal.
     // Kaydedilmiş sınav cevapları ve sonuçlar silinmez.
@@ -555,18 +555,12 @@ els.bookmark.onclick = () => {
 
 $("#startExam").onclick = () => {
   state.yearChosen = false;
-  $("#modeYearSelect").value = "";
+  document.querySelectorAll("[data-mode-year]").forEach(b => { b.classList.remove("active"); b.setAttribute("aria-pressed", "false"); });
   $("#modeYear").textContent = "Çözüm modları";
   show("mode");
 };
-$("#modeYearSelect").onchange = async e => {
-  if (!e.target.value) { state.yearChosen = false; $("#modeYear").textContent = "Çözüm modları"; return; }
-  await selectYear(Number(e.target.value));
-};
-$("#modeBack").onclick = () => {
-  if (history.state?.pdrOabtView === "mode" && history.length > 1) history.back();
-  else show("welcome");
-};
+document.querySelectorAll("[data-mode-year]").forEach(b => b.onclick = () => selectYear(Number(b.dataset.modeYear)));
+$("#modeBack").onclick = () => show("welcome");
 $("#examBack").onclick = () => {
   if (state.finished && els.exam.classList.contains("result-reviewing")) {
     renderResults();
@@ -588,7 +582,7 @@ document.querySelectorAll("[data-mode]").forEach(button => button.onclick = () =
   }
   if (!state.yearChosen) {
     toast("Başlamak için önce bir sınav yılı seç.");
-    $("#modeYearSelect").focus();
+    document.querySelector(".mode-year-option")?.focus();
     return;
   }
   state.mode = button.dataset.mode;
