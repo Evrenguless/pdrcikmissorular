@@ -3471,8 +3471,9 @@
       "year": 2021,
       "number": 1,
       "originalTopic": "Sosyal / Kişilik Psikolojisi (Saldırganlık Yaklaşımları)",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2021-02",
@@ -3786,8 +3787,9 @@
       "year": 2021,
       "number": 40,
       "originalTopic": "Okul RPD Hizmetleri / Rehberlik vs. Psikolojik Danışma",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2021-41",
@@ -3914,8 +3916,9 @@
       "year": 2021,
       "number": 56,
       "originalTopic": "Okul RPD Hizmetleri / Önleyici Program Tasarımı ve İlkeleri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2021-57",
@@ -3962,24 +3965,27 @@
       "year": 2021,
       "number": 62,
       "originalTopic": "Okul RPD Hizmetleri / Yöneltme ve Yerleştirme Hizmeti",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2021-63",
       "year": 2021,
       "number": 63,
       "originalTopic": "Okul RPD Hizmetleri / Hizmet Türlerinin Eşleştirilmesi",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2021-64",
       "year": 2021,
       "number": 64,
       "originalTopic": "Okul RPD Hizmetleri / Bireysel Rehberlik (Bilişsel",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2021-65",
@@ -4018,24 +4024,27 @@
       "year": 2021,
       "number": 69,
       "originalTopic": "Okul RPD Hizmetleri / Grup Rehberliği ve Sınırları",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2021-70",
       "year": 2021,
       "number": 70,
       "originalTopic": "Okul RPD Hizmetleri / Hizmet Türlerinin Analizi (Siber",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2021-71",
       "year": 2021,
       "number": 71,
       "originalTopic": "Okul RPD Hizmetleri / Önleme Düzeyleri (Temel/Birincil",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2021-72",
@@ -4058,16 +4067,18 @@
       "year": 2021,
       "number": 74,
       "originalTopic": "Okul RPD Hizmetleri / Hizmet Alanları ve Problem Alanı",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2021-75",
       "year": 2021,
       "number": 75,
       "originalTopic": "Okul RPD Hizmetleri / Eğitsel Rehberlik İçerikleri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2022-01",
@@ -4510,8 +4521,9 @@
       "year": 2022,
       "number": 55,
       "originalTopic": "Okul RPD Hizmetleri / Kapsamlı Gelişimsel Rehberlik",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2022-56",
@@ -4622,16 +4634,18 @@
       "year": 2022,
       "number": 69,
       "originalTopic": "Okul RPD Hizmetleri / İyileştirici İşlev ve Kişisel-Sosyal",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2022-70",
       "year": 2022,
       "number": 70,
       "originalTopic": "Okul RPD Hizmetleri / Önleme Düzeyleri (Birincil ve İkincil",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2022-71",
@@ -4646,32 +4660,36 @@
       "year": 2022,
       "number": 72,
       "originalTopic": "Okul RPD Hizmetleri / Öfke Kontrolü ve Gevşeme",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2022-73",
       "year": 2022,
       "number": 73,
       "originalTopic": "Okul RPD Hizmetleri / Madde Bağımlılığını Önleme İlkesi",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2022-74",
       "year": 2022,
       "number": 74,
       "originalTopic": "Okul RPD Hizmetleri / Sel Felaketi Sonrası Kriz Yönetimi",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2022-75",
       "year": 2022,
       "number": 75,
       "originalTopic": "Okul RPD Hizmetleri / Bireysel Rehberlik Sınırları",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökündeki konu ve ölçülen rehberlik hizmeti esas alınarak sınıflandırıldı."
     },
     {
       "id": "2023-01",
