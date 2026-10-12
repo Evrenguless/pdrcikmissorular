@@ -466,72 +466,81 @@
       "year": 2015,
       "number": 1,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-02",
       "year": 2015,
       "number": 2,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-03",
       "year": 2015,
       "number": 3,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-04",
       "year": 2015,
       "number": 4,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-05",
       "year": 2015,
       "number": 5,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-06",
       "year": 2015,
       "number": 6,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-07",
       "year": 2015,
       "number": 7,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-08",
       "year": 2015,
       "number": 8,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-09",
       "year": 2015,
       "number": 9,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-10",
@@ -539,7 +548,8 @@
       "number": 10,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-11",
@@ -547,7 +557,8 @@
       "number": 11,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-12",
@@ -555,7 +566,8 @@
       "number": 12,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-13",
@@ -563,7 +575,8 @@
       "number": 13,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-14",
@@ -571,7 +584,8 @@
       "number": 14,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-15",
@@ -579,7 +593,8 @@
       "number": 15,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-16",
@@ -587,31 +602,35 @@
       "number": 16,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-17",
       "year": 2015,
       "number": 17,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-18",
       "year": 2015,
       "number": 18,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-19",
       "year": 2015,
       "number": 19,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-20",
@@ -619,7 +638,8 @@
       "number": 20,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
       "category": null,
-      "status": "needs_content_review"
+      "status": "needs_content_review",
+      "reviewNote": "Özel eğitim sorularında sekiz kategori arasındaki kapsam sınırı ayrıca değerlendirilmeli."
     },
     {
       "id": "2015-22",
@@ -627,7 +647,8 @@
       "number": 22,
       "originalTopic": "Bireyi Tanıma ve Testler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-23",
@@ -635,7 +656,8 @@
       "number": 23,
       "originalTopic": "Bireyi Tanıma ve Testler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-24",
@@ -643,7 +665,8 @@
       "number": 24,
       "originalTopic": "Bireyi Tanıma ve Testler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-25",
@@ -651,7 +674,8 @@
       "number": 25,
       "originalTopic": "Bireyi Tanıma ve Testler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-26",
@@ -659,7 +683,8 @@
       "number": 26,
       "originalTopic": "Bireyi Tanıma ve Testler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-27",
@@ -667,7 +692,8 @@
       "number": 27,
       "originalTopic": "Grupla Psikolojik Danışma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-28",
@@ -675,7 +701,8 @@
       "number": 28,
       "originalTopic": "Grupla Psikolojik Danışma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-30",
@@ -683,7 +710,8 @@
       "number": 30,
       "originalTopic": "Grupla Psikolojik Danışma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-31",
@@ -691,7 +719,8 @@
       "number": 31,
       "originalTopic": "Grupla Psikolojik Danışma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-32",
@@ -699,7 +728,8 @@
       "number": 32,
       "originalTopic": "Kariyer Danışmanlığı",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-33",
@@ -707,7 +737,8 @@
       "number": 33,
       "originalTopic": "Kariyer Danışmanlığı",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-34",
@@ -715,7 +746,8 @@
       "number": 34,
       "originalTopic": "Kariyer Danışmanlığı",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-35",
@@ -723,7 +755,8 @@
       "number": 35,
       "originalTopic": "Kariyer Danışmanlığı",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-36",
@@ -731,7 +764,8 @@
       "number": 36,
       "originalTopic": "Araştırma ve İstatistik",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-37",
@@ -739,7 +773,8 @@
       "number": 37,
       "originalTopic": "Araştırma ve İstatistik",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-38",
@@ -747,183 +782,206 @@
       "number": 38,
       "originalTopic": "Araştırma ve İstatistik",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-39",
       "year": 2015,
       "number": 39,
       "originalTopic": "Araştırma ve İstatistik",
-      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "prefix_candidate"
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-40",
       "year": 2015,
       "number": 40,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-41",
       "year": 2015,
       "number": 41,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-42",
       "year": 2015,
       "number": 42,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-43",
       "year": 2015,
       "number": 43,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-44",
       "year": 2015,
       "number": 44,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-45",
       "year": 2015,
       "number": 45,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-46",
       "year": 2015,
       "number": 46,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-47",
       "year": 2015,
       "number": 47,
       "originalTopic": "Okul Rehberliği",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-48",
       "year": 2015,
       "number": 48,
       "originalTopic": "Okul Rehberliği",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-49",
       "year": 2015,
       "number": 49,
       "originalTopic": "Okul Rehberliği",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2015-50",
       "year": 2015,
       "number": 50,
       "originalTopic": "Okul Rehberliği",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-01",
       "year": 2016,
       "number": 1,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-02",
       "year": 2016,
       "number": 2,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-03",
       "year": 2016,
       "number": 3,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-04",
       "year": 2016,
       "number": 4,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-05",
       "year": 2016,
       "number": 5,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-06",
       "year": 2016,
       "number": 6,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-07",
       "year": 2016,
       "number": 7,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-08",
       "year": 2016,
       "number": 8,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-09",
       "year": 2016,
       "number": 9,
       "originalTopic": "Temel Psikoloji ve Gelişim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-10",
       "year": 2016,
       "number": 10,
       "originalTopic": "Psikolojik Danışma Kuramları",
-      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-11",
@@ -931,7 +989,8 @@
       "number": 11,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-12",
@@ -939,15 +998,17 @@
       "number": 12,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-13",
       "year": 2016,
       "number": 13,
       "originalTopic": "Psikolojik Danışma Kuramları",
-      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-14",
@@ -955,47 +1016,53 @@
       "number": 14,
       "originalTopic": "Psikolojik Danışma Kuramları",
       "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-15",
       "year": 2016,
       "number": 15,
       "originalTopic": "Psikolojik Danışma Kuramları",
-      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-16",
       "year": 2016,
       "number": 16,
       "originalTopic": "Psikolojik Danışma Kuramları",
-      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
-      "status": "prefix_candidate"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-17",
       "year": 2016,
       "number": 17,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-18",
       "year": 2016,
       "number": 18,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-19",
       "year": 2016,
       "number": 19,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-20",
@@ -1003,7 +1070,8 @@
       "number": 20,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
       "category": null,
-      "status": "needs_content_review"
+      "status": "needs_content_review",
+      "reviewNote": "Özel eğitim sorularında sekiz kategori arasındaki kapsam sınırı ayrıca değerlendirilmeli."
     },
     {
       "id": "2016-21",
@@ -1011,7 +1079,8 @@
       "number": 21,
       "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
       "category": null,
-      "status": "needs_content_review"
+      "status": "needs_content_review",
+      "reviewNote": "Özel eğitim sorularında sekiz kategori arasındaki kapsam sınırı ayrıca değerlendirilmeli."
     },
     {
       "id": "2016-22",
@@ -1019,7 +1088,8 @@
       "number": 22,
       "originalTopic": "Bireyi Tanıma ve Testler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-23",
@@ -1027,7 +1097,8 @@
       "number": 23,
       "originalTopic": "Bireyi Tanıma ve Testler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-24",
@@ -1035,7 +1106,8 @@
       "number": 24,
       "originalTopic": "Bireyi Tanıma ve Testler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-25",
@@ -1043,7 +1115,8 @@
       "number": 25,
       "originalTopic": "Bireyi Tanıma ve Testler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-26",
@@ -1051,7 +1124,8 @@
       "number": 26,
       "originalTopic": "Bireyi Tanıma ve Testler",
       "category": "Bireyi Tanıma Teknikleri",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-27",
@@ -1059,7 +1133,8 @@
       "number": 27,
       "originalTopic": "Grupla Psikolojik Danışma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-28",
@@ -1067,7 +1142,8 @@
       "number": 28,
       "originalTopic": "Grupla Psikolojik Danışma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-29",
@@ -1075,7 +1151,8 @@
       "number": 29,
       "originalTopic": "Grupla Psikolojik Danışma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-30",
@@ -1083,7 +1160,8 @@
       "number": 30,
       "originalTopic": "Grupla Psikolojik Danışma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-31",
@@ -1091,7 +1169,8 @@
       "number": 31,
       "originalTopic": "Grupla Psikolojik Danışma",
       "category": "Bireyle ve Grupla Psikolojik Danışma",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-32",
@@ -1099,7 +1178,8 @@
       "number": 32,
       "originalTopic": "Kariyer Danışmanlığı",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-33",
@@ -1107,7 +1187,8 @@
       "number": 33,
       "originalTopic": "Kariyer Danışmanlığı",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-34",
@@ -1115,7 +1196,8 @@
       "number": 34,
       "originalTopic": "Kariyer Danışmanlığı",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-35",
@@ -1123,7 +1205,8 @@
       "number": 35,
       "originalTopic": "Kariyer Danışmanlığı",
       "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-36",
@@ -1131,15 +1214,17 @@
       "number": 36,
       "originalTopic": "Araştırma ve İstatistik",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-37",
       "year": 2016,
       "number": 37,
       "originalTopic": "Araştırma ve İstatistik",
-      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "prefix_candidate"
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-38",
@@ -1147,103 +1232,116 @@
       "number": 38,
       "originalTopic": "Araştırma ve İstatistik",
       "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "prefix_candidate"
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-39",
       "year": 2016,
       "number": 39,
       "originalTopic": "Araştırma ve İstatistik",
-      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
-      "status": "prefix_candidate"
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-40",
       "year": 2016,
       "number": 40,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-41",
       "year": 2016,
       "number": 41,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-42",
       "year": 2016,
       "number": 42,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-43",
       "year": 2016,
       "number": 43,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-44",
       "year": 2016,
       "number": 44,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-45",
       "year": 2016,
       "number": 45,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-46",
       "year": 2016,
       "number": 46,
       "originalTopic": "Etik ve Danışma Becerileri",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-47",
       "year": 2016,
       "number": 47,
       "originalTopic": "Okul Rehberliği",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-48",
       "year": 2016,
       "number": 48,
       "originalTopic": "Okul Rehberliği",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-49",
       "year": 2016,
       "number": 49,
       "originalTopic": "Okul Rehberliği",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2016-50",
       "year": 2016,
       "number": 50,
       "originalTopic": "Okul Rehberliği",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Soru kökü, seçenekler ve ölçülen kavrama göre eşleştirildi."
     },
     {
       "id": "2017-01",
