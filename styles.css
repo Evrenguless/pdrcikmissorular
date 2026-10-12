@@ -247,3 +247,28 @@ body{background:#fafaf6;color:var(--ink)}
 @media(max-width:550px){.welcome-nav .campus-link{gap:7px;min-height:46px;padding:6px 8px;border-radius:12px}.campus-link-symbol{width:32px;height:32px;flex-basis:32px;border-radius:9px}.campus-link-symbol img{width:25px;height:25px}.campus-link-copy strong{font-size:12px}.campus-link-copy small{font-size:9px}.campus-link-external{width:13px;height:13px;margin-left:1px;flex-basis:13px}}
 @media(max-width:385px){.campus-link-copy small{display:none}.campus-link-symbol{display:none}}
 @media(prefers-reduced-motion:reduce){.welcome-nav .campus-link{transition:none}.welcome-nav .campus-link:hover{transform:none}}
+
+/* Sonuç optiğinden açılan sorular: güncel çözüm görünümüyle aynı ölçüler */
+.exam-app.exam-finished.result-reviewing .exam-main{max-width:1120px;padding-top:16px}
+.exam-app.exam-finished.result-reviewing .question-card{min-height:0;padding:20px 24px;border:1px solid #dce7de;border-radius:18px;box-shadow:none}
+.exam-app.exam-finished.result-reviewing .question-card-top{margin-bottom:10px}
+.exam-app.exam-finished.result-reviewing .question-card-top .question-index{font-size:26px;margin-top:2px}
+.exam-app.exam-finished.result-reviewing .question-visual.source-sheet{
+  display:block;width:100%;height:auto;max-width:100%;
+  max-height:clamp(390px,calc(100dvh - 290px),700px);
+  object-fit:contain;object-position:center;margin:0 0 12px;
+  padding:0;border:0;border-radius:10px;background:#fff
+}
+.exam-app.exam-finished.result-reviewing .answer-area{padding-top:12px}
+.exam-app.exam-finished.result-reviewing .answer-header{margin-bottom:9px}
+.exam-app.exam-finished.result-reviewing .answer-area .options{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}
+.exam-app.exam-finished.result-reviewing .answer-area .option{display:flex;align-items:center;justify-content:center;min-height:52px;min-width:0;padding:8px;border-radius:12px}
+.exam-app.exam-finished.result-reviewing .answer-area .option .option-key{display:grid;place-items:center;width:auto;height:auto;min-width:34px;min-height:32px;margin:0;font-size:16px}
+.exam-app.exam-finished.result-reviewing .exam-controls{margin-top:12px}
+@media(max-width:700px){
+  .exam-app.exam-finished.result-reviewing .exam-main{padding:9px 12px 30px}
+  .exam-app.exam-finished.result-reviewing .question-card{padding:14px 13px}
+  .exam-app.exam-finished.result-reviewing .question-visual.source-sheet{max-height:min(65dvh,650px)}
+  .exam-app.exam-finished.result-reviewing .answer-area .options{gap:6px}
+  .exam-app.exam-finished.result-reviewing .answer-area .option{min-height:49px;padding:4px}
+}
