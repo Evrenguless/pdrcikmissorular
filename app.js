@@ -158,10 +158,8 @@ async function selectYear(year, initial = false) {
     // Kaydedilmiş sınav cevapları ve sonuçlar silinmez.
     if (initial) {
       show("welcome");
-    } else if (state.finished) {
-      show("exam");
-      renderResults();
     } else {
+      // Bitmiş bir sınav seçilse bile önce çözüm modu ekranı gösterilir.
       show("mode");
     }
 
@@ -565,7 +563,10 @@ $("#modeYearSelect").onchange = async e => {
   if (!e.target.value) { state.yearChosen = false; $("#modeYear").textContent = "Çözüm modları"; return; }
   await selectYear(Number(e.target.value));
 };
-$("#modeBack").onclick = () => show("welcome");
+$("#modeBack").onclick = () => {
+  if (history.state?.pdrOabtView === "mode" && history.length > 1) history.back();
+  else show("welcome");
+};
 $("#examBack").onclick = () => {
   if (state.finished && els.exam.classList.contains("result-reviewing")) {
     renderResults();
