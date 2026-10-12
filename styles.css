@@ -47,3 +47,5 @@
 .exam-app.exam-finished .option:disabled{cursor:default;opacity:1}
 .exam-app.exam-finished .option.review-correct{border-color:#19805a;background:#e1f4e9}
 .exam-app.exam-finished .option.review-wrong{border-color:#bb3939;background:#ffebe8}
+
+#backToResultOptic{display:none}
