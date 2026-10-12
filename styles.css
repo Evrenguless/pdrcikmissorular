@@ -291,3 +291,12 @@ body{background:#fafaf6;color:var(--ink)}
 /* Tipografik optik merkezleme: rakamın font tabanı kutuda aşağı kaymamalı */
 .year-list .year-monogram{display:grid!important;place-items:center!important;flex-shrink:0;overflow:hidden}
 .year-list .year-monogram-number{display:block;line-height:1;transform:translateY(-2px);font-family:Manrope,system-ui,sans-serif;font-weight:800;font-size:inherit;letter-spacing:-.035em}
+
+/* Marka alt açıklaması ve açık yıl seçimi */
+.welcome-nav .campus-link-copy{display:flex;flex-direction:column;align-items:flex-start;gap:3px}
+.welcome-nav .campus-link-copy small{display:block;color:#718478;font-size:10px;line-height:1.2;font-weight:600}
+.mode-year-picker{display:flex;align-items:center;gap:13px;margin:20px 0 28px;padding:14px 18px;background:#fff;border:1px solid #dce7de;border-radius:14px;max-width:480px}
+.mode-year-picker label{font-size:13px;font-weight:800;color:#274838;white-space:nowrap}
+.mode-year-picker select{width:100%;min-width:0;padding:11px 14px;border:1px solid #cbded1;border-radius:9px;background:#f7fbf8;color:#123c31;font:700 13px Manrope,system-ui,sans-serif;cursor:pointer}
+.mode-year-picker select:focus-visible{outline:3px solid #a3c9b0;outline-offset:2px}
+@media(max-width:550px){.mode-year-picker{align-items:stretch;flex-direction:column;gap:8px;margin:16px 0 22px}.welcome-nav .campus-link-copy small{font-size:9px}}
