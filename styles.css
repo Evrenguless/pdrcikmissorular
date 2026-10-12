@@ -176,7 +176,7 @@ body{background:#fafaf6;color:var(--ink)}
   .exam-app:not(.exam-finished) .question-card-top{margin-bottom:10px}
   .exam-app:not(.exam-finished) .question-card-top .question-index{font-size:26px;margin-top:2px}
   .exam-app:not(.exam-finished) .question-visual.source-sheet{
-    width:100%;height:auto;max-height:clamp(235px,calc(100dvh - 465px),490px);
+    width:100%;height:auto;max-height:clamp(390px,calc(100dvh - 290px),700px);
     object-fit:contain;object-position:center;margin-bottom:10px
   }
   .exam-app:not(.exam-finished) .answer-area{padding-top:12px}
@@ -191,7 +191,7 @@ body{background:#fafaf6;color:var(--ink)}
   .exam-app:not(.exam-finished) .question-card{padding:14px 13px}
   .exam-app:not(.exam-finished) .question-card-top{margin-bottom:8px}
   .exam-app:not(.exam-finished) .question-card-top .question-index{font-size:23px;margin-top:2px}
-  .exam-app:not(.exam-finished) .question-visual.source-sheet{max-height:min(46dvh,440px);object-fit:contain;margin-bottom:10px}
+  .exam-app:not(.exam-finished) .question-visual.source-sheet{max-height:min(65dvh,650px);object-fit:contain;margin-bottom:10px}
   .exam-app:not(.exam-finished) .answer-area{padding-top:11px}
   .exam-app:not(.exam-finished) .answer-header{margin-bottom:7px}
   .exam-app:not(.exam-finished) .answer-area .option{min-height:49px}
