@@ -144,12 +144,16 @@ async function selectYear(year, initial = false) {
     load();
     applyYearLabels();
 
-    if (state.finished) {
+    $("#modeYear").textContent = `${state.year} PDR ÖABT`;
+    // Sayfa yenilendiğinde daima giriş ekranında kal.
+    // Kaydedilmiş sınav cevapları ve sonuçlar silinmez.
+    if (initial) {
+      show("welcome");
+    } else if (state.finished) {
       show("exam");
       renderResults();
     } else {
-      $("#modeYear").textContent = `${state.year} PDR ÖABT`;
-      show(initial ? "welcome" : "mode");
+      show("mode");
     }
 
   } catch (error) {
