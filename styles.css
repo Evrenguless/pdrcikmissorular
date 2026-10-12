@@ -34,3 +34,16 @@
 .optic-legend i.result-correct{background:#1c8059}.optic-legend i.result-wrong{background:#b83737}.optic-legend i.result-blank{background:#cbd2cf}
 .exam-app.exam-finished #restartFromOptic{width:100%;margin-top:12px}
 @media(max-width:700px){.exam-app.exam-finished .exam-main{padding:12px}.exam-app.exam-finished .optic-grid{gap:6px}.exam-app.exam-finished .grid-button.result-cell{min-height:70px}.exam-app.exam-finished .result-choice{font-size:21px}.exam-app.exam-finished .result-cell small{font-size:9px}}
+
+/* Sonuç optiğinden soru inceleme: cevapları değiştirmeden görsel açılır. */
+.exam-app.exam-finished .grid-button.result-cell{cursor:pointer}
+.exam-app.exam-finished .grid-button.result-cell:hover{filter:brightness(.92)}
+.exam-app.exam-finished.result-reviewing .question-stage{display:block!important}
+.exam-app.exam-finished.result-reviewing .exam-main{max-width:1040px}
+.exam-app.exam-finished.result-reviewing .optic{display:none!important}
+.exam-app.exam-finished #backToResultOptic{display:none}
+.exam-app.exam-finished.result-reviewing #backToResultOptic{display:inline-flex;align-items:center;justify-content:center}
+.exam-app.exam-finished.result-reviewing #prevButton,.exam-app.exam-finished.result-reviewing #nextButton{display:none}
+.exam-app.exam-finished .option:disabled{cursor:default;opacity:1}
+.exam-app.exam-finished .option.review-correct{border-color:#19805a;background:#e1f4e9}
+.exam-app.exam-finished .option.review-wrong{border-color:#bb3939;background:#ffebe8}
