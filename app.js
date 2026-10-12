@@ -8,12 +8,13 @@ const state = {
   deadline: null,
   finished: false,
   reviewIndex: null,
-  reviewTab: "explanation"
+  reviewTab: "explanation",
+  mode: "exam"
 };
 
 const $ = s => document.querySelector(s);
 
-const storageKey = () => `pdr-oabt-${state.year}-exam-v3`;
+const storageKey = () => `pdr-oabt-${state.year}-${state.mode}-v4`;
 
 const els = {
   welcome: $("#welcomeView"),
@@ -81,6 +82,7 @@ function q() {
 
 function show(view) {
   els.welcome.hidden = view !== "welcome";
+  $("#modeView").hidden = view !== "mode";
   els.exam.hidden = view !== "exam";
   els.results.hidden = view !== "results";
 
@@ -146,7 +148,8 @@ async function selectYear(year) {
       show("exam");
       renderResults();
     } else {
-      show("welcome");
+      $("#modeYear").textContent = `${state.year} PDR ÖABT`;
+      show("mode");
     }
 
   } catch (error) {
@@ -187,6 +190,7 @@ function begin(fresh = false) {
   legend.innerHTML = '<span><i class="answered"></i> Yanıtlandı</span><span><i class="flagged"></i> İşaretli</span>';
   const restart = $("#restartFromOptic");
   if (restart) restart.hidden = true;
+  $("#timer").closest(".timer").hidden = state.mode === "practice";
   show("exam");
   renderQuestion();
   save();
@@ -197,7 +201,7 @@ function begin(fresh = false) {
 function renderQuestion() {
   const item = q();
 
-  els.topic.textContent = item.topic;
+  els.topic.textContent = state.mode === "practice" ? "Çalışma Modu" : "";
 
   els.number.textContent =
     String(item.number).padStart(2, "0");
@@ -259,13 +263,13 @@ function renderQuestion() {
 
     // CEVAP BUTONUNU ÇALIŞTIRAN BÖLÜM
 
-    b.disabled = state.finished;
-    if (state.finished) {
+    b.disabled = state.finished || (state.mode === "practice" && !!state.answers[item.id]);
+    if (state.finished || (state.mode === "practice" && !!state.answers[item.id])) {
       b.classList.toggle("review-correct", opt.key === item.answer);
       b.classList.toggle("review-wrong", opt.key === state.answers[item.id] && opt.key !== item.answer);
     }
     b.onclick = () => {
-      if (state.finished) return;
+      if (state.finished || (state.mode === "practice" && state.answers[item.id])) return;
       state.answers[item.id] = opt.key;
       renderQuestion();
     };
@@ -535,7 +539,18 @@ els.bookmark.onclick = () => {
   renderQuestion();
 };
 
-$("#startExam").onclick = () => begin(true);
+$("#startExam").onclick = () => show("mode");
+$("#modeBack").onclick = () => show("welcome");
+$("#modeHome").onclick = e => { e.preventDefault(); show("welcome"); };
+document.querySelectorAll("[data-mode]").forEach(button => button.onclick = () => {
+  if (button.dataset.mode === "topic") {
+    toast("Konu eşleştirmeleri doğrulanıyor; henüz açılmadı.");
+    return;
+  }
+  state.mode = button.dataset.mode;
+  load();
+  begin(true);
+});
 
 $("#resumeExam").onclick = () => begin(false);
 
@@ -592,7 +607,7 @@ document.querySelectorAll("[data-review-tab]").forEach(b => {
 // SINAV SAYACI
 
 setInterval(() => {
-  if (!state.startedAt || state.finished) {
+  if (!state.startedAt || state.finished || state.mode === "practice") {
     return;
   }
 
