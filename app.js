@@ -259,7 +259,13 @@ function renderQuestion() {
 
     // CEVAP BUTONUNU ÇALIŞTIRAN BÖLÜM
 
+    b.disabled = state.finished;
+    if (state.finished) {
+      b.classList.toggle("review-correct", opt.key === item.answer);
+      b.classList.toggle("review-wrong", opt.key === state.answers[item.id] && opt.key !== item.answer);
+    }
     b.onclick = () => {
+      if (state.finished) return;
       state.answers[item.id] = opt.key;
       renderQuestion();
     };
@@ -277,7 +283,7 @@ function renderQuestion() {
       : "Sonraki soru →";
 
   renderProgress();
-  renderGrid();
+  if (!state.finished) renderGrid();
   save();
 }
 
@@ -384,6 +390,7 @@ function resultStats() {
 
 function renderResults() {
   els.exam.classList.add("exam-finished");
+  els.exam.classList.remove("result-reviewing");
   els.optic.classList.add("open");
   els.grid.innerHTML = "";
   els.grid.setAttribute("aria-label", "Sınav sonucu optik formu");
@@ -408,7 +415,8 @@ function renderResults() {
   state.data.questions.forEach(item => {
     const selected = state.answers[item.id];
     const isCorrect = selected === item.answer;
-    const cell = document.createElement("div");
+    const cell = document.createElement("button");
+    cell.type = "button";
     cell.className = "grid-button result-cell " + (!selected ? "result-blank" : isCorrect ? "result-correct" : "result-wrong");
     const number = document.createElement("span");
     number.className = "result-number";
@@ -423,8 +431,26 @@ function renderResults() {
       cell.appendChild(correct);
     }
     cell.title = selected ? `Soru ${item.number}: işaretlenen ${selected}, doğru ${item.answer}` : `Soru ${item.number}: boş, doğru cevap ${item.answer}`;
+    cell.onclick = () => {
+      const index = state.data.questions.findIndex(q => q.id === item.id);
+      if (index < 0) return;
+      state.current = index;
+      els.exam.classList.add("result-reviewing");
+      renderQuestion();
+      window.scrollTo(0, 0);
+    };
     els.grid.appendChild(cell);
   });
+  let back = $("#backToResultOptic");
+  if (!back) {
+    back = document.createElement("button");
+    back.type = "button";
+    back.id = "backToResultOptic";
+    back.className = "button secondary";
+    back.textContent = "← Sonuç optiğine dön";
+    back.onclick = () => { renderResults(); window.scrollTo(0, 0); };
+    document.querySelector(".exam-controls").prepend(back);
+  }
 }
 // CEVAP İNCELEME
 
