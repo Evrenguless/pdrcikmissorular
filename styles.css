@@ -167,3 +167,33 @@ body{background:#fafaf6;color:var(--ink)}
 
 /* Ana platformla aynı marka yazımı */
 .brand b .brand-campus{font-weight:600;color:#17654b;text-transform:none}
+
+/* Kompakt çözüm: soru ile yanıtları aynı bakış alanında tut */
+@media(min-width:701px){
+  .exam-app:not(.exam-finished) .exam-main{padding-top:16px;gap:24px}
+  .exam-app:not(.exam-finished) .question-card{padding:20px 24px}
+  .exam-app:not(.exam-finished) .question-kicker{margin-bottom:10px}
+  .exam-app:not(.exam-finished) .question-card-top{margin-bottom:10px}
+  .exam-app:not(.exam-finished) .question-card-top .question-index{font-size:26px;margin-top:2px}
+  .exam-app:not(.exam-finished) .question-visual.source-sheet{
+    width:100%;height:auto;max-height:clamp(235px,calc(100dvh - 465px),490px);
+    object-fit:contain;object-position:center;margin-bottom:10px
+  }
+  .exam-app:not(.exam-finished) .answer-area{padding-top:12px}
+  .exam-app:not(.exam-finished) .answer-header{margin-bottom:8px}
+  .exam-app:not(.exam-finished) .answer-area .option{min-height:52px}
+  .exam-app:not(.exam-finished) .answer-area .option .option-key{font-size:16px;min-height:30px}
+  .exam-app:not(.exam-finished) .exam-controls{margin-top:10px}
+  .exam-app:not(.exam-finished) .exam-back-row{margin-top:9px;margin-bottom:-9px}
+}
+@media(max-width:700px){
+  .exam-app:not(.exam-finished) .exam-main{padding-top:9px}
+  .exam-app:not(.exam-finished) .question-card{padding:14px 13px}
+  .exam-app:not(.exam-finished) .question-card-top{margin-bottom:8px}
+  .exam-app:not(.exam-finished) .question-card-top .question-index{font-size:23px;margin-top:2px}
+  .exam-app:not(.exam-finished) .question-visual.source-sheet{max-height:min(46dvh,440px);object-fit:contain;margin-bottom:10px}
+  .exam-app:not(.exam-finished) .answer-area{padding-top:11px}
+  .exam-app:not(.exam-finished) .answer-header{margin-bottom:7px}
+  .exam-app:not(.exam-finished) .answer-area .option{min-height:49px}
+  .exam-app:not(.exam-finished) .exam-controls{margin-top:10px}
+}
