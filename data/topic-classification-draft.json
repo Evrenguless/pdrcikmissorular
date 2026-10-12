@@ -1,0 +1,6399 @@
+{
+  "description": "ÖABT konu eşleme taslağı. prefix_candidate kayıtları yalnızca etiket tabanlı adaydır; soru içeriğiyle onaylanmadan konu modunda kullanılmamalıdır.",
+  "categories": [
+    "Temel Psikolojik Kavramlar",
+    "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+    "Davranış ve Uyum Problemleri",
+    "Bireyi Tanıma Teknikleri",
+    "Bireyle ve Grupla Psikolojik Danışma",
+    "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+    "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+    "Meslek Etiği ve Yasal Konular"
+  ],
+  "questions": [
+    {
+      "id": "2014-01",
+      "year": 2014,
+      "number": 1,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-02",
+      "year": 2014,
+      "number": 2,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-03",
+      "year": 2014,
+      "number": 3,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-04",
+      "year": 2014,
+      "number": 4,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-05",
+      "year": 2014,
+      "number": 5,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-06",
+      "year": 2014,
+      "number": 6,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-07",
+      "year": 2014,
+      "number": 7,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-08",
+      "year": 2014,
+      "number": 8,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-09",
+      "year": 2014,
+      "number": 9,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-10",
+      "year": 2014,
+      "number": 10,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-11",
+      "year": 2014,
+      "number": 11,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-12",
+      "year": 2014,
+      "number": 12,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-13",
+      "year": 2014,
+      "number": 13,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-14",
+      "year": 2014,
+      "number": 14,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-15",
+      "year": 2014,
+      "number": 15,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-16",
+      "year": 2014,
+      "number": 16,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-17",
+      "year": 2014,
+      "number": 17,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-18",
+      "year": 2014,
+      "number": 18,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-19",
+      "year": 2014,
+      "number": 19,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-20",
+      "year": 2014,
+      "number": 20,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-21",
+      "year": 2014,
+      "number": 21,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-22",
+      "year": 2014,
+      "number": 22,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-23",
+      "year": 2014,
+      "number": 23,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-24",
+      "year": 2014,
+      "number": 24,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-25",
+      "year": 2014,
+      "number": 25,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-26",
+      "year": 2014,
+      "number": 26,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-27",
+      "year": 2014,
+      "number": 27,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-28",
+      "year": 2014,
+      "number": 28,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-29",
+      "year": 2014,
+      "number": 29,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-30",
+      "year": 2014,
+      "number": 30,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-31",
+      "year": 2014,
+      "number": 31,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-32",
+      "year": 2014,
+      "number": 32,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-33",
+      "year": 2014,
+      "number": 33,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-34",
+      "year": 2014,
+      "number": 34,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-35",
+      "year": 2014,
+      "number": 35,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-36",
+      "year": 2014,
+      "number": 36,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-37",
+      "year": 2014,
+      "number": 37,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-38",
+      "year": 2014,
+      "number": 38,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-39",
+      "year": 2014,
+      "number": 39,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2014-40",
+      "year": 2014,
+      "number": 40,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-41",
+      "year": 2014,
+      "number": 41,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-42",
+      "year": 2014,
+      "number": 42,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-43",
+      "year": 2014,
+      "number": 43,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-44",
+      "year": 2014,
+      "number": 44,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-45",
+      "year": 2014,
+      "number": 45,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-46",
+      "year": 2014,
+      "number": 46,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-47",
+      "year": 2014,
+      "number": 47,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-48",
+      "year": 2014,
+      "number": 48,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-49",
+      "year": 2014,
+      "number": 49,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2014-50",
+      "year": 2014,
+      "number": 50,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-01",
+      "year": 2015,
+      "number": 1,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-02",
+      "year": 2015,
+      "number": 2,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-03",
+      "year": 2015,
+      "number": 3,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-04",
+      "year": 2015,
+      "number": 4,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-05",
+      "year": 2015,
+      "number": 5,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-06",
+      "year": 2015,
+      "number": 6,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-07",
+      "year": 2015,
+      "number": 7,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-08",
+      "year": 2015,
+      "number": 8,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-09",
+      "year": 2015,
+      "number": 9,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-10",
+      "year": 2015,
+      "number": 10,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-11",
+      "year": 2015,
+      "number": 11,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-12",
+      "year": 2015,
+      "number": 12,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-13",
+      "year": 2015,
+      "number": 13,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-14",
+      "year": 2015,
+      "number": 14,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-15",
+      "year": 2015,
+      "number": 15,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-16",
+      "year": 2015,
+      "number": 16,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-17",
+      "year": 2015,
+      "number": 17,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-18",
+      "year": 2015,
+      "number": 18,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-19",
+      "year": 2015,
+      "number": 19,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-20",
+      "year": 2015,
+      "number": 20,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-22",
+      "year": 2015,
+      "number": 22,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-23",
+      "year": 2015,
+      "number": 23,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-24",
+      "year": 2015,
+      "number": 24,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-25",
+      "year": 2015,
+      "number": 25,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-26",
+      "year": 2015,
+      "number": 26,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-27",
+      "year": 2015,
+      "number": 27,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-28",
+      "year": 2015,
+      "number": 28,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-30",
+      "year": 2015,
+      "number": 30,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-31",
+      "year": 2015,
+      "number": 31,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-32",
+      "year": 2015,
+      "number": 32,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-33",
+      "year": 2015,
+      "number": 33,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-34",
+      "year": 2015,
+      "number": 34,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-35",
+      "year": 2015,
+      "number": 35,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-36",
+      "year": 2015,
+      "number": 36,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-37",
+      "year": 2015,
+      "number": 37,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-38",
+      "year": 2015,
+      "number": 38,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-39",
+      "year": 2015,
+      "number": 39,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2015-40",
+      "year": 2015,
+      "number": 40,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-41",
+      "year": 2015,
+      "number": 41,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-42",
+      "year": 2015,
+      "number": 42,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-43",
+      "year": 2015,
+      "number": 43,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-44",
+      "year": 2015,
+      "number": 44,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-45",
+      "year": 2015,
+      "number": 45,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-46",
+      "year": 2015,
+      "number": 46,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-47",
+      "year": 2015,
+      "number": 47,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-48",
+      "year": 2015,
+      "number": 48,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-49",
+      "year": 2015,
+      "number": 49,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2015-50",
+      "year": 2015,
+      "number": 50,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-01",
+      "year": 2016,
+      "number": 1,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-02",
+      "year": 2016,
+      "number": 2,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-03",
+      "year": 2016,
+      "number": 3,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-04",
+      "year": 2016,
+      "number": 4,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-05",
+      "year": 2016,
+      "number": 5,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-06",
+      "year": 2016,
+      "number": 6,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-07",
+      "year": 2016,
+      "number": 7,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-08",
+      "year": 2016,
+      "number": 8,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-09",
+      "year": 2016,
+      "number": 9,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-10",
+      "year": 2016,
+      "number": 10,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-11",
+      "year": 2016,
+      "number": 11,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-12",
+      "year": 2016,
+      "number": 12,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-13",
+      "year": 2016,
+      "number": 13,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-14",
+      "year": 2016,
+      "number": 14,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-15",
+      "year": 2016,
+      "number": 15,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-16",
+      "year": 2016,
+      "number": 16,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-17",
+      "year": 2016,
+      "number": 17,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-18",
+      "year": 2016,
+      "number": 18,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-19",
+      "year": 2016,
+      "number": 19,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-20",
+      "year": 2016,
+      "number": 20,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-21",
+      "year": 2016,
+      "number": 21,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-22",
+      "year": 2016,
+      "number": 22,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-23",
+      "year": 2016,
+      "number": 23,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-24",
+      "year": 2016,
+      "number": 24,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-25",
+      "year": 2016,
+      "number": 25,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-26",
+      "year": 2016,
+      "number": 26,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-27",
+      "year": 2016,
+      "number": 27,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-28",
+      "year": 2016,
+      "number": 28,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-29",
+      "year": 2016,
+      "number": 29,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-30",
+      "year": 2016,
+      "number": 30,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-31",
+      "year": 2016,
+      "number": 31,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-32",
+      "year": 2016,
+      "number": 32,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-33",
+      "year": 2016,
+      "number": 33,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-34",
+      "year": 2016,
+      "number": 34,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-35",
+      "year": 2016,
+      "number": 35,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-36",
+      "year": 2016,
+      "number": 36,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-37",
+      "year": 2016,
+      "number": 37,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-38",
+      "year": 2016,
+      "number": 38,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-39",
+      "year": 2016,
+      "number": 39,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2016-40",
+      "year": 2016,
+      "number": 40,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-41",
+      "year": 2016,
+      "number": 41,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-42",
+      "year": 2016,
+      "number": 42,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-43",
+      "year": 2016,
+      "number": 43,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-44",
+      "year": 2016,
+      "number": 44,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-45",
+      "year": 2016,
+      "number": 45,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-46",
+      "year": 2016,
+      "number": 46,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-47",
+      "year": 2016,
+      "number": 47,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-48",
+      "year": 2016,
+      "number": 48,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-49",
+      "year": 2016,
+      "number": 49,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2016-50",
+      "year": 2016,
+      "number": 50,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-01",
+      "year": 2017,
+      "number": 1,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-02",
+      "year": 2017,
+      "number": 2,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-03",
+      "year": 2017,
+      "number": 3,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-04",
+      "year": 2017,
+      "number": 4,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-05",
+      "year": 2017,
+      "number": 5,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-06",
+      "year": 2017,
+      "number": 6,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-07",
+      "year": 2017,
+      "number": 7,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-08",
+      "year": 2017,
+      "number": 8,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-09",
+      "year": 2017,
+      "number": 9,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-10",
+      "year": 2017,
+      "number": 10,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-11",
+      "year": 2017,
+      "number": 11,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-12",
+      "year": 2017,
+      "number": 12,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-13",
+      "year": 2017,
+      "number": 13,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-14",
+      "year": 2017,
+      "number": 14,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-15",
+      "year": 2017,
+      "number": 15,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-16",
+      "year": 2017,
+      "number": 16,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-17",
+      "year": 2017,
+      "number": 17,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-18",
+      "year": 2017,
+      "number": 18,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-19",
+      "year": 2017,
+      "number": 19,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-20",
+      "year": 2017,
+      "number": 20,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-21",
+      "year": 2017,
+      "number": 21,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-22",
+      "year": 2017,
+      "number": 22,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-23",
+      "year": 2017,
+      "number": 23,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-24",
+      "year": 2017,
+      "number": 24,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-25",
+      "year": 2017,
+      "number": 25,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-26",
+      "year": 2017,
+      "number": 26,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-27",
+      "year": 2017,
+      "number": 27,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-28",
+      "year": 2017,
+      "number": 28,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-29",
+      "year": 2017,
+      "number": 29,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-30",
+      "year": 2017,
+      "number": 30,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-31",
+      "year": 2017,
+      "number": 31,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-32",
+      "year": 2017,
+      "number": 32,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-33",
+      "year": 2017,
+      "number": 33,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-34",
+      "year": 2017,
+      "number": 34,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-35",
+      "year": 2017,
+      "number": 35,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-36",
+      "year": 2017,
+      "number": 36,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-37",
+      "year": 2017,
+      "number": 37,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-38",
+      "year": 2017,
+      "number": 38,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-39",
+      "year": 2017,
+      "number": 39,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2017-40",
+      "year": 2017,
+      "number": 40,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-41",
+      "year": 2017,
+      "number": 41,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-42",
+      "year": 2017,
+      "number": 42,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-43",
+      "year": 2017,
+      "number": 43,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-44",
+      "year": 2017,
+      "number": 44,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-45",
+      "year": 2017,
+      "number": 45,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-46",
+      "year": 2017,
+      "number": 46,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-47",
+      "year": 2017,
+      "number": 47,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-48",
+      "year": 2017,
+      "number": 48,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-49",
+      "year": 2017,
+      "number": 49,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2017-50",
+      "year": 2017,
+      "number": 50,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-01",
+      "year": 2018,
+      "number": 1,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-02",
+      "year": 2018,
+      "number": 2,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-03",
+      "year": 2018,
+      "number": 3,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-04",
+      "year": 2018,
+      "number": 4,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-05",
+      "year": 2018,
+      "number": 5,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-06",
+      "year": 2018,
+      "number": 6,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-07",
+      "year": 2018,
+      "number": 7,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-08",
+      "year": 2018,
+      "number": 8,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-09",
+      "year": 2018,
+      "number": 9,
+      "originalTopic": "Temel Psikoloji ve Gelişim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-10",
+      "year": 2018,
+      "number": 10,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-11",
+      "year": 2018,
+      "number": 11,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-12",
+      "year": 2018,
+      "number": 12,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-13",
+      "year": 2018,
+      "number": 13,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-14",
+      "year": 2018,
+      "number": 14,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-15",
+      "year": 2018,
+      "number": 15,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-16",
+      "year": 2018,
+      "number": 16,
+      "originalTopic": "Psikolojik Danışma Kuramları",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-17",
+      "year": 2018,
+      "number": 17,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-18",
+      "year": 2018,
+      "number": 18,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-19",
+      "year": 2018,
+      "number": 19,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-20",
+      "year": 2018,
+      "number": 20,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-21",
+      "year": 2018,
+      "number": 21,
+      "originalTopic": "Ruh Sağlığı ve Özel Eğitim",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-22",
+      "year": 2018,
+      "number": 22,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-23",
+      "year": 2018,
+      "number": 23,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-24",
+      "year": 2018,
+      "number": 24,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-25",
+      "year": 2018,
+      "number": 25,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-26",
+      "year": 2018,
+      "number": 26,
+      "originalTopic": "Bireyi Tanıma ve Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-27",
+      "year": 2018,
+      "number": 27,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-28",
+      "year": 2018,
+      "number": 28,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-29",
+      "year": 2018,
+      "number": 29,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-30",
+      "year": 2018,
+      "number": 30,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-31",
+      "year": 2018,
+      "number": 31,
+      "originalTopic": "Grupla Psikolojik Danışma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-32",
+      "year": 2018,
+      "number": 32,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-33",
+      "year": 2018,
+      "number": 33,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-34",
+      "year": 2018,
+      "number": 34,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-35",
+      "year": 2018,
+      "number": 35,
+      "originalTopic": "Kariyer Danışmanlığı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-36",
+      "year": 2018,
+      "number": 36,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-37",
+      "year": 2018,
+      "number": 37,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-38",
+      "year": 2018,
+      "number": 38,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-39",
+      "year": 2018,
+      "number": 39,
+      "originalTopic": "Araştırma ve İstatistik",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2018-40",
+      "year": 2018,
+      "number": 40,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-41",
+      "year": 2018,
+      "number": 41,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-42",
+      "year": 2018,
+      "number": 42,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-43",
+      "year": 2018,
+      "number": 43,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-44",
+      "year": 2018,
+      "number": 44,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-45",
+      "year": 2018,
+      "number": 45,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-46",
+      "year": 2018,
+      "number": 46,
+      "originalTopic": "Etik ve Danışma Becerileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-47",
+      "year": 2018,
+      "number": 47,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-48",
+      "year": 2018,
+      "number": 48,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-49",
+      "year": 2018,
+      "number": 49,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2018-50",
+      "year": 2018,
+      "number": 50,
+      "originalTopic": "Okul Rehberliği",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2019-01",
+      "year": 2019,
+      "number": 1,
+      "originalTopic": "Gelişim Psikolojisi / Araştırma Yöntemleri",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-02",
+      "year": 2019,
+      "number": 2,
+      "originalTopic": "Sosyal Psikoloji",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-03",
+      "year": 2019,
+      "number": 3,
+      "originalTopic": "Sosyal Psikoloji",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-04",
+      "year": 2019,
+      "number": 4,
+      "originalTopic": "Fizyolojik Psikoloji",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-05",
+      "year": 2019,
+      "number": 5,
+      "originalTopic": "Bilişsel Psikoloji / Öğrenme Psikolojisi",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-06",
+      "year": 2019,
+      "number": 6,
+      "originalTopic": "Öğrenme Psikolojisi / Edimsel Koşullanma",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-07",
+      "year": 2019,
+      "number": 7,
+      "originalTopic": "Gelişim Psikolojisi",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-08",
+      "year": 2019,
+      "number": 8,
+      "originalTopic": "Okul Psikolojik Danışmanlığı / Gelişim Kuramları",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2019-09",
+      "year": 2019,
+      "number": 9,
+      "originalTopic": "Kişilik Kuramları / Karen Horney",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-10",
+      "year": 2019,
+      "number": 10,
+      "originalTopic": "Kişilik Kuramları / Harry Stack Sullivan",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-11",
+      "year": 2019,
+      "number": 11,
+      "originalTopic": "Kişilik Kuramları / Bireysel Psikoloji (Adler)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-12",
+      "year": 2019,
+      "number": 12,
+      "originalTopic": "Psikolojik Danışma Kuramları / Psikanaliz",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-13",
+      "year": 2019,
+      "number": 13,
+      "originalTopic": "Psikolojik Danışma Kuramları / Birey Merkezli (İnsancıl)",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-14",
+      "year": 2019,
+      "number": 14,
+      "originalTopic": "Psikolojik Danışma Kuramları / Bilişsel Terapi",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-15",
+      "year": 2019,
+      "number": 15,
+      "originalTopic": "Psikolojik Danışma Kuramları / Gerçeklik Terapisi (Glasser)",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-16",
+      "year": 2019,
+      "number": 16,
+      "originalTopic": "Aile Danışmanlığı Kuramları / Murray Bowen",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-17",
+      "year": 2019,
+      "number": 17,
+      "originalTopic": "Psikolojik Danışma Kuramları / Saldırganlığın Doğası",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-18",
+      "year": 2019,
+      "number": 18,
+      "originalTopic": "Psikolojik Danışma Kuramları / ADDT (Ellis)",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-19",
+      "year": 2019,
+      "number": 19,
+      "originalTopic": "Grupla Psikolojik Danışma Becerileri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-20",
+      "year": 2019,
+      "number": 20,
+      "originalTopic": "Psikolojik Danışma Becerileri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-21",
+      "year": 2019,
+      "number": 21,
+      "originalTopic": "Grupla Psikolojik Danışma / Grup Evreleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-22",
+      "year": 2019,
+      "number": 22,
+      "originalTopic": "Psikolojik Danışma Becerileri / Yüzleştirme",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-23",
+      "year": 2019,
+      "number": 23,
+      "originalTopic": "Psikolojik Danışma Becerileri / İlk Oturum ve İlişki Kurma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-24",
+      "year": 2019,
+      "number": 24,
+      "originalTopic": "Psikolojik Danışma Becerileri / Kendini Açma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-25",
+      "year": 2019,
+      "number": 25,
+      "originalTopic": "Anormal Psikoloji / DSM-5 / Panik Bozukluk",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-26",
+      "year": 2019,
+      "number": 26,
+      "originalTopic": "Anormal Psikoloji / Kişilik Bozuklukları",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-27",
+      "year": 2019,
+      "number": 27,
+      "originalTopic": "Anormal Psikoloji / Şizofreni Spektrumu (Sanrılar)",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-28",
+      "year": 2019,
+      "number": 28,
+      "originalTopic": "Anormal Psikoloji / Madde Kullanım Bozuklukları",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-29",
+      "year": 2019,
+      "number": 29,
+      "originalTopic": "Anormal Psikoloji / Çocuk ve Ergen Psikopatolojisi",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-30",
+      "year": 2019,
+      "number": 30,
+      "originalTopic": "Özel Eğitim ve Kaynaştırma",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2019-31",
+      "year": 2019,
+      "number": 31,
+      "originalTopic": "Özel Eğitim / Üstün Yetenekliler",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2019-32",
+      "year": 2019,
+      "number": 32,
+      "originalTopic": "Özel Eğitim / Kaynaştırma (Entegrasyon)",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2019-33",
+      "year": 2019,
+      "number": 33,
+      "originalTopic": "Bireyi Tanıma İlkeleri",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-34",
+      "year": 2019,
+      "number": 34,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Psikolojik Testler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-35",
+      "year": 2019,
+      "number": 35,
+      "originalTopic": "Psikolojik Testler / Projektif Teknikler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-36",
+      "year": 2019,
+      "number": 36,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Psikolojik Testlerde Hatalar",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-37",
+      "year": 2019,
+      "number": 37,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Sosyometrik & Dramatik",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-38",
+      "year": 2019,
+      "number": 38,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Sosyometri",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-39",
+      "year": 2019,
+      "number": 39,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Gözlem Hataları",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-40",
+      "year": 2019,
+      "number": 40,
+      "originalTopic": "Psikolojik Danışma Becerileri / Dinleme Engelleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-41",
+      "year": 2019,
+      "number": 41,
+      "originalTopic": "Grupla Psikolojik Danışma / Yalom'un Terapötik Faktörleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-42",
+      "year": 2019,
+      "number": 42,
+      "originalTopic": "Grupla Psikolojik Danışma / Danışmanın Kişisel Sorunları",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-43",
+      "year": 2019,
+      "number": 43,
+      "originalTopic": "Grupla ve Bireyle Psikolojik Danışma Karşılaştırması",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-44",
+      "year": 2019,
+      "number": 44,
+      "originalTopic": "Grupla Psikolojik Danışma / Grup Türleri (ASGW)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-45",
+      "year": 2019,
+      "number": 45,
+      "originalTopic": "İletişim Becerileri / Etkin Dinleme ve Sen Dili",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-46",
+      "year": 2019,
+      "number": 46,
+      "originalTopic": "İletişim Becerileri / Tam Mesaj (McKay)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-47",
+      "year": 2019,
+      "number": 47,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Kariyer Olgunluğu",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-48",
+      "year": 2019,
+      "number": 48,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Ann Roe'nun Anne-Baba",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-49",
+      "year": 2019,
+      "number": 49,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Holland'ın Tipoloji Kuramı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-50",
+      "year": 2019,
+      "number": 50,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Ginzberg ve Arkadaşları",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-51",
+      "year": 2019,
+      "number": 51,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Donald Super",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-52",
+      "year": 2019,
+      "number": 52,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Temel İlkeler",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-53",
+      "year": 2019,
+      "number": 53,
+      "originalTopic": "Araştırma Yöntemleri / Değişken Türleri",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-54",
+      "year": 2019,
+      "number": 54,
+      "originalTopic": "İstatistik / Dağılım Ölçüleri",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-55",
+      "year": 2019,
+      "number": 55,
+      "originalTopic": "İstatistik / Hipotez Testleri (t-testi)",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-56",
+      "year": 2019,
+      "number": 56,
+      "originalTopic": "Okul RPD Hizmetleri / Program Kazanımları",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2019-57",
+      "year": 2019,
+      "number": 57,
+      "originalTopic": "Okul RPD Hizmetleri / Kapsamlı Gelişimsel Rehberlik",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2019-58",
+      "year": 2019,
+      "number": 58,
+      "originalTopic": "Mesleki Etik ve Yasalar / Etik İlkelerin Faydaları",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-59",
+      "year": 2019,
+      "number": 59,
+      "originalTopic": "Mesleki Etik ve Yasalar / Gizlilik Sınırları ve İstismar",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-60",
+      "year": 2019,
+      "number": 60,
+      "originalTopic": "Mesleki Etik ve Yasalar / İkili (Çoklu) İlişkiler",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-61",
+      "year": 2019,
+      "number": 61,
+      "originalTopic": "Psikolojik Danışma Kuramları / ADDT (A-B-C Çözümlemesi)",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-62",
+      "year": 2019,
+      "number": 62,
+      "originalTopic": "Psikolojik Danışma Kuramları / Gestalt (Bitirilmemiş İşler)",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-63",
+      "year": 2019,
+      "number": 63,
+      "originalTopic": "Grupla Psikolojik Danışma / Direnç Belirtileri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-64",
+      "year": 2019,
+      "number": 64,
+      "originalTopic": "Okul PDR Hizmetleri / Öğretmen Müşavirliği (Konsültasyon)",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2019-65",
+      "year": 2019,
+      "number": 65,
+      "originalTopic": "Grupla Psikolojik Danışma / Öğüt Verme ve Odağı",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-66",
+      "year": 2019,
+      "number": 66,
+      "originalTopic": "Grupla Psikolojik Danışma / Paylaştırma (Bağlama) Becerisi",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-67",
+      "year": 2019,
+      "number": 67,
+      "originalTopic": "Grupla Psikolojik Danışma / Johari Penceresi",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-68",
+      "year": 2019,
+      "number": 68,
+      "originalTopic": "Okul RPD Hizmetleri / Grup Planlama ve Süreç",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2019-69",
+      "year": 2019,
+      "number": 69,
+      "originalTopic": "Okul RPD Hizmetleri / İlk Görüşme ve Vaka Yönetimi",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2019-70",
+      "year": 2019,
+      "number": 70,
+      "originalTopic": "Gelişim Psikolojisi / Sosyal İlişkiler ve Araştırma Yorumlama",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2019-71",
+      "year": 2019,
+      "number": 71,
+      "originalTopic": "Okul RPD Hizmetleri / Etkinlik Tasarımı ve Oryantasyon",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2019-72",
+      "year": 2019,
+      "number": 72,
+      "originalTopic": "Okul RPD Hizmetleri / Önleyici Rehberlik İlkeleri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2019-73",
+      "year": 2019,
+      "number": 73,
+      "originalTopic": "Okul RPD Hizmetleri / Bilişsel Temelli Rehberlik Etkinlikleri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2019-74",
+      "year": 2019,
+      "number": 74,
+      "originalTopic": "Okul RPD Hizmetleri / Rehberlik Hizmet Alanları (Yönetsel",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2019-75",
+      "year": 2019,
+      "number": 75,
+      "originalTopic": "Okul RPD Hizmetleri / Rehberliğin Temel İlkeleri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2020-01",
+      "year": 2020,
+      "number": 1,
+      "originalTopic": "Gelişim / Sosyal Psikoloji (Duygusal Zekâ)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-02",
+      "year": 2020,
+      "number": 2,
+      "originalTopic": "Sosyal Psikoloji / Özgeci (Altruistik) Davranış",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-03",
+      "year": 2020,
+      "number": 3,
+      "originalTopic": "Sosyal Psikoloji / Sosyal Etki ve Uyma",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-04",
+      "year": 2020,
+      "number": 4,
+      "originalTopic": "Fizyolojik Psikoloji / Nörotransmitterler",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-05",
+      "year": 2020,
+      "number": 5,
+      "originalTopic": "Öğrenme Psikolojisi / Edimsel Koşullanma (Ceza Türleri)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-06",
+      "year": 2020,
+      "number": 6,
+      "originalTopic": "Öğrenme Psikolojisi / Edimsel Koşullanma (Pekiştirme",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-07",
+      "year": 2020,
+      "number": 7,
+      "originalTopic": "Gelişim Psikolojisi / Gelişimin Bağlamsallığı (Baltes)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-08",
+      "year": 2020,
+      "number": 8,
+      "originalTopic": "Gelişim Psikolojisi / Bronfenbrenner’in Ekolojik Kuramı",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-09",
+      "year": 2020,
+      "number": 9,
+      "originalTopic": "Kişilik Kuramları / Büyük Beşli (Big Five)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-10",
+      "year": 2020,
+      "number": 10,
+      "originalTopic": "Gelişim Psikolojisi / Erikson (Psikososyal Gelişim)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-11",
+      "year": 2020,
+      "number": 11,
+      "originalTopic": "Kişilik Kuramları / Psikanalitik Yaklaşım (Savunma",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-12",
+      "year": 2020,
+      "number": 12,
+      "originalTopic": "Kişilik Kuramları / Carl Jung (Analitik Psikoloji)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-13",
+      "year": 2020,
+      "number": 13,
+      "originalTopic": "Psikolojik Danışma Kuramları / Varoluşçu Yaklaşım",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-14",
+      "year": 2020,
+      "number": 14,
+      "originalTopic": "Psikolojik Danışma Kuramları / Bağlanma Stilleri",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-15",
+      "year": 2020,
+      "number": 15,
+      "originalTopic": "Psikolojik Danışma Kuramları / Gestalt Terapisi (Teknikler)",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-16",
+      "year": 2020,
+      "number": 16,
+      "originalTopic": "Psikolojik Danışma Kuramları / Gerçeklik Terapisi (Seçim",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-17",
+      "year": 2020,
+      "number": 17,
+      "originalTopic": "Psikolojik Danışma Kuramları / Transaksiyonel Analiz (TA)",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-18",
+      "year": 2020,
+      "number": 18,
+      "originalTopic": "Psikolojik Danışma Becerileri / Kişiselleştirme (Carkhuff)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-19",
+      "year": 2020,
+      "number": 19,
+      "originalTopic": "Psikolojik Danışma Becerileri / Bağlama (Linking)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-20",
+      "year": 2020,
+      "number": 20,
+      "originalTopic": "Psikolojik Danışma Becerileri / Özetleme (Summarizing)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-21",
+      "year": 2020,
+      "number": 21,
+      "originalTopic": "Psikolojik Danışma Becerileri / İçerik Yansıması (Yeniden",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-22",
+      "year": 2020,
+      "number": 22,
+      "originalTopic": "Grupla Psikolojik Danışma / Liderlik Becerileri (Sınır Koyma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-23",
+      "year": 2020,
+      "number": 23,
+      "originalTopic": "Psikolojik Danışma Süreci / Sonlandırma (Termination)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-24",
+      "year": 2020,
+      "number": 24,
+      "originalTopic": "Grupla Psikolojik Danışma / Başlangıç Evresi Görevleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-25",
+      "year": 2020,
+      "number": 25,
+      "originalTopic": "Anormal Psikoloji / DSM-5 / Obsesif Kompulsif Kişilik",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-26",
+      "year": 2020,
+      "number": 26,
+      "originalTopic": "Anormal Psikoloji / DSM-5 / İkiuçlu (Bipolar) Bozukluk",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-27",
+      "year": 2020,
+      "number": 27,
+      "originalTopic": "Anormal Psikoloji / DSM-5 / Yaygın Kaygı Bozukluğu (YKB)",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-28",
+      "year": 2020,
+      "number": 28,
+      "originalTopic": "Anormal Psikoloji / DSM-5 / Özgül Fobi (Karanlık Fobisi)",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-29",
+      "year": 2020,
+      "number": 29,
+      "originalTopic": "Anormal Psikoloji / Etiyoloji (Hastalık Nedenleri)",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-30",
+      "year": 2020,
+      "number": 30,
+      "originalTopic": "Özel Eğitim / Özgül Öğrenme Güçlüğü (ÖÖG) ve Sınıf İçi",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2020-31",
+      "year": 2020,
+      "number": 31,
+      "originalTopic": "Özel Eğitim / Değerlendirmenin Aşamaları (Gönderme",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2020-32",
+      "year": 2020,
+      "number": 32,
+      "originalTopic": "Özel Eğitim / Temel İlkeler",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2020-33",
+      "year": 2020,
+      "number": 33,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Temel İlkeler ve Geri Bildirim",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-34",
+      "year": 2020,
+      "number": 34,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Profil Yorumlama ve Ayrışma",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-35",
+      "year": 2020,
+      "number": 35,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Ölçme Araçlarının",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-36",
+      "year": 2020,
+      "number": 36,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Ölçme ve Değerlendirme",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-37",
+      "year": 2020,
+      "number": 37,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Kimdir Bu? (Sosyometrik",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-38",
+      "year": 2020,
+      "number": 38,
+      "originalTopic": "Psikolojik Danışma Kuramları / Psikodrama (J.L. Moreno)",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-39",
+      "year": 2020,
+      "number": 39,
+      "originalTopic": "Psikolojik Danışma Kuramları / Bibliyoterapi (Kitapla",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-40",
+      "year": 2020,
+      "number": 40,
+      "originalTopic": "Grupla Psikolojik Danışma / Zor Üye Davranışları",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-41",
+      "year": 2020,
+      "number": 41,
+      "originalTopic": "Grupla Psikolojik Danışma / Gönülsüz (Dirençli) Üyelerle",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-42",
+      "year": 2020,
+      "number": 42,
+      "originalTopic": "Psikolojik Danışma Etik İlkeleri / Karşıt Aktarım ve",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-43",
+      "year": 2020,
+      "number": 43,
+      "originalTopic": "Grupla Psikolojik Danışma / Grup Evreleri (Geçiş Evresi)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-44",
+      "year": 2020,
+      "number": 44,
+      "originalTopic": "Psikolojik Danışma Kuramları / Karşıt Aktarım (Örnek Vaka)",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-45",
+      "year": 2020,
+      "number": 45,
+      "originalTopic": "İletişim Becerileri / Thomas Gordon (İletişim Engelleri)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-46",
+      "year": 2020,
+      "number": 46,
+      "originalTopic": "İletişim Becerileri / Etkin (Aktif) Dinleme",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-47",
+      "year": 2020,
+      "number": 47,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Yetenek (Aptitude)",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-48",
+      "year": 2020,
+      "number": 48,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Sosyal Bilişsel Kariyer",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-49",
+      "year": 2020,
+      "number": 49,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Holland'ın Tipleri",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-50",
+      "year": 2020,
+      "number": 50,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Donald Super'ın Büyüme",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-51",
+      "year": 2020,
+      "number": 51,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Linda Gottfredson",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-52",
+      "year": 2020,
+      "number": 52,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Ginzberg ve Arkadaşları",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-53",
+      "year": 2020,
+      "number": 53,
+      "originalTopic": "Araştırma Yöntemleri / Değişken Türleri",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-54",
+      "year": 2020,
+      "number": 54,
+      "originalTopic": "Araştırma Yöntemleri / Korelasyonel Araştırmalar (Neden-",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-55",
+      "year": 2020,
+      "number": 55,
+      "originalTopic": "Araştırma Yöntemleri / Deneysel Desenler",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-56",
+      "year": 2020,
+      "number": 56,
+      "originalTopic": "İstatistik / Normal Dağılım ve Simetri Mantığı (Ali'nin Puanı)",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-57",
+      "year": 2020,
+      "number": 57,
+      "originalTopic": "Okul RPD Hizmetleri / KGRP Bileşenleri (Müdahale",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2020-58",
+      "year": 2020,
+      "number": 58,
+      "originalTopic": "Mesleki Etik ve Yasalar / İkili (Çoklu) İlişkiler (Örnek Vaka)",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-59",
+      "year": 2020,
+      "number": 59,
+      "originalTopic": "Mesleki Etik ve Yasalar / Gizliliğin Sınırları (İstisnalar)",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-60",
+      "year": 2020,
+      "number": 60,
+      "originalTopic": "Mesleki Etik ve Yasalar / Yetkinlik, Sınırlar ve Sevk",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-61",
+      "year": 2020,
+      "number": 61,
+      "originalTopic": "Bireyle Psikolojik Danışma / Danışma Sürecinin Aşamaları",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-62",
+      "year": 2020,
+      "number": 62,
+      "originalTopic": "Gelişim Psikolojisi / Albert Bandura (Öz Yeterlik)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-63",
+      "year": 2020,
+      "number": 63,
+      "originalTopic": "Psikolojik Danışma Becerileri / Dirençle Baş Etme Yolları",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-64",
+      "year": 2020,
+      "number": 64,
+      "originalTopic": "Psikolojik Danışma Kuramları / Çözüm Odaklı Kısa Süreli",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-65",
+      "year": 2020,
+      "number": 65,
+      "originalTopic": "Grupla Psikolojik Danışma / Yüzleştirme ve Hedefle Bağlantı",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-66",
+      "year": 2020,
+      "number": 66,
+      "originalTopic": "Bireyle Psikolojik Danışma / Danışma Süreci Basamakları",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-67",
+      "year": 2020,
+      "number": 67,
+      "originalTopic": "Bireyle Psikolojik Danışma / Egan Modeli (Eylem Aşamasına",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-68",
+      "year": 2020,
+      "number": 68,
+      "originalTopic": "Okul RPD Hizmetleri / Rehberliğin İşlevleri ve Problem",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2020-69",
+      "year": 2020,
+      "number": 69,
+      "originalTopic": "Grupla Psikolojik Danışma / Tekelci Üye (Monopolizer)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-70",
+      "year": 2020,
+      "number": 70,
+      "originalTopic": "Grupla Psikolojik Danışma / Üye-Lider Aktarımı",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-71",
+      "year": 2020,
+      "number": 71,
+      "originalTopic": "Okul RPD Hizmetleri / Öz Saygı Müdahaleleri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2020-72",
+      "year": 2020,
+      "number": 72,
+      "originalTopic": "Psikolojik Danışma Kuramları / BDT (Bilişsel",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-73",
+      "year": 2020,
+      "number": 73,
+      "originalTopic": "Gelişim Psikolojisi / Ergenlikte Bedensel Gelişim ve",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2020-74",
+      "year": 2020,
+      "number": 74,
+      "originalTopic": "Okul RPD Hizmetleri / Rehberlik ve Psikolojik Danışma",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2020-75",
+      "year": 2020,
+      "number": 75,
+      "originalTopic": "Eğitimde Rehberlik / Problem Çözme Becerisi Basamakları",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2021-01",
+      "year": 2021,
+      "number": 1,
+      "originalTopic": "Sosyal / Kişilik Psikolojisi (Saldırganlık Yaklaşımları)",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2021-02",
+      "year": 2021,
+      "number": 2,
+      "originalTopic": "Sosyal Psikoloji / İkna ve Uyum Teknikleri",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-03",
+      "year": 2021,
+      "number": 3,
+      "originalTopic": "Kişilik Kuramları / Harry Stack Sullivan (Kişilerarası İlişkiler)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-04",
+      "year": 2021,
+      "number": 4,
+      "originalTopic": "Sosyal Psikoloji / Temel Yükleme Hatası (Fundamental",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-05",
+      "year": 2021,
+      "number": 5,
+      "originalTopic": "Gelişim Psikolojisi / Erikson (Özerkliğe Karşı Kuşku ve Utanç)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-06",
+      "year": 2021,
+      "number": 6,
+      "originalTopic": "Öğrenme ve Bilişsel Psikoloji / Bellekte Karışma (Ket Vurma)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-07",
+      "year": 2021,
+      "number": 7,
+      "originalTopic": "Gelişim Psikolojisi / Piaget (Özümleme ve Uyma)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-08",
+      "year": 2021,
+      "number": 8,
+      "originalTopic": "Bilişsel Psikoloji / Uzun Süreli Bellek Türleri (Tulving)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-09",
+      "year": 2021,
+      "number": 9,
+      "originalTopic": "Öğrenme Psikolojisi / Klasik Koşullanma (Karşıt Koşullama)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-10",
+      "year": 2021,
+      "number": 10,
+      "originalTopic": "Fizyolojik Psikoloji / Beynin Dil Merkezleri (Broca &",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-11",
+      "year": 2021,
+      "number": 11,
+      "originalTopic": "Kişilik Kuramları / Psikanaliz (Karşıt Tepki Geliştirme)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-12",
+      "year": 2021,
+      "number": 12,
+      "originalTopic": "Psikolojik Danışma Kuramları / Rogers (Terapist Kaynaklı",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-13",
+      "year": 2021,
+      "number": 13,
+      "originalTopic": "Psikolojik Danışma Kuramları / Psikanaliz (Karşıt Aktarım",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-14",
+      "year": 2021,
+      "number": 14,
+      "originalTopic": "Psikolojik Danışma Kuramları / BDT (Sokratik Sorgulama -",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-15",
+      "year": 2021,
+      "number": 15,
+      "originalTopic": "Psikolojik Danışma Kuramları / Öyküsel (Narrative) Terapi",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-16",
+      "year": 2021,
+      "number": 16,
+      "originalTopic": "Psikolojik Danışma Kuramları / Gerçeklik Terapisi (Seçim ve",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-17",
+      "year": 2021,
+      "number": 17,
+      "originalTopic": "Psikolojik Danışma Kuramları / Gestalt (Sözel Olmayan",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-18",
+      "year": 2021,
+      "number": 18,
+      "originalTopic": "Psikolojik Danışma Kuramları / Bireysel Psikoloji (Sosyal İlgi",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-19",
+      "year": 2021,
+      "number": 19,
+      "originalTopic": "Bireyle Psikolojik Danışma / Danışma Sürecinin Aşamaları",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-20",
+      "year": 2021,
+      "number": 20,
+      "originalTopic": "Psikolojik Danışma Becerileri / Somutluk (Concreteness)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-21",
+      "year": 2021,
+      "number": 21,
+      "originalTopic": "Psikolojik Danışma Becerileri / Ardışık Diyalog Analizi",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-22",
+      "year": 2021,
+      "number": 22,
+      "originalTopic": "Grupla Psikolojik Danışma / Terapötik Beceriler",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-23",
+      "year": 2021,
+      "number": 23,
+      "originalTopic": "Grupla Psikolojik Danışma / Geri Bildirim (Feedback)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-24",
+      "year": 2021,
+      "number": 24,
+      "originalTopic": "Bireyle Psikolojik Danışma / Bağlama (Süreç ve Yaşam",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-25",
+      "year": 2021,
+      "number": 25,
+      "originalTopic": "Anormal Psikoloji / DSM-5 / Karşıt Olma-Karşı Gelme",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-26",
+      "year": 2021,
+      "number": 26,
+      "originalTopic": "Anormal Psikoloji / DSM-5 / Dissosiyasyon (Gerçekdışılık)",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-27",
+      "year": 2021,
+      "number": 27,
+      "originalTopic": "Anormal Psikoloji / DSM-5 / Bağımlı Kişilik Bozukluğu",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-28",
+      "year": 2021,
+      "number": 28,
+      "originalTopic": "Anormal Psikoloji / DSM-5 / Antisosyal Kişilik Bozukluğu",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-29",
+      "year": 2021,
+      "number": 29,
+      "originalTopic": "Anormal Psikoloji / DSM-5 / Şizotipal Kişilik Bozukluğu",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-30",
+      "year": 2021,
+      "number": 30,
+      "originalTopic": "Özel Eğitim / Özgül Öğrenme Güçlüğü (ÖÖG) Yanılgıları",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2021-31",
+      "year": 2021,
+      "number": 31,
+      "originalTopic": "Özel Eğitim / Zihinsel Yetersizlik Belirtileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2021-32",
+      "year": 2021,
+      "number": 32,
+      "originalTopic": "Özel Eğitim / Üstün Yetenekli Çocuklar ve Düşük Başarı",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2021-33",
+      "year": 2021,
+      "number": 33,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Çocuk Projektif Testleri (CAT)",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-34",
+      "year": 2021,
+      "number": 34,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Testlerin Standardizasyon Grubu",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-35",
+      "year": 2021,
+      "number": 35,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Okul İhtiyaç Analizi (Problem",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-36",
+      "year": 2021,
+      "number": 36,
+      "originalTopic": "Psikolojik Danışma Kuramları / Psikodrama (Ayna Tekniği)",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-37",
+      "year": 2021,
+      "number": 37,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Arzu Listesi Tekniği",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-38",
+      "year": 2021,
+      "number": 38,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Anekdot (Olay Kaydı) Nesnellik",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-39",
+      "year": 2021,
+      "number": 39,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Temel İlkeler (Geri Bildirim)",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-40",
+      "year": 2021,
+      "number": 40,
+      "originalTopic": "Okul RPD Hizmetleri / Rehberlik vs. Psikolojik Danışma",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2021-41",
+      "year": 2021,
+      "number": 41,
+      "originalTopic": "Grupla Psikolojik Danışma / Ortak (Yardımcı) Liderlik",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-42",
+      "year": 2021,
+      "number": 42,
+      "originalTopic": "Grupla Psikolojik Danışma / Grup Türleri (Kendi Kendine",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-43",
+      "year": 2021,
+      "number": 43,
+      "originalTopic": "Grupla Psikolojik Danışma / Sessiz (Suskun) Üye Yönetimi",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-44",
+      "year": 2021,
+      "number": 44,
+      "originalTopic": "Grupla Psikolojik Danışma / Yalom'un Terapötik Faktörleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-45",
+      "year": 2021,
+      "number": 45,
+      "originalTopic": "Bireyle Psikolojik Danışma / Amaç Belirlemenin İşlevleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-46",
+      "year": 2021,
+      "number": 46,
+      "originalTopic": "Grupla Psikolojik Danışma / Grup Dışı Sosyalleşme (Etik",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-47",
+      "year": 2021,
+      "number": 47,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Meslek Seçimini Etkileyen",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-48",
+      "year": 2021,
+      "number": 48,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Ginzberg’in Deneme",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-49",
+      "year": 2021,
+      "number": 49,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / SBKK (Düşük Öz Yeterlik",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-50",
+      "year": 2021,
+      "number": 50,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Ann Roe'nun Kuramsal",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-51",
+      "year": 2021,
+      "number": 51,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Holland'ın Tipleri",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-52",
+      "year": 2021,
+      "number": 52,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Karar Verme Süreci",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-53",
+      "year": 2021,
+      "number": 53,
+      "originalTopic": "İstatistik / Dağılım Grafiği Analizi (Sola Çarpık Dağılım)",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-54",
+      "year": 2021,
+      "number": 54,
+      "originalTopic": "İstatistik / Başarı Karşılaştırması (Z Puanı)",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-55",
+      "year": 2021,
+      "number": 55,
+      "originalTopic": "Araştırma Yöntemleri / Hipotez Türleri (Tek Yönlü Alternatif",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-56",
+      "year": 2021,
+      "number": 56,
+      "originalTopic": "Okul RPD Hizmetleri / Önleyici Program Tasarımı ve İlkeleri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2021-57",
+      "year": 2021,
+      "number": 57,
+      "originalTopic": "Araştırma Yöntemleri / Değişken Türleri (Kontrol",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-58",
+      "year": 2021,
+      "number": 58,
+      "originalTopic": "Mesleki Etik ve Yasalar / Ahlaki İlkeler (Özerklik)",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-59",
+      "year": 2021,
+      "number": 59,
+      "originalTopic": "Mesleki Etik ve Yasalar / Değer Dayatması (İdeolojik",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-60",
+      "year": 2021,
+      "number": 60,
+      "originalTopic": "Mesleki Etik ve Yasalar / Kayıt Tutma Standartları (Kodlama)",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-61",
+      "year": 2021,
+      "number": 61,
+      "originalTopic": "Bireyle Psikolojik Danışma / Sonlandırma Aşaması",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-62",
+      "year": 2021,
+      "number": 62,
+      "originalTopic": "Okul RPD Hizmetleri / Yöneltme ve Yerleştirme Hizmeti",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2021-63",
+      "year": 2021,
+      "number": 63,
+      "originalTopic": "Okul RPD Hizmetleri / Hizmet Türlerinin Eşleştirilmesi",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2021-64",
+      "year": 2021,
+      "number": 64,
+      "originalTopic": "Okul RPD Hizmetleri / Bireysel Rehberlik (Bilişsel",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2021-65",
+      "year": 2021,
+      "number": 65,
+      "originalTopic": "Psikolojik Danışma Becerileri / Ödev Direnci ve Terapötik",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-66",
+      "year": 2021,
+      "number": 66,
+      "originalTopic": "Bireyle Psikolojik Danışma / İlk Oturum ve Değerlendirme",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-67",
+      "year": 2021,
+      "number": 67,
+      "originalTopic": "Psikolojik Danışma Kuramları / ADDT (A-B-C-D",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-68",
+      "year": 2021,
+      "number": 68,
+      "originalTopic": "Psikolojik Danışma Becerileri / Yüzleştirme (Çelişkiyi",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-69",
+      "year": 2021,
+      "number": 69,
+      "originalTopic": "Okul RPD Hizmetleri / Grup Rehberliği ve Sınırları",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2021-70",
+      "year": 2021,
+      "number": 70,
+      "originalTopic": "Okul RPD Hizmetleri / Hizmet Türlerinin Analizi (Siber",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2021-71",
+      "year": 2021,
+      "number": 71,
+      "originalTopic": "Okul RPD Hizmetleri / Önleme Düzeyleri (Temel/Birincil",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2021-72",
+      "year": 2021,
+      "number": 72,
+      "originalTopic": "Grupla Psikolojik Danışma / Zor Üye Davranışları (Üstünlük",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-73",
+      "year": 2021,
+      "number": 73,
+      "originalTopic": "Psikolojik Danışma Kuramları / Bilinçli Farkındalık",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2021-74",
+      "year": 2021,
+      "number": 74,
+      "originalTopic": "Okul RPD Hizmetleri / Hizmet Alanları ve Problem Alanı",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2021-75",
+      "year": 2021,
+      "number": 75,
+      "originalTopic": "Okul RPD Hizmetleri / Eğitsel Rehberlik İçerikleri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2022-01",
+      "year": 2022,
+      "number": 1,
+      "originalTopic": "Bilişsel Psikoloji / Algısal Değişmezlik",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-02",
+      "year": 2022,
+      "number": 2,
+      "originalTopic": "Sosyal Psikoloji / Grup Dinamikleri (Normlar ve Roller)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-03",
+      "year": 2022,
+      "number": 3,
+      "originalTopic": "Fizyolojik Psikoloji / Savaş ya da Kaç (Fight or Flight) Tepkisi",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-04",
+      "year": 2022,
+      "number": 4,
+      "originalTopic": "Sosyal Psikoloji / Sosyal Kaytarma ve Sosyal Hızlandırma",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-05",
+      "year": 2022,
+      "number": 5,
+      "originalTopic": "Bilişsel Psikoloji / Bilgiyi İşleme Kuramı (Kodlama Çeşitliliği",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-06",
+      "year": 2022,
+      "number": 6,
+      "originalTopic": "Bilişsel Psikoloji / Örtük (Gizil/Prosedürel) Bellek Bozukluğu",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-07",
+      "year": 2022,
+      "number": 7,
+      "originalTopic": "Gelişim Psikolojisi / Fiziksel Gelişim (İnce ve Kaba Motor",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-08",
+      "year": 2022,
+      "number": 8,
+      "originalTopic": "Gelişim Psikolojisi / Piaget (Madde Korunumu)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-09",
+      "year": 2022,
+      "number": 9,
+      "originalTopic": "Gelişim Psikolojisi / Kohlberg (İyi Çocuk Olma Evresi)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-10",
+      "year": 2022,
+      "number": 10,
+      "originalTopic": "Öğrenme Psikolojisi / Bandura (Karşılıklı Belirlemecilik)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-11",
+      "year": 2022,
+      "number": 11,
+      "originalTopic": "Psikolojik Danışma Kuramları / Psikanaliz (İyileşme Kriteri",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-12",
+      "year": 2022,
+      "number": 12,
+      "originalTopic": "Psikolojik Danışma Kuramları / Bilişsel Terapi",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-13",
+      "year": 2022,
+      "number": 13,
+      "originalTopic": "Psikolojik Danışma Kuramları / ADDT (Ellis - Üç Temel",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-14",
+      "year": 2022,
+      "number": 14,
+      "originalTopic": "Psikolojik Danışma Kuramları / Davranışçı Terapi (Tarihsel",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-15",
+      "year": 2022,
+      "number": 15,
+      "originalTopic": "Psikolojik Danışma Kuramları / Birey Merkezli Terapi (Carl",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-16",
+      "year": 2022,
+      "number": 16,
+      "originalTopic": "Psikolojik Danışma Kuramları / Varoluşçu Yaklaşım (Nihai",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-17",
+      "year": 2022,
+      "number": 17,
+      "originalTopic": "Psikolojik Danışma Kuramları / Transaksiyonel Analiz",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-18",
+      "year": 2022,
+      "number": 18,
+      "originalTopic": "Psikolojik Danışma Kuramları / ÇOKST (İstisnai Sorular)",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-19",
+      "year": 2022,
+      "number": 19,
+      "originalTopic": "Psikolojik Danışma Becerileri / Kendini Açma (O Andaki",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-20",
+      "year": 2022,
+      "number": 20,
+      "originalTopic": "Psikolojik Danışma Becerileri / Diyalog Analizi",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-21",
+      "year": 2022,
+      "number": 21,
+      "originalTopic": "Bireyle Psikolojik Danışma / Terapötik Beceri Eşleştirmeleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-22",
+      "year": 2022,
+      "number": 22,
+      "originalTopic": "Grupla Psikolojik Danışma / Paylaştırma (Bağlama)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-23",
+      "year": 2022,
+      "number": 23,
+      "originalTopic": "Bireyle Psikolojik Danışma / Sorunu Tanımlama",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-24",
+      "year": 2022,
+      "number": 24,
+      "originalTopic": "Bireyle Psikolojik Danışma / Süreç İlkeleri ve İş Birliği",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-25",
+      "year": 2022,
+      "number": 25,
+      "originalTopic": "Anormal Psikoloji / DSM-5 / Özgül Fobiler (Kaçınma ve",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-26",
+      "year": 2022,
+      "number": 26,
+      "originalTopic": "Anormal Psikoloji / DSM-5 / Paranoid Kişilik Bozukluğu",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-27",
+      "year": 2022,
+      "number": 27,
+      "originalTopic": "Anormal Psikoloji / DSM-5 / Şizofreni Tanı Kriterleri",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-28",
+      "year": 2022,
+      "number": 28,
+      "originalTopic": "Anormal Psikoloji / Madde Bağımlılığı (Kesilme / Yoksunluk)",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-29",
+      "year": 2022,
+      "number": 29,
+      "originalTopic": "Anormal Psikoloji / DSM-5 Sınıflandırma Sınırları",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-30",
+      "year": 2022,
+      "number": 30,
+      "originalTopic": "Özel Eğitim / Özgül Öğrenme Güçlüğü (ÖÖG) Davranışsal",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2022-31",
+      "year": 2022,
+      "number": 31,
+      "originalTopic": "Özel Eğitim / Değerlendirme Süreci (Gönderme Öncesi",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2022-32",
+      "year": 2022,
+      "number": 32,
+      "originalTopic": "Özel Eğitim / Otizm Spektrum Bozukluğu (OSB) Belirtileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2022-33",
+      "year": 2022,
+      "number": 33,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Akademik Hata ve Test Dışı",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-34",
+      "year": 2022,
+      "number": 34,
+      "originalTopic": "Özel Eğitim / Yaratıcı Dramanın Faydaları",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2022-35",
+      "year": 2022,
+      "number": 35,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Özellik Kayıt Çizelgesi",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-36",
+      "year": 2022,
+      "number": 36,
+      "originalTopic": "Bireyi Tanıma Teknikleri / İlgi Envanterleri (Yetenek ile",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-37",
+      "year": 2022,
+      "number": 37,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Sosyometri Çizelgesi Hesaplaması",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-38",
+      "year": 2022,
+      "number": 38,
+      "originalTopic": "Ölçme ve Değerlendirme / Madde Yanlılığı (DIF) ve Hata",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-39",
+      "year": 2022,
+      "number": 39,
+      "originalTopic": "Ölçme ve Değerlendirme / Güvenirlik ve Geçerlik İlişkisi",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-40",
+      "year": 2022,
+      "number": 40,
+      "originalTopic": "İletişim Becerileri / Özsaygı (Benlik Saygısı) Geliştirici Dil",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-41",
+      "year": 2022,
+      "number": 41,
+      "originalTopic": "Psikolojik Danışma Becerileri / Dinleme Engelleri (Yüzeysel",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-42",
+      "year": 2022,
+      "number": 42,
+      "originalTopic": "Bireyle Psikolojik Danışma / Amaç (Hedef) Belirleme",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-43",
+      "year": 2022,
+      "number": 43,
+      "originalTopic": "Bireyle Psikolojik Danışma / Sağlıklı Amaç (Hedef) Kriterleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-44",
+      "year": 2022,
+      "number": 44,
+      "originalTopic": "Psikolojik Danışma Becerileri / Yüzleştirme İlkeleri (İma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-45",
+      "year": 2022,
+      "number": 45,
+      "originalTopic": "Grupla Psikolojik Danışma / Direnç ve Evre İlişkileri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-46",
+      "year": 2022,
+      "number": 46,
+      "originalTopic": "Grupla Psikolojik Danışma / Yalom'un Terapötik Faktörleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-47",
+      "year": 2022,
+      "number": 47,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Karar Verme Faktörleri",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-48",
+      "year": 2022,
+      "number": 48,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Kariyer Mitleri (Yanılgılar)",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-49",
+      "year": 2022,
+      "number": 49,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / İş Uyumu Kuramı (Lofquist",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-50",
+      "year": 2022,
+      "number": 50,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Ann Roe (İhtiyaç Kuramı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-51",
+      "year": 2022,
+      "number": 51,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Nancy Schlossberg",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-52",
+      "year": 2022,
+      "number": 52,
+      "originalTopic": "Kariyer Psikolojik Danışmanlığı / Mesleki Hedeflerin",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-53",
+      "year": 2022,
+      "number": 53,
+      "originalTopic": "Ölçme ve Değerlendirme / Korelasyon Tablosu Okuma ve",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-54",
+      "year": 2022,
+      "number": 54,
+      "originalTopic": "Ölçme ve Değerlendirme / Madde Analizi (Zorluk ve Ayırt",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-55",
+      "year": 2022,
+      "number": 55,
+      "originalTopic": "Okul RPD Hizmetleri / Kapsamlı Gelişimsel Rehberlik",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2022-56",
+      "year": 2022,
+      "number": 56,
+      "originalTopic": "Araştırma Yöntemleri / Değişken Tasarımı",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-57",
+      "year": 2022,
+      "number": 57,
+      "originalTopic": "Araştırma Yöntemleri / Nitel Araştırma Desenleri",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-58",
+      "year": 2022,
+      "number": 58,
+      "originalTopic": "Mesleki Etik ve Yasalar / Bilgilendirilmiş Onam (Informed",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-59",
+      "year": 2022,
+      "number": 59,
+      "originalTopic": "Mesleki Etik ve Yasalar / Çevrim içi (Online) Danışma",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-60",
+      "year": 2022,
+      "number": 60,
+      "originalTopic": "Mesleki Etik ve Yasalar / Değer Dayatması (Etik Olmayan",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-61",
+      "year": 2022,
+      "number": 61,
+      "originalTopic": "Bireyle Psikolojik Danışma / İlk Oturum ve Müdahale",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-62",
+      "year": 2022,
+      "number": 62,
+      "originalTopic": "Psikolojik Danışma Kuramları / Gestalt (Boş Sandalye İşlevi)",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-63",
+      "year": 2022,
+      "number": 63,
+      "originalTopic": "Psikolojik Danışma Kuramları / BDT (Judith Beck - Temel",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-64",
+      "year": 2022,
+      "number": 64,
+      "originalTopic": "Grupla Psikolojik Danışma / Grup Evreleri (Geçiş Evresi",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-65",
+      "year": 2022,
+      "number": 65,
+      "originalTopic": "Grupla Psikolojik Danışma / Lider Müdahalesi (Sınır Koyma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-66",
+      "year": 2022,
+      "number": 66,
+      "originalTopic": "Grupla Psikolojik Danışma / ÇOKST ve Grup Hedefleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-67",
+      "year": 2022,
+      "number": 67,
+      "originalTopic": "Okul RPD Hizmetleri / Akran Zorbalığında Grup Sınırları ve",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2022-68",
+      "year": 2022,
+      "number": 68,
+      "originalTopic": "Grupla Psikolojik Danışma / Çalışma (Eylem) Aşaması",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2022-69",
+      "year": 2022,
+      "number": 69,
+      "originalTopic": "Okul RPD Hizmetleri / İyileştirici İşlev ve Kişisel-Sosyal",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2022-70",
+      "year": 2022,
+      "number": 70,
+      "originalTopic": "Okul RPD Hizmetleri / Önleme Düzeyleri (Birincil ve İkincil",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2022-71",
+      "year": 2022,
+      "number": 71,
+      "originalTopic": "Okul RPD Hizmetleri / AKADEMİK TARTIŞMALI (HATALI)",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2022-72",
+      "year": 2022,
+      "number": 72,
+      "originalTopic": "Okul RPD Hizmetleri / Öfke Kontrolü ve Gevşeme",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2022-73",
+      "year": 2022,
+      "number": 73,
+      "originalTopic": "Okul RPD Hizmetleri / Madde Bağımlılığını Önleme İlkesi",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2022-74",
+      "year": 2022,
+      "number": 74,
+      "originalTopic": "Okul RPD Hizmetleri / Sel Felaketi Sonrası Kriz Yönetimi",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2022-75",
+      "year": 2022,
+      "number": 75,
+      "originalTopic": "Okul RPD Hizmetleri / Bireysel Rehberlik Sınırları",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2023-01",
+      "year": 2023,
+      "number": 1,
+      "originalTopic": "Psikolojik Danışma Kuramları / İnsan Doğası",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-02",
+      "year": 2023,
+      "number": 2,
+      "originalTopic": "Sosyal Psikoloji / Sosyal Biliş ve Algı Yanılgıları",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-03",
+      "year": 2023,
+      "number": 3,
+      "originalTopic": "Sosyal Psikoloji / Sosyal Etki ve Uyma (Conformity)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-04",
+      "year": 2023,
+      "number": 4,
+      "originalTopic": "Fizyolojik Psikoloji (Nöropsikoloji) / Duygudurum",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-05",
+      "year": 2023,
+      "number": 5,
+      "originalTopic": "Öğrenme Psikolojisi / Davranışçı Yaklaşım (Guthrie)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-06",
+      "year": 2023,
+      "number": 6,
+      "originalTopic": "Öğrenme Psikolojisi / Klasik Koşullanma (Garcia Etkisi)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-07",
+      "year": 2023,
+      "number": 7,
+      "originalTopic": "Gelişim Psikolojisi / Yaşam Boyu Gelişim (Baltes)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-08",
+      "year": 2023,
+      "number": 8,
+      "originalTopic": "Bilişsel Gelişim / Piaget",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-09",
+      "year": 2023,
+      "number": 9,
+      "originalTopic": "Bilişsel Gelişim / Jerome Bruner",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-10",
+      "year": 2023,
+      "number": 10,
+      "originalTopic": "Psikolojik Danışma Kuramları / Sosyal Bilişsel Kuram",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-11",
+      "year": 2023,
+      "number": 11,
+      "originalTopic": "Psikolojik Danışma Kuramları / Varoluşçu Terapi",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-12",
+      "year": 2023,
+      "number": 12,
+      "originalTopic": "Psikolojik Danışma Kuramları / Birey Merkezli Yaklaşım",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-13",
+      "year": 2023,
+      "number": 13,
+      "originalTopic": "Psikolojik Danışma Kuramları / Psikanalitik Savunma",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-14",
+      "year": 2023,
+      "number": 14,
+      "originalTopic": "Psikolojik Danışma Kuramları / Bireysel Psikoloji (Adler)",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-15",
+      "year": 2023,
+      "number": 15,
+      "originalTopic": "Psikolojik Danışma Kuramları / Terapi Teknikleri",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-16",
+      "year": 2023,
+      "number": 16,
+      "originalTopic": "Psikolojik Danışma Kuramları / Bilişsel Davranışçı Terapi",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-17",
+      "year": 2023,
+      "number": 17,
+      "originalTopic": "Psikolojik Danışma Kuramları / Gestalt Terapisi (Temas",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-18",
+      "year": 2023,
+      "number": 18,
+      "originalTopic": "Psikolojik Danışma Becerileri / İlişkinin Şimdi ve Buradalığı",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-19",
+      "year": 2023,
+      "number": 19,
+      "originalTopic": "Psikolojik Danışma Becerileri / Somutlaştırma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-20",
+      "year": 2023,
+      "number": 20,
+      "originalTopic": "Psikolojik Danışma Becerileri / Yapılama (Structuring)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-21",
+      "year": 2023,
+      "number": 21,
+      "originalTopic": "Psikolojik Danışma Becerileri / Kişiselleştirme (Carkhuff",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-22",
+      "year": 2023,
+      "number": 22,
+      "originalTopic": "Psikolojik Danışma Becerileri / Yüzleştirme (Confrontation)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-23",
+      "year": 2023,
+      "number": 23,
+      "originalTopic": "Psikolojik Danışma Becerileri / Duygu Yansıtması",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-24",
+      "year": 2023,
+      "number": 24,
+      "originalTopic": "Grupla Psikolojik Danışma / Liderlik Becerileri (Bağlama)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-25",
+      "year": 2023,
+      "number": 25,
+      "originalTopic": "Davranış Bozuklukları (DSM-5) / Ayrılma Kaygısı Bozukluğu",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-26",
+      "year": 2023,
+      "number": 26,
+      "originalTopic": "Davranış Bozuklukları / Kişilik Bozuklukları (Obsesif",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-27",
+      "year": 2023,
+      "number": 27,
+      "originalTopic": "Davranış Bozuklukları / Şizofreni Spektrumu (Sanrı vs",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-28",
+      "year": 2023,
+      "number": 28,
+      "originalTopic": "Davranış Bozuklukları / Madde Kullanım Bozuklukları",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-29",
+      "year": 2023,
+      "number": 29,
+      "originalTopic": "Özel Eğitim / Özgül Öğrenme Bozukluğu (Disleksi)",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2023-30",
+      "year": 2023,
+      "number": 30,
+      "originalTopic": "Davranış Bozuklukları / Anormalliğin Kriterleri",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-31",
+      "year": 2023,
+      "number": 31,
+      "originalTopic": "Özel Eğitim / Özel Eğitimde Değerlendirme Süreci",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2023-32",
+      "year": 2023,
+      "number": 32,
+      "originalTopic": "Özel Eğitim / En Az Kısıtlayıcı Ortam (LRE)",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2023-33",
+      "year": 2023,
+      "number": 33,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Temel İlke ve Amaçlar",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-34",
+      "year": 2023,
+      "number": 34,
+      "originalTopic": "Ölçme ve Değerlendirme / Geçerlik Türleri (Yordama)",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-35",
+      "year": 2023,
+      "number": 35,
+      "originalTopic": "Ölçme ve Değerlendirme / Testte Yanlılık (Bias) ve",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-36",
+      "year": 2023,
+      "number": 36,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Gözleme Dayalı Teknikler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-37",
+      "year": 2023,
+      "number": 37,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Otobiyografi",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-38",
+      "year": 2023,
+      "number": 38,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Projektif (Yansıtıcı) Teknikler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-39",
+      "year": 2023,
+      "number": 39,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Cümle Tamamlama Testleri",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-40",
+      "year": 2023,
+      "number": 40,
+      "originalTopic": "Psikolojik Danışma Süreci / Dirençle Baş Etme",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-41",
+      "year": 2023,
+      "number": 41,
+      "originalTopic": "Psikolojik Danışma Süreci / Sonlandırma Aşaması",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-42",
+      "year": 2023,
+      "number": 42,
+      "originalTopic": "Psikolojik Danışman Özellikleri / Temel Kavramlar",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-43",
+      "year": 2023,
+      "number": 43,
+      "originalTopic": "Grupla Psikolojik Danışma / ASGW Grup Türleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-44",
+      "year": 2023,
+      "number": 44,
+      "originalTopic": "İletişim Becerileri / Ben Dili (Thomas Gordon)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-45",
+      "year": 2023,
+      "number": 45,
+      "originalTopic": "Grupla Psikolojik Danışma / Gizli Gündem (Hidden Agenda)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-46",
+      "year": 2023,
+      "number": 46,
+      "originalTopic": "İletişim Becerileri / Olumlu İletişim (Ben Dili)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-47",
+      "year": 2023,
+      "number": 47,
+      "originalTopic": "Mesleki Rehberlik / Kademelere Göre Kariyer Gelişim",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-48",
+      "year": 2023,
+      "number": 48,
+      "originalTopic": "Kariyer Kuramları / Temel Kavramlar (İlgi, Değer, Yetenek)",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-49",
+      "year": 2023,
+      "number": 49,
+      "originalTopic": "Kariyer Kuramları / Linda Gottfredson (Daraltma ve",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-50",
+      "year": 2023,
+      "number": 50,
+      "originalTopic": "Kariyer Kuramları / Ginzberg ve Arkadaşları",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-51",
+      "year": 2023,
+      "number": 51,
+      "originalTopic": "Kariyer Kuramları / John Holland (Kişilik Tipleri - Gerçekçi)",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-52",
+      "year": 2023,
+      "number": 52,
+      "originalTopic": "Kariyer Danışmanlığı / Okul PDR Hizmetlerinin Sınırları",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-53",
+      "year": 2023,
+      "number": 53,
+      "originalTopic": "Araştırma Yöntemleri / Korelasyon ve Saçılım (Dağılım)",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-54",
+      "year": 2023,
+      "number": 54,
+      "originalTopic": "Araştırma Yöntemleri / Nitel Araştırma Yöntemleri (Durum",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-55",
+      "year": 2023,
+      "number": 55,
+      "originalTopic": "İstatistik / Değişken Türleri ve Ölçek Düzeyleri",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-56",
+      "year": 2023,
+      "number": 56,
+      "originalTopic": "Ölçme ve Değerlendirme / Histogramda Medyan (Ortanca)",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-57",
+      "year": 2023,
+      "number": 57,
+      "originalTopic": "Rehberlik Kuramları / Gelişimsel vs Geleneksel Rehberlik",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-58",
+      "year": 2023,
+      "number": 58,
+      "originalTopic": "Mesleki Etik / Etik Standartların Var Olma Nedenleri",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-59",
+      "year": 2023,
+      "number": 59,
+      "originalTopic": "Mesleki Etik / Gizliliğin Sınırları ve İstismar Bildirimi",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-60",
+      "year": 2023,
+      "number": 60,
+      "originalTopic": "Mesleki Etik / Gizlilik ve Yasal Sorumluluklar",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-61",
+      "year": 2023,
+      "number": 61,
+      "originalTopic": "Psikolojik Danışma Becerileri / BDT Tabanlı Seans İçi",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-62",
+      "year": 2023,
+      "number": 62,
+      "originalTopic": "Grupla Psikolojik Danışma / Liderlik Becerileri (Sınır",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-63",
+      "year": 2023,
+      "number": 63,
+      "originalTopic": "Grupla Psikolojik Danışma / İyileştirici Faktörler",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-64",
+      "year": 2023,
+      "number": 64,
+      "originalTopic": "Grupla Psikolojik Danışma / Grubun Aşamaları (Corey",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-65",
+      "year": 2023,
+      "number": 65,
+      "originalTopic": "Psikolojik Danışma Süreci / Amaç Oluşturma Evresi",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-66",
+      "year": 2023,
+      "number": 66,
+      "originalTopic": "Çok Kültürlü Psikolojik Danışma / Temel İlkeler",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2023-67",
+      "year": 2023,
+      "number": 67,
+      "originalTopic": "Psikolojik Danışma Becerileri / Soru Sorma Becerisi",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-68",
+      "year": 2023,
+      "number": 68,
+      "originalTopic": "Bireyle Psikolojik Danışma / Çelişki ve Yansıtma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2023-69",
+      "year": 2023,
+      "number": 69,
+      "originalTopic": "Okul PDR Hizmetleri / Oryantasyon (Duruma Alıştırma)",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2023-70",
+      "year": 2023,
+      "number": 70,
+      "originalTopic": "Okul PDR Hizmetleri / Grup Rehberliği ve Konsültasyon",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2023-71",
+      "year": 2023,
+      "number": 71,
+      "originalTopic": "Okul PDR Hizmetleri / Hizmet Alanları ve Problem Alanları",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2023-72",
+      "year": 2023,
+      "number": 72,
+      "originalTopic": "Okul PDR Hizmetleri / Rehberliğin İşlevleri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2023-73",
+      "year": 2023,
+      "number": 73,
+      "originalTopic": "Okul PDR Hizmetleri / Konsültasyon ve Kaygı",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2023-74",
+      "year": 2023,
+      "number": 74,
+      "originalTopic": "Okul PDR Hizmetleri / Rehberlik Hizmetlerinin",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2023-75",
+      "year": 2023,
+      "number": 75,
+      "originalTopic": "Gelişim Psikolojisi / Ahlaki ve Bilişsel Gelişime Uygunluk",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-01",
+      "year": 2024,
+      "number": 1,
+      "originalTopic": "Psikoloji Tarihi ve Yaklaşımlar",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-02",
+      "year": 2024,
+      "number": 2,
+      "originalTopic": "Sosyal Psikoloji / Sosyal Biliş ve Önyargı",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-03",
+      "year": 2024,
+      "number": 3,
+      "originalTopic": "Sosyal Psikoloji / İkna ve Direnç",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-04",
+      "year": 2024,
+      "number": 4,
+      "originalTopic": "Fizyolojik ve Sağlık Psikolojisi / Stres ve Genel Uyum",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-05",
+      "year": 2024,
+      "number": 5,
+      "originalTopic": "Bilişsel Psikoloji / Bellek Süreçleri",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-06",
+      "year": 2024,
+      "number": 6,
+      "originalTopic": "Öğrenme Psikolojisi / Thorndike’ın Bağlaşımcılık Kuramı",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-07",
+      "year": 2024,
+      "number": 7,
+      "originalTopic": "Gelişim Psikolojisi / Temel Kavramlar (Olgunlaşma)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-08",
+      "year": 2024,
+      "number": 8,
+      "originalTopic": "Gelişim Psikolojisi / Baumrind’in Ebeveyn Tutumları",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-09",
+      "year": 2024,
+      "number": 9,
+      "originalTopic": "Gelişim Psikolojisi / Erikson’un Psikososyal Gelişim Evreleri",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-10",
+      "year": 2024,
+      "number": 10,
+      "originalTopic": "Kişilik Kuramları / Beş Faktör (Big Five) Kişilik Kuramı",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-11",
+      "year": 2024,
+      "number": 11,
+      "originalTopic": "Psikolojik Danışma Kuramları / Varoluşçu Terapi",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-12",
+      "year": 2024,
+      "number": 12,
+      "originalTopic": "Psikolojik Danışma Kuramları / Psikanalitik Yaklaşım",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-13",
+      "year": 2024,
+      "number": 13,
+      "originalTopic": "Psikolojik Danışma Kuramları / Birey Merkezli Yaklaşım",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-14",
+      "year": 2024,
+      "number": 14,
+      "originalTopic": "Psikolojik Danışma Kuramları / BDT Teknikleri",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-15",
+      "year": 2024,
+      "number": 15,
+      "originalTopic": "Psikolojik Danışma Kuramları / Bilişsel Terapi (Beck)",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-16",
+      "year": 2024,
+      "number": 16,
+      "originalTopic": "Psikolojik Danışma Kuramları / Akılcı Duygusal Davranışçı",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-17",
+      "year": 2024,
+      "number": 17,
+      "originalTopic": "Gelişim ve Bilişsel Psikoloji / Gestalt Algı İlkeleri",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-18",
+      "year": 2024,
+      "number": 18,
+      "originalTopic": "Psikolojik Danışma Süreci / Süreç Dinamikleri ve Hedefler",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-19",
+      "year": 2024,
+      "number": 19,
+      "originalTopic": "Psikolojik Danışma Kuramları / Duygu Odaklı Terapi (DOT)",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-20",
+      "year": 2024,
+      "number": 20,
+      "originalTopic": "Psikolojik Danışma Kuramları / Alfred Adler (Bireysel",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-21",
+      "year": 2024,
+      "number": 21,
+      "originalTopic": "İletişim Becerileri / İçerik Yansıtma (Paraphrasing)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-22",
+      "year": 2024,
+      "number": 22,
+      "originalTopic": "Grupla Psikolojik Danışma / Liderlik Becerileri (Kendini",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-23",
+      "year": 2024,
+      "number": 23,
+      "originalTopic": "Psikolojik Danışma Becerileri / Yüzleştirme (Confrontation)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-24",
+      "year": 2024,
+      "number": 24,
+      "originalTopic": "Grupla Psikolojik Danışma / Liderlik Becerileri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-25",
+      "year": 2024,
+      "number": 25,
+      "originalTopic": "Davranış Bozuklukları (DSM-5) / Akut Stres Bozukluğu",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-26",
+      "year": 2024,
+      "number": 26,
+      "originalTopic": "Davranış Bozuklukları (DSM-5) / Panik Bozukluk (Panic",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-27",
+      "year": 2024,
+      "number": 27,
+      "originalTopic": "Davranış Bozuklukları (DSM-5) / B Grubu Kişilik",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-28",
+      "year": 2024,
+      "number": 28,
+      "originalTopic": "Davranış Bozuklukları (DSM-5) / Somatik Belirti ve İlişkili",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-29",
+      "year": 2024,
+      "number": 29,
+      "originalTopic": "Davranış Bozuklukları (DSM-5) / Uyco-Uyanıklık",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-30",
+      "year": 2024,
+      "number": 30,
+      "originalTopic": "Özel Eğitim / Özgül Öğrenme Bozukluğu (Diskalkuli)",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2024-31",
+      "year": 2024,
+      "number": 31,
+      "originalTopic": "Özel Eğitim / Değerlendirme Yaklaşımları (Programa Dayalı",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2024-32",
+      "year": 2024,
+      "number": 32,
+      "originalTopic": "Özel Eğitim / İşitme Yetersizliği Belirtileri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2024-33",
+      "year": 2024,
+      "number": 33,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Temel İlkeler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-34",
+      "year": 2024,
+      "number": 34,
+      "originalTopic": "Ölçme ve Değerlendirme / Yapı Geçerliği ve Sosyal Kabul",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-35",
+      "year": 2024,
+      "number": 35,
+      "originalTopic": "Ölçme ve Değerlendirme / Uygunluk (Halihazır) Geçerliği",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-36",
+      "year": 2024,
+      "number": 36,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Anket Hazırlama İlkeleri",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-37",
+      "year": 2024,
+      "number": 37,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Sosyodrama (Sociodrama)",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-38",
+      "year": 2024,
+      "number": 38,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Gözlem Tekniğinin Sınırları",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-39",
+      "year": 2024,
+      "number": 39,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Zaman Çizelgesi (Time Schedule)",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-40",
+      "year": 2024,
+      "number": 40,
+      "originalTopic": "Kişiler Arası İlişkiler / Joseph DeVito’nun İlişki Aşamaları",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-41",
+      "year": 2024,
+      "number": 41,
+      "originalTopic": "İletişim Becerileri / Güvengen (Atılgan) Davranış",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-42",
+      "year": 2024,
+      "number": 42,
+      "originalTopic": "Psikolojik Danışma Becerileri / Şimdi ve Buradalık",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-43",
+      "year": 2024,
+      "number": 43,
+      "originalTopic": "Psikolojik Danışma Süreci / Danışanın Hızında İlerleme",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-44",
+      "year": 2024,
+      "number": 44,
+      "originalTopic": "Grupla Psikolojik Danışma / Grubun Aşamaları (Geçiş",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-45",
+      "year": 2024,
+      "number": 45,
+      "originalTopic": "Grupla Psikolojik Danışma / Grup Üye Seçimi Kriterleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-46",
+      "year": 2024,
+      "number": 46,
+      "originalTopic": "Grupla Psikolojik Danışma / ASGW Grup Türleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-47",
+      "year": 2024,
+      "number": 47,
+      "originalTopic": "Kariyer Danışmanlığı / Mesleki Değerler (Work Values)",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-48",
+      "year": 2024,
+      "number": 48,
+      "originalTopic": "Kariyer Danışmanlığı / Krumboltz’un Planlanmış Şans",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-49",
+      "year": 2024,
+      "number": 49,
+      "originalTopic": "Kariyer Kuramları / Donald Super (Yaşam Boyu - Yaşam",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-50",
+      "year": 2024,
+      "number": 50,
+      "originalTopic": "Kariyer Kuramları / John Holland (Ayrışma - Differentiation)",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-51",
+      "year": 2024,
+      "number": 51,
+      "originalTopic": "Kariyer Kuramları / Özellik-Faktör Yaklaşımı (Trait-and-",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-52",
+      "year": 2024,
+      "number": 52,
+      "originalTopic": "Kariyer Danışmanlığı / Nancy Schlossberg’in 4S Geçiş Modeli",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-53",
+      "year": 2024,
+      "number": 53,
+      "originalTopic": "Ölçme ve Değerlendirme / Histogramda Mod (Tepe Değer)",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-54",
+      "year": 2024,
+      "number": 54,
+      "originalTopic": "Ölçme ve Değerlendirme / Standart Puanlar (z-Puanı",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-55",
+      "year": 2024,
+      "number": 55,
+      "originalTopic": "Okul PDR Hizmetleri / KGRP (Kapsamlı Gelişimsel Rehberlik",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2024-56",
+      "year": 2024,
+      "number": 56,
+      "originalTopic": "Okul PDR Hizmetleri / KGRP Bileşenleri (Müdahale",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2024-57",
+      "year": 2024,
+      "number": 57,
+      "originalTopic": "Araştırma Yöntemleri / Gelişimsel Desenler (Boylamsal",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-58",
+      "year": 2024,
+      "number": 58,
+      "originalTopic": "Mesleki Etik / Profesyonel Etiğin Doğası ve Amaçları",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-59",
+      "year": 2024,
+      "number": 59,
+      "originalTopic": "Mesleki Etik / Aile İçi Şiddet Mağduruyla Çalışmada Etik",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-60",
+      "year": 2024,
+      "number": 60,
+      "originalTopic": "Mesleki Etik / Kitchener’ın Ahlak İlkeleri (Sadakat - Fidelity)",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-61",
+      "year": 2024,
+      "number": 61,
+      "originalTopic": "Bireyle Psikolojik Danışma / Danışma Süreci Basamakları",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-62",
+      "year": 2024,
+      "number": 62,
+      "originalTopic": "Bireyle Psikolojik Danışma / Seans İçi Sessizliğin Yönetimi",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-63",
+      "year": 2024,
+      "number": 63,
+      "originalTopic": "Psikolojik Danışma Kuramları / BDT'de Ev Ödevi Direncinin",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-64",
+      "year": 2024,
+      "number": 64,
+      "originalTopic": "Grupla Psikolojik Danışma / Direnç ve Grup Liderinin",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-65",
+      "year": 2024,
+      "number": 65,
+      "originalTopic": "Grupla Psikolojik Danışma / Sonlandırma (Konsolidasyon)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-66",
+      "year": 2024,
+      "number": 66,
+      "originalTopic": "Grupla Psikolojik Danışma / Sonlandırma Evresi Etkinlikleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-67",
+      "year": 2024,
+      "number": 67,
+      "originalTopic": "Grupla Psikolojik Danışma / Liderlik Becerileri (Engelleme -",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2024-68",
+      "year": 2024,
+      "number": 68,
+      "originalTopic": "Okul PDR Hizmetleri / Psikolojik Danışmanın Sınırları ve",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2024-69",
+      "year": 2024,
+      "number": 69,
+      "originalTopic": "Okul PDR Hizmetleri / Önleme Hizmetleri ve Konsültasyon",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2024-70",
+      "year": 2024,
+      "number": 70,
+      "originalTopic": "Okul PDR Hizmetleri / Rehberliğin Problem Alanları (Kişisel-",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2024-71",
+      "year": 2024,
+      "number": 71,
+      "originalTopic": "Okul PDR Hizmetleri / Davranış Değiştirme Yöntemleri ve",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2024-72",
+      "year": 2024,
+      "number": 72,
+      "originalTopic": "Okul PDR Hizmetleri / Bilgi Toplama ve Yayma Hizmeti",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2024-73",
+      "year": 2024,
+      "number": 73,
+      "originalTopic": "Okul PDR Hizmetleri / Krize Müdahale",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2024-74",
+      "year": 2024,
+      "number": 74,
+      "originalTopic": "Okul PDR Hizmetleri / Konsültasyon, Test Dışı Teknikler ve",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2024-75",
+      "year": 2024,
+      "number": 75,
+      "originalTopic": "Okul PDR Hizmetleri / Rehberliğin İşlevleri",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2025-01",
+      "year": 2025,
+      "number": 1,
+      "originalTopic": "Psikoloji Tarihi ve Yaklaşımlar / İnsan Doğası",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-02",
+      "year": 2025,
+      "number": 2,
+      "originalTopic": "Sosyal Psikoloji / Sosyal Algı Hataları (Hale Etkisi)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-03",
+      "year": 2025,
+      "number": 3,
+      "originalTopic": "Fizyolojik Psikoloji / Beynin Anatomik Yapısı",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-04",
+      "year": 2025,
+      "number": 4,
+      "originalTopic": "Bilişsel Psikoloji / Bilgi İşleme Kuramı (Üst Biliş)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-05",
+      "year": 2025,
+      "number": 5,
+      "originalTopic": "Gelişim Psikolojisi / Beyin Gelişimi (Sinaptik Budanma)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-06",
+      "year": 2025,
+      "number": 6,
+      "originalTopic": "Gelişim Psikolojisi / Bronfenbrenner’in Ekolojik Sistemler",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-07",
+      "year": 2025,
+      "number": 7,
+      "originalTopic": "Gelişim Psikolojisi / Piaget’nin Bilişsel Gelişim Kuramı",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-08",
+      "year": 2025,
+      "number": 8,
+      "originalTopic": "Gelişim Psikolojisi / Gelişimin Temel İlkeleri (Kritik Dönem)",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-09",
+      "year": 2025,
+      "number": 9,
+      "originalTopic": "Psikolojik Danışma Kuramları / Psikanalitik Savunma",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-10",
+      "year": 2025,
+      "number": 10,
+      "originalTopic": "Psikolojik Danışma Kuramları / Birey Merkezli Yaklaşım",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-11",
+      "year": 2025,
+      "number": 11,
+      "originalTopic": "Psikolojik Danışma Kuramları / Varoluşçu Terapi Teknikleri",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-12",
+      "year": 2025,
+      "number": 12,
+      "originalTopic": "Psikolojik Danışma Kuramları / Bilişsel Terapi (Otomatik",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-13",
+      "year": 2025,
+      "number": 13,
+      "originalTopic": "Psikolojik Danışma Kuramları / Alfred Adler (Danışanın",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-14",
+      "year": 2025,
+      "number": 14,
+      "originalTopic": "Psikolojik Danışma Kuramları / Çözüm Odaklı Kısa Süreli",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-15",
+      "year": 2025,
+      "number": 15,
+      "originalTopic": "Grupla Psikolojik Danışma / Liderlik Becerileri (Bağlama ve",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-16",
+      "year": 2025,
+      "number": 16,
+      "originalTopic": "Grupla Psikolojik Danışma / Liderlik Becerileri (Engelleme)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-17",
+      "year": 2025,
+      "number": 17,
+      "originalTopic": "Psikolojik Danışma Becerileri / Somutlaştırma",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-18",
+      "year": 2025,
+      "number": 18,
+      "originalTopic": "Psikolojik Danışma Becerileri / Duygu Yansıtmanın İşlevleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-19",
+      "year": 2025,
+      "number": 19,
+      "originalTopic": "Davranış Bozuklukları (DSM-5) / Sosyal Kaygı Bozukluğu",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-20",
+      "year": 2025,
+      "number": 20,
+      "originalTopic": "Davranış Bozuklukları (DSM-5) / A Kümesi Kişilik",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-21",
+      "year": 2025,
+      "number": 21,
+      "originalTopic": "Özel Eğitim / Özgül Öğrenme Güçlüğü ve Yerleştirme Kararı",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2025-22",
+      "year": 2025,
+      "number": 22,
+      "originalTopic": "Davranış Bozuklukları / Bağımlı ve Bağımsız Yaşamsal",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-23",
+      "year": 2025,
+      "number": 23,
+      "originalTopic": "Özel Eğitim / Uygulamalı Davranış Analizi (UDA - ABA)",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2025-24",
+      "year": 2025,
+      "number": 24,
+      "originalTopic": "Özel Eğitim / Doğal Öğretim Yöntemleri (Naturalistic",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2025-25",
+      "year": 2025,
+      "number": 25,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Temel İlkeler (Süreklilik ve",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-26",
+      "year": 2025,
+      "number": 26,
+      "originalTopic": "Aile Danışmanlığı / Aile Öyküsü Çıkarma (Genogram)",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2025-27",
+      "year": 2025,
+      "number": 27,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Gözleme Dayalı Teknikler",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-28",
+      "year": 2025,
+      "number": 28,
+      "originalTopic": "Bireyi Tanıma Teknikleri / Sosyometrik Tekniklerin",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-29",
+      "year": 2025,
+      "number": 29,
+      "originalTopic": "Ölçme ve Değerlendirme / Dağılım Eğrileri ve Çarpıklık",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-30",
+      "year": 2025,
+      "number": 30,
+      "originalTopic": "Ölçme ve Değerlendirme / Test Yanıt Hatası (Sosyal Kabul",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-31",
+      "year": 2025,
+      "number": 31,
+      "originalTopic": "Ölçme ve Değerlendirme / Güvenirlik ve Geçerlik Kanıtları",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-32",
+      "year": 2025,
+      "number": 32,
+      "originalTopic": "İletişim Becerileri / Thomas Gordon’un İletişim Engelleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-33",
+      "year": 2025,
+      "number": 33,
+      "originalTopic": "Psikolojik Danışma Becerileri / Yüzleştirme (Confrontation)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-34",
+      "year": 2025,
+      "number": 34,
+      "originalTopic": "Psikolojik Danışma Becerileri / Etkin Dinlemenin Sınırları",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-35",
+      "year": 2025,
+      "number": 35,
+      "originalTopic": "Psikolojik Danışma Süreci / SMART Terapötik Hedef",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-36",
+      "year": 2025,
+      "number": 36,
+      "originalTopic": "Grupla Psikolojik Danışma / Yalom’un İyileştirici Faktörleri",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-37",
+      "year": 2025,
+      "number": 37,
+      "originalTopic": "Grupla Psikolojik Danışma / Etkileşim Gruplarının Doğası",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-38",
+      "year": 2025,
+      "number": 38,
+      "originalTopic": "Grupla Psikolojik Danışma / Erken Ayrılma (Drop-out)",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-39",
+      "year": 2025,
+      "number": 39,
+      "originalTopic": "Kariyer Danışmanlığı / Yetenek Kavramının Özellikleri",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-40",
+      "year": 2025,
+      "number": 40,
+      "originalTopic": "Kariyer Danışmanlığı / Myers-Briggs Tip Endikatörü (MBTI)",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-41",
+      "year": 2025,
+      "number": 41,
+      "originalTopic": "Kariyer Danışmanlığı / John Holland (RIASEC Tipolojisi)",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-42",
+      "year": 2025,
+      "number": 42,
+      "originalTopic": "Kariyer Kuramları / Ginzberg ve Arkadaşları (Geçiş",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-43",
+      "year": 2025,
+      "number": 43,
+      "originalTopic": "Kariyer Kuramları / Donald Super (Maksi ve Mini Döngü)",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-44",
+      "year": 2025,
+      "number": 44,
+      "originalTopic": "Kariyer Danışmanlığı / Program Geliştirme Basamakları",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-45",
+      "year": 2025,
+      "number": 45,
+      "originalTopic": "Okul PDR Hizmetleri / Geleneksel vs. Gelişimsel Rehberlik",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2025-46",
+      "year": 2025,
+      "number": 46,
+      "originalTopic": "İstatistik / Betimsel İstatistik ve Uç Değer Etkileri",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-47",
+      "year": 2025,
+      "number": 47,
+      "originalTopic": "Ölçme ve Değerlendirme / Ölçmenin Standart Hatası ve",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-48",
+      "year": 2025,
+      "number": 48,
+      "originalTopic": "İstatistik / Değişken Türleri ve Ölçek Düzeyleri",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-49",
+      "year": 2025,
+      "number": 49,
+      "originalTopic": "Mesleki Etik / Etik İhlalleri (Yetkinlik ve Dürüstlük)",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2025-50",
+      "year": 2025,
+      "number": 50,
+      "originalTopic": "Mesleki Etik / Çift İlişkiler ve Sınır Aşımları (Boundary",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-01",
+      "year": 2026,
+      "number": 1,
+      "originalTopic": "Algı Psikolojisi / Gestalt",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-02",
+      "year": 2026,
+      "number": 2,
+      "originalTopic": "Sosyal Psikoloji / Planlı Davranış Kuramı",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-03",
+      "year": 2026,
+      "number": 3,
+      "originalTopic": "Sosyal Psikoloji / Sosyal Etki",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-04",
+      "year": 2026,
+      "number": 4,
+      "originalTopic": "Biyolojik Psikoloji / Sempatik Sinir Sistemi",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-05",
+      "year": 2026,
+      "number": 5,
+      "originalTopic": "Öğrenme Psikolojisi / Üst Düzey Koşullanma",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-06",
+      "year": 2026,
+      "number": 6,
+      "originalTopic": "Öğrenme Psikolojisi / İleriye Ket Vurma",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-07",
+      "year": 2026,
+      "number": 7,
+      "originalTopic": "Gelişim Psikolojisi / Gelişim İlkeleri",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-08",
+      "year": 2026,
+      "number": 8,
+      "originalTopic": "Kişilik Kuramları / Karen Horney",
+      "category": "Temel Psikolojik Kavramlar",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-09",
+      "year": 2026,
+      "number": 9,
+      "originalTopic": "Psikanalitik Kuram / Psikoseksüel Gelişim",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-10",
+      "year": 2026,
+      "number": 10,
+      "originalTopic": "Varoluşçu Yaklaşım",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-11",
+      "year": 2026,
+      "number": 11,
+      "originalTopic": "Birey Merkezli Yaklaşım",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-12",
+      "year": 2026,
+      "number": 12,
+      "originalTopic": "Davranışçı Yaklaşım / Sistematik Duyarsızlaştırma",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-13",
+      "year": 2026,
+      "number": 13,
+      "originalTopic": "Bilişsel Terapi / Seçici Soyutlama",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2026-14",
+      "year": 2026,
+      "number": 14,
+      "originalTopic": "Psikanalitik Kuram / Karşıt Tepki Geliştirme",
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-15",
+      "year": 2026,
+      "number": 15,
+      "originalTopic": "Terapötik Beceriler / Kişiselleştirme",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-16",
+      "year": 2026,
+      "number": 16,
+      "originalTopic": "Terapötik Beceriler / Konuşmaya Açık Davet",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-17",
+      "year": 2026,
+      "number": 17,
+      "originalTopic": "Terapötik Beceriler / Özetleme",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-18",
+      "year": 2026,
+      "number": 18,
+      "originalTopic": "Terapötik Beceriler / Bağlama",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-19",
+      "year": 2026,
+      "number": 19,
+      "originalTopic": "DSM-5-TR / Şizoid Kişilik Bozukluğu",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-20",
+      "year": 2026,
+      "number": 20,
+      "originalTopic": "DSM-5-TR / Agorafobi",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-21",
+      "year": 2026,
+      "number": 21,
+      "originalTopic": "DSM-5-TR / Dissosiyatif Amnezi",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-22",
+      "year": 2026,
+      "number": 22,
+      "originalTopic": "DSM-5-TR / Şizofreninin Pozitif Belirtileri",
+      "category": "Davranış ve Uyum Problemleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-23",
+      "year": 2026,
+      "number": 23,
+      "originalTopic": "Özel Eğitim / Disgrafi",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2026-24",
+      "year": 2026,
+      "number": 24,
+      "originalTopic": "Özel Eğitim / Zenginleştirme",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2026-25",
+      "year": 2026,
+      "number": 25,
+      "originalTopic": "Test Dışı Teknikler / Bibliyoterapi",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-26",
+      "year": 2026,
+      "number": 26,
+      "originalTopic": "Sosyometri",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-27",
+      "year": 2026,
+      "number": 27,
+      "originalTopic": "Test Dışı Teknikler / Problem Tarama Listesi",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-28",
+      "year": 2026,
+      "number": 28,
+      "originalTopic": "Test Dışı Teknikler / Akran Değerlendirme",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-29",
+      "year": 2026,
+      "number": 29,
+      "originalTopic": "Ölçme ve Değerlendirme / Ölçüt Dayanaklı Geçerlik",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-30",
+      "year": 2026,
+      "number": 30,
+      "originalTopic": "Ölçme ve Değerlendirme / Kararlılık",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-31",
+      "year": 2026,
+      "number": 31,
+      "originalTopic": "Ölçme ve Değerlendirme / Madde Ayırt Ediciliği",
+      "category": "Bireyi Tanıma Teknikleri",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-32",
+      "year": 2026,
+      "number": 32,
+      "originalTopic": "Terapötik İletişim / Çift Mesaj",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-33",
+      "year": 2026,
+      "number": 33,
+      "originalTopic": "Terapötik İletişim / Saydamlık",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-34",
+      "year": 2026,
+      "number": 34,
+      "originalTopic": "Terapötik İlişki / Şimdi ve Burada",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-35",
+      "year": 2026,
+      "number": 35,
+      "originalTopic": "Psikolojik Danışma Süreci / İzleme",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-36",
+      "year": 2026,
+      "number": 36,
+      "originalTopic": "Grupla Psikolojik Danışma / Evrensellik",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-37",
+      "year": 2026,
+      "number": 37,
+      "originalTopic": "Gruplar / Rehberlik Grubu",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2026-38",
+      "year": 2026,
+      "number": 38,
+      "originalTopic": "Grupla Psikolojik Danışma / Direnç",
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-39",
+      "year": 2026,
+      "number": 39,
+      "originalTopic": "Kariyer Danışmanlığı / Değerler",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-40",
+      "year": 2026,
+      "number": 40,
+      "originalTopic": "Kariyer Danışmanlığı / Kariyer Tekeri",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-41",
+      "year": 2026,
+      "number": 41,
+      "originalTopic": "Kariyer Danışmanlığı / İşe Uyum Kuramı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-42",
+      "year": 2026,
+      "number": 42,
+      "originalTopic": "Kariyer Danışmanlığı / Sosyal Öğrenme Kuramı",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-43",
+      "year": 2026,
+      "number": 43,
+      "originalTopic": "Kariyer Danışmanlığı / Roe",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-44",
+      "year": 2026,
+      "number": 44,
+      "originalTopic": "Kariyer Danışmanlığı / Gottfredson",
+      "category": "Mesleki Rehberlik ve Kariyer Danışmanlığı",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-45",
+      "year": 2026,
+      "number": 45,
+      "originalTopic": "Okul RPD / Kapsamlı Gelişimsel Rehberlik",
+      "category": null,
+      "status": "needs_content_review"
+    },
+    {
+      "id": "2026-46",
+      "year": 2026,
+      "number": 46,
+      "originalTopic": "İstatistik / Betimsel İstatistikler",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-47",
+      "year": 2026,
+      "number": 47,
+      "originalTopic": "Araştırma Yöntemleri / Değişkenler",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-48",
+      "year": 2026,
+      "number": 48,
+      "originalTopic": "İstatistik / Bağımlı Örneklemler t-Testi",
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-49",
+      "year": 2026,
+      "number": 49,
+      "originalTopic": "Meslek Etiği",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    },
+    {
+      "id": "2026-50",
+      "year": 2026,
+      "number": 50,
+      "originalTopic": "Meslek Etiği / Yararlılık",
+      "category": "Meslek Etiği ve Yasal Konular",
+      "status": "prefix_candidate"
+    }
+  ]
+}
