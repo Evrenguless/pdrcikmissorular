@@ -361,3 +361,31 @@ body{background:var(--oabt-surface);color:var(--oabt-ink);font-family:Manrope,Ar
 .topic-scope-button.active{background:#123c31;color:#fff;box-shadow:0 3px 12px rgba(18,60,49,.13)}
 .topic-scope-button:focus-visible{outline:3px solid #97c5a8;outline-offset:2px}
 @media(max-width:520px){.topic-scope{display:flex;width:100%}.topic-scope-button{flex:1;min-width:0;padding:10px 6px;font-size:11px}}
+
+/* Karşılama ve yıl seçimi: tek sütun, açık hiyerarşi */
+.welcome{display:block;min-height:100vh;overflow:visible;background:#fafaf6;padding:0 clamp(20px,5vw,72px)}
+.welcome:after{display:none}
+.welcome-grid{display:flex;flex-direction:column;align-items:center;gap:0;max-width:1100px;margin:0 auto}
+.welcome-copy{width:100%;max-width:950px;min-height:calc(92svh - 108px);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:84px 0 100px}
+.welcome-copy h1{max-width:940px;margin:26px auto 28px;font:800 clamp(44px,7.3vw,100px)/1.08 Manrope,Arial,sans-serif;letter-spacing:-.055em}
+.welcome-copy>p{max-width:760px;margin:0 auto;color:#667b70;font-size:clamp(16px,2vw,21px);line-height:1.65}
+.welcome-actions{display:flex;justify-content:center;align-items:center;gap:12px;margin-top:42px}
+.welcome-actions .button.primary.large{min-height:62px;border-radius:15px;padding:0 30px;font-size:17px}
+.welcome-copy .exam-facts{justify-content:center;margin-top:54px}
+.welcome-copy .exam-facts div{min-width:138px;padding:0 35px;text-align:center}
+.welcome-copy .exam-facts div:first-child{padding-left:35px}
+.year-panel{width:100%;max-width:860px;margin:0 auto 90px;scroll-margin-top:35px;padding:clamp(18px,4vw,38px);border:1px solid #d5e5d9;border-radius:28px;background:#fff;box-shadow:0 16px 50px rgba(18,60,49,.055)}
+.year-panel .panel-head{font-size:14px;margin-bottom:22px}
+.year-panel .panel-head span{font-size:18px}
+.year-list{max-height:none;overflow:visible;display:grid;gap:11px}
+.year-list .year-card{padding:15px 18px;grid-template-columns:56px minmax(0,1fr) auto}
+.year-list .year-monogram{width:56px;height:56px}
+.year-list .year-info b{font-size:16px}
+.year-list .year-info small{font-size:12px}
+.year-list .year-state{font-size:11px}
+.all-topics-cta{display:flex;justify-content:space-between;align-items:center;gap:12px;width:100%;margin-top:20px;padding:20px;border:1px solid #bed6c7;border-radius:14px;background:#eaf4ed;color:#123c31;text-align:left;cursor:pointer}
+.all-topics-cta strong{font:800 15px Manrope,Arial,sans-serif}
+.all-topics-cta span{font:600 12px Manrope,Arial,sans-serif;color:#3f7560}
+.all-topics-cta:hover{background:#dceddf;border-color:#98c6ac}
+.all-topics-cta:focus-visible{outline:3px solid #79af90;outline-offset:3px}
+@media(max-width:650px){.welcome-copy{min-height:calc(90svh - 85px);padding:70px 0 82px}.welcome-copy h1{font-size:clamp(39px,10vw,66px)}.welcome-copy .exam-facts div{min-width:0;padding:0 21px}.welcome-copy .exam-facts div:first-child{padding-left:21px}.year-list .year-card{padding:12px;grid-template-columns:48px minmax(0,1fr) auto;gap:11px}.year-list .year-monogram{width:48px;height:48px}.year-list .year-info b{font-size:13px}.year-list .year-info small{font-size:11px}.all-topics-cta{flex-direction:column;align-items:flex-start}}
