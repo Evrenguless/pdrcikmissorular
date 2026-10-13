@@ -11,6 +11,7 @@ const state = {
   reviewTab: "explanation",
   mode: "exam",
   yearChosen: false,
+  topicFromHome: false,
   topicId: null,
   topicScope: "year",
   allYearQuestions: null,
@@ -119,12 +120,8 @@ function toast(message) {
 
 function applyYearLabels() {
   const y = state.year;
-  const c = state.data.questionCount;
-  const d = state.data.durationMinutes;
 
-  $("#welcomeYearLabel").textContent = `Çıkmış sorular · ${y}`;
-  $("#welcomeQuestionCount").textContent = c;
-  $("#welcomeDuration").textContent = d;
+  // Karşılama tüm arşivi tanıtır; seçili yıl burada gösterilmez.
 
   const examYearLabel = $("#examYearLabel");
   if (examYearLabel) examYearLabel.textContent = `${y} sınavı`;
@@ -200,6 +197,7 @@ async function openTopicSelection(scope = "year") {
     $("#topicScopeAll").classList.toggle("active", scope === "all");
     $("#topicScopeYear").setAttribute("aria-pressed", String(scope === "year"));
     $("#topicScopeAll").setAttribute("aria-pressed", String(scope === "all"));
+    $("#topicBack").textContent = state.topicFromHome ? "← Yıllara dön" : "← Çözüm modlarına dön";
     $("#topicYearHeading").textContent = (scope === "all" ? "2014–2026 · TÜM YILLAR" : state.year + " PDR ÖABT") + " · KONU MODU";
     const rows = state.classification.questions.filter(row => (scope === "all" || row.year === state.year) && row.category);
     const list = $("#topicList");
@@ -624,10 +622,12 @@ els.bookmark.onclick = () => {
 };
 
 $("#startExam").onclick = () => {
-  state.yearChosen = false;
-  document.querySelectorAll("[data-mode-year]").forEach(b => { b.classList.remove("active"); b.setAttribute("aria-pressed", "false"); });
-  $("#modeYear").textContent = "Çözüm modları";
-  show("mode");
+  const destination = $("#yearSelection");
+  destination.scrollIntoView({behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth", block:"start"});
+};
+$("#allTopicsFromHome").onclick = async () => {
+  state.topicFromHome = true;
+  await openTopicSelection("all");
 };
 document.querySelectorAll("[data-mode-year]").forEach(b => b.onclick = () => selectYear(Number(b.dataset.modeYear)));
 $("#modeBack").onclick = () => show("welcome");
@@ -651,7 +651,7 @@ document.querySelectorAll("[data-mode]").forEach(button => button.onclick = () =
     document.querySelector(".mode-year-option")?.focus();
     return;
   }
-  if (button.dataset.mode === "topic") { openTopicSelection(); return; }
+  if (button.dataset.mode === "topic") { state.topicFromHome = false; openTopicSelection(); return; }
   state.mode = button.dataset.mode;
   state.topicQuestions = [];
   load();
@@ -659,7 +659,7 @@ document.querySelectorAll("[data-mode]").forEach(button => button.onclick = () =
   begin(!state.startedAt || state.finished);
 });
 
-$("#topicBack").onclick = () => show("mode");
+$("#topicBack").onclick = () => show(state.topicFromHome ? "welcome" : "mode");
 $("#topicScopeYear").onclick = () => openTopicSelection("year");
 $("#topicScopeAll").onclick = () => openTopicSelection("all");
 $("#topicHome").onclick = e => { e.preventDefault(); show("welcome"); };
