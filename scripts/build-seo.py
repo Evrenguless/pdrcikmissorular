@@ -5,7 +5,7 @@ from html import escape as e
 import json
 
 ROOT = Path(__file__).resolve().parent.parent
-BASE = 'https://evrenguless.github.io/pdrcikmissorular/'
+BASE = 'https://cikmissorular.pdrkampus.com/'
 YEARS = list(range(2014, 2027))
 DATA = {y: json.loads((ROOT / f'data/{y}.json').read_text()) for y in YEARS}
 CLASS = json.loads((ROOT / 'data/topic-classification-draft.json').read_text())

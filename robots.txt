@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cikmissorular.pdrkampus.com/sitemap.xml
