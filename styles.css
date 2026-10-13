@@ -389,3 +389,12 @@ body{background:var(--oabt-surface);color:var(--oabt-ink);font-family:Manrope,Ar
 .all-topics-cta:hover{background:#dceddf;border-color:#98c6ac}
 .all-topics-cta:focus-visible{outline:3px solid #79af90;outline-offset:3px}
 @media(max-width:650px){.welcome-copy{min-height:calc(90svh - 85px);padding:70px 0 82px}.welcome-copy h1{font-size:clamp(39px,10vw,66px)}.welcome-copy .exam-facts div{min-width:0;padding:0 21px}.welcome-copy .exam-facts div:first-child{padding-left:21px}.year-list .year-card{padding:12px;grid-template-columns:48px minmax(0,1fr) auto;gap:11px}.year-list .year-monogram{width:48px;height:48px}.year-list .year-info b{font-size:13px}.year-list .year-info small{font-size:11px}.all-topics-cta{flex-direction:column;align-items:flex-start}}
+
+/* Yeni dikey ana sayfa: eski sabit yükseklikli/kayan yıl panelini tamamen iptal et */
+#welcomeView .welcome-grid{display:flex;flex-direction:column;align-items:center;height:auto;min-height:0;overflow:visible}
+#welcomeView #yearSelection{display:block!important;position:relative;height:auto!important;min-height:0!important;max-height:none!important;overflow:visible!important;flex:none;contain:none}
+#welcomeView #yearSelection .year-list{display:grid!important;grid-template-columns:minmax(0,1fr);height:auto!important;min-height:0!important;max-height:none!important;overflow:visible!important;overflow-y:visible!important;flex:none;align-content:start}
+#welcomeView #yearSelection .year-card{min-height:68px;position:relative}
+#welcomeView #yearSelection>p{display:block;position:static;margin:20px 0 0}
+#welcomeView #yearSelection .all-topics-cta{position:relative;margin-top:18px;z-index:0}
+#welcomeView .oabt-footer{position:relative;clear:both;margin-top:0}
