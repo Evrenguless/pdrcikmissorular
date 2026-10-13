@@ -3,6 +3,7 @@ from pathlib import Path
 from collections import Counter
 from html import escape as e
 import json
+from campus_tools import navigation, footer, context
 
 ROOT = Path(__file__).resolve().parent.parent
 BASE = 'https://cikmissorular.pdrkampus.com/'
@@ -43,14 +44,17 @@ def page(path, title, description, heading, intro, body, cta, cta_text, breadcru
     if items: graph.append({'@type':'ItemList','itemListElement':[{'@type':'ListItem','position':i+1,'name':name,'url':u} for i,(name,u) in enumerate(items)]})
     schema=json.dumps({'@context':'https://schema.org','@graph':graph},ensure_ascii=False).replace('<','\\u003c')
     crumb=''.join(f'<a href="{e(u)}">{e(n)}</a>' for n,u in breadcrumbs[:-1])+f'<span aria-current="page">{e(breadcrumbs[-1][0])}</span>'
+    related = context('Hazırlığına devam et', 'AGS / PDR puan ve sıralama tahminleriyle çalışma sürecini destekle.', [('https://analiz.pdrkampus.com/', 'Sınav analizini incele')])
+    if path == 'yillar/2026/':
+        related = context('2026 sınavını birlikte değerlendir', '2026 PDR ÖABT rehberini incele ve çıkmış sorularla çalışmaya devam et.', [('https://analiz.pdrkampus.com/pdr-oabt/2026/', '2026 PDR ÖABT analizini incele')])
     html=f'''<!doctype html>
 <html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(title)}</title><meta name="description" content="{e(description)}"><meta name="robots" content="index,follow,max-image-preview:large"><link rel="canonical" href="{url}">
 <meta property="og:type" content="website"><meta property="og:locale" content="tr_TR"><meta property="og:site_name" content="PDR Kampüs"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(description)}"><meta property="og:url" content="{url}"><meta property="og:image" content="{BASE}assets/campus-logo.png"><meta name="twitter:card" content="summary"><meta name="theme-color" content="#397d6b">
-<link rel="icon" href="../../assets/campus-logo.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="../../seo.css"><script type="application/ld+json">{schema}</script></head>
-<body><a class="skip" href="#content">İçeriğe geç</a><header><a class="brand" href="../../"><img src="../../assets/campus-logo.png" width="44" height="44" alt=""><strong>PDR<span>kampüs</span></strong></a><nav aria-label="Ana menü"><a href="../../yillar/">Yıllar</a><a href="../../konular/">Konular</a><a href="https://pdrkampus.com/">Ana platform</a></nav></header>
-<main id="content"><nav class="breadcrumbs" aria-label="Sayfa yolu">{crumb}</nav><section class="intro"><span class="kicker">PDR ÖABT · ÇIKMIŞ SORULAR</span><h1>{e(heading)}</h1><p>{e(intro)}</p><a class="primary" href="{e(cta)}">{e(cta_text)} →</a></section><div class="page-body">{body}</div><aside class="study-band"><h2>Okuduklarını sorularla pekiştir.</h2><p>Sorularını seç, cevaplarını işaretle ve sonuç optiğinden tekrar incele.</p><a class="primary" href="{e(cta)}">{e(cta_text)} →</a></aside></main>
-<footer><strong>PDR Kampüs · Soru arşivi</strong><p>Psikolojik danışmanlar için kaynak ve çalışma araçları.</p><nav aria-label="Alt bağlantılar"><a href="../../">Soru çözme alanı</a><a href="../../yillar/">Yıllara göre sorular</a><a href="../../konular/">Konu rehberleri</a><a href="https://pdrkampus.com/iletisim.html">İletişim</a></nav><p class="note">ÖSYM ile kurumsal bir bağlantısı bulunmayan PDR Kampüs çalışma alanıdır. Soru hakları ilgili hak sahiplerine aittir.</p></footer></body></html>'''
+<link rel="icon" href="../../assets/campus-logo.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="../../seo.css"><link rel="stylesheet" href="/assets/campus-tools.css?v=20261014"><script type="application/ld+json">{schema}</script></head>
+<body><a class="skip" href="#content">İçeriğe geç</a><header><a class="brand" href="../../"><img src="../../assets/campus-logo.png" width="44" height="44" alt=""><strong>PDR<span>kampüs</span></strong></a><nav aria-label="Ana menü"><a href="../../yillar/">Yıllar</a><a href="../../konular/">Konular</a><a href="https://pdrkampus.com/">Ana platform</a></nav></header>{navigation("questions")}
+<main id="content"><nav class="breadcrumbs" aria-label="Sayfa yolu">{crumb}</nav><section class="intro"><span class="kicker">PDR ÖABT · ÇIKMIŞ SORULAR</span><h1>{e(heading)}</h1><p>{e(intro)}</p><a class="primary" href="{e(cta)}">{e(cta_text)} →</a></section><div class="page-body">{body}</div><aside class="study-band"><h2>Okuduklarını sorularla pekiştir.</h2><p>Sorularını seç, cevaplarını işaretle ve sonuç optiğinden tekrar incele.</p><a class="primary" href="{e(cta)}">{e(cta_text)} →</a></aside>{related}</main>
+{footer("questions")}<footer><strong>PDR Kampüs · Soru arşivi</strong><p>Psikolojik danışmanlar için kaynak ve çalışma araçları.</p><nav aria-label="Alt bağlantılar"><a href="../../">Soru çözme alanı</a><a href="../../yillar/">Yıllara göre sorular</a><a href="../../konular/">Konu rehberleri</a><a href="https://pdrkampus.com/iletisim.html">İletişim</a></nav><p class="note">ÖSYM ile kurumsal bir bağlantısı bulunmayan PDR Kampüs çalışma alanıdır. Soru hakları ilgili hak sahiplerine aittir.</p></footer></body></html>'''
     if path.count('/') == 1:
         html = html.replace('../../', '../')
     dest=ROOT/path/'index.html'; dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(html)
