@@ -20,7 +20,7 @@
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="campus.css">
   <meta name="theme-color" content="#397d6b">
-</head>
+<link rel="stylesheet" href="/assets/campus-tools.css?v=20261014"></head>
 <body>
   <section class="welcome" id="welcomeView">
     <div class="welcome-nav">
@@ -34,7 +34,7 @@
       </nav>
       <details class="campus-menu"><summary aria-label="PDR Kampüs menüsü">☰</summary><nav aria-label="PDR Kampüs bağlantıları"><a href="https://pdrkampus.com/">Ana sayfa</a><a href="https://pdrkampus.com/kutuphane.html">Kütüphane</a><a href="https://pdrkampus.com/makaleler.html">Makaleler</a><a href="https://pdrkampus.com/konular.html">Konular</a><a href="https://pdrkampus.com/topluluk.html">Topluluk</a><a href="https://pdrkampus.com/calisma-alani.html">Çalışma Alanım</a><a href="https://analiz.pdrkampus.com/">AGS/PDR Puan Hesaplama</a><a href="https://norm.pdrkampus.com/">PDR Norm Analizi</a></nav></details>
     </div>
-    <div class="welcome-grid">
+<div class="pk-network" data-campus-platform="questions"><span class="pk-network-label">PDR Kampüs araçları</span><nav class="pk-network-desktop pk-network-links" aria-label="PDR Kampüs platformları"><a href="https://pdrkampus.com/"><strong>Ana platform</strong></a><a href="https://cikmissorular.pdrkampus.com/" aria-current="true"><strong>Çıkmış sorular</strong></a><a href="https://analiz.pdrkampus.com/"><strong>Sınav analizi</strong></a><a href="https://norm.pdrkampus.com/"><strong>Norm hesaplama</strong></a></nav><details class="pk-network-mobile"><summary>Platformlar <span>Çıkmış sorular ▾</span></summary><nav class="pk-network-links" aria-label="PDR Kampüs platformları (mobil)"><a href="https://pdrkampus.com/"><strong>Ana platform</strong></a><a href="https://cikmissorular.pdrkampus.com/" aria-current="true"><strong>Çıkmış sorular</strong></a><a href="https://analiz.pdrkampus.com/"><strong>Sınav analizi</strong></a><a href="https://norm.pdrkampus.com/"><strong>Norm hesaplama</strong></a></nav></details></div>    <div class="welcome-grid">
       <div class="campus-hero">
       <div class="welcome-copy"><div class="hero-orb hero-orb-one" aria-hidden="true"></div><div class="hero-orb hero-orb-two" aria-hidden="true"></div><div class="hero-kicker">PDR KAMPÜS · ÇIKMIŞ SORULAR</div>
         <span class="overline" id="welcomeYearLabel">PDR ÖABT · 2014–2026</span>
@@ -70,7 +70,7 @@
       <div class="guide-cards"><a href="yillar/"><strong>Yıllara göre çıkmış sorular</strong><span>2014–2026 soru arşivi ve cevap anahtarları →</span></a><a href="konular/"><strong>Konu başlıklarına göre testler</strong><span>Dokuz konu rehberi ve çalışma önerileri →</span></a><a href="analiz/"><strong>PDR konu dağılımı ve analiz</strong><span>Hangi yıl, hangi konuda kaç soru var? →</span></a></div>
       <nav class="year-guide-links" aria-label="Yıllara göre çıkmış soru rehberleri"><a href="yillar/2014/">2014 PDR çıkmış sorular</a><a href="yillar/2015/">2015 PDR çıkmış sorular</a><a href="yillar/2016/">2016 PDR çıkmış sorular</a><a href="yillar/2017/">2017 PDR çıkmış sorular</a><a href="yillar/2018/">2018 PDR çıkmış sorular</a><a href="yillar/2019/">2019 PDR çıkmış sorular</a><a href="yillar/2020/">2020 PDR çıkmış sorular</a><a href="yillar/2021/">2021 PDR çıkmış sorular</a><a href="yillar/2022/">2022 PDR çıkmış sorular</a><a href="yillar/2023/">2023 PDR çıkmış sorular</a><a href="yillar/2024/">2024 PDR çıkmış sorular</a><a href="yillar/2025/">2025 PDR çıkmış sorular</a><a href="yillar/2026/">2026 PDR çıkmış sorular</a></nav>
     </section>
-    <footer class="oabt-footer">
+    <section class="pk-network-footer" aria-label="Diğer PDR Kampüs çalışma alanları"><h2>Tek kampüs, farklı çalışma alanları.</h2><p>İhtiyacına uygun kaynak veya araçla devam et.</p><nav class="pk-network-footer-links" aria-label="PDR Kampüs çalışma alanları"><a href="https://pdrkampus.com/"><strong>Ana platform</strong><span>Kaynaklar, rehberler ve meslektaş paylaşımı.</span></a><a href="https://cikmissorular.pdrkampus.com/" aria-current="true"><strong>Çıkmış sorular</strong><span>Yıllara ve konulara göre PDR ÖABT sorularını çöz.</span></a><a href="https://analiz.pdrkampus.com/"><strong>Sınav analizi</strong><span>AGS / PDR puan ve sıralama tahminlerini incele.</span></a><a href="https://norm.pdrkampus.com/"><strong>Norm hesaplama</strong><span>Okul verilerini ve rehber öğretmen normunu incele.</span></a></nav></section><footer class="oabt-footer">
       <div class="oabt-footer-main">
         <div class="oabt-footer-about">
           <a class="brand oabt-footer-brand" href="https://pdrkampus.com/" target="_blank" rel="noopener noreferrer" aria-label="PDRkampüs ana platformunu aç">
@@ -139,7 +139,7 @@
         <section class="saved-questions" aria-labelledby="savedQuestionsTitle"><h4 id="savedQuestionsTitle">Sonra bakacaklarım <span id="savedQuestionCount">0</span></h4><p>Bu testte kaydettiklerin bu tarayıcıda saklanır.</p><div id="savedQuestionList"></div></section>
         <div class="optic-grid" id="questionGrid"></div><div class="optic-legend"><span><i class="answered"></i>Yanıtlandı</span><span><i class="flagged"></i>İşaretli</span></div>
         <button class="button finish" id="finishExam" type="button">Sınavı bitir <small id="finishHint">50 soru kaldı</small></button>
-      </aside>
+<section class="pk-context pk-result-next"><h2>Çalışmana devam et</h2><p>PDR ÖABT çalışmanı AGS / PDR puan ve sıralama tahminleriyle destekle.</p><nav aria-label="İlgili çalışma araçları"><a target="_blank" rel="noopener noreferrer" href="https://analiz.pdrkampus.com/">Sınav analizini incele →</a></nav></section>      </aside>
     </main>
   </div>
 
