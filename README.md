@@ -44,3 +44,19 @@ Derleme veya sunucu tarafı kod gerekmez.
 ## Not
 
 2014 yılı 49. sorunun cevabı, resmi ÖSYM cevap anahtarına göre `D` olarak kullanılmıştır.
+
+
+## Arama motorları için içerik sayfaları
+
+- `yillar/`: 13 yıl rehberi ve yıl arşivi.
+- `konular/`: 9 konu rehberi ve konu arşivi.
+- `analiz/`: Gerçek arşiv sayılarına göre yıl/konu dağılımı.
+- `sitemap.xml`: Ana sayfa dahil 26 canonical adres.
+- `scripts/build-seo.py`: JSON verilerinden statik sayfaları yeniden üretir. Veri değiştiğinde `python3 scripts/build-seo.py` çalıştırın.
+
+Uygulama girişleri: `?year=2025`, `?topic=0` (tüm yıllar), `?year=2025&topic=0` (seçili yıl), `?topics=all`.
+
+Google Search Console’da doğrulanmış mülk için site haritası adresi:
+`https://evrenguless.github.io/pdrcikmissorular/sitemap.xml`
+
+GitHub Pages proje sitesinde köke konan robots.txt `/pdrcikmissorular/robots.txt` olur; Google ise alan adının `/robots.txt` adresini kullanır. Bu yüzden etkisiz bir proje robots.txt dosyası eklenmedi. Sayfalar index/follow metası ve normal HTML bağlantılarıyla açık tutulur. Search Console doğrulaması/sitemap gönderimi hesap erişimi gerektirir. Sayfa yayınlanması Google tarafından dizine alınmayı veya belirli aramalardaki sıralamayı garanti etmez.

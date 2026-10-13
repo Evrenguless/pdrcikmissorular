@@ -143,3 +143,12 @@ a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid var
   .result-action small{text-align:center}
 }
 @media(max-width:380px){#welcomeView .welcome-copy .exam-facts{gap:10px}#welcomeView .welcome-copy .exam-facts div,#welcomeView .welcome-copy .exam-facts div:first-child{padding:17px 13px}}
+.archive-guides{width:100%;max-width:1280px;margin:0 auto;padding:16px 28px 46px}
+.archive-guides h2{font-size:26px;letter-spacing:-.035em;margin:8px 0}
+.archive-guides>p{max-width:750px;color:var(--muted);font-size:13px;line-height:1.8}
+.guide-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:20px}
+.guide-cards a{display:flex;flex-direction:column;gap:12px;padding:22px;border:1px solid var(--line);border-radius:14px;text-decoration:none;background:#f5faf7}
+.guide-cards a:nth-child(2){background:#f3f0fb}.guide-cards a:nth-child(3){background:#eef4fc}
+.guide-cards strong{font-size:15px;color:var(--ink)}.guide-cards span{font-size:12px;line-height:1.6;color:var(--green)}
+.year-guide-links{display:flex;flex-wrap:wrap;gap:10px 18px;margin-top:22px}.year-guide-links a{font-size:11px;color:var(--green);text-underline-offset:4px}
+@media(max-width:700px){.archive-guides{padding:0 18px 36px}.guide-cards{grid-template-columns:1fr}.archive-guides h2{font-size:24px}}
