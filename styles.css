@@ -398,3 +398,21 @@ body{background:var(--oabt-surface);color:var(--oabt-ink);font-family:Manrope,Ar
 #welcomeView #yearSelection>p{display:block;position:static;margin:20px 0 0}
 #welcomeView #yearSelection .all-topics-cta{position:relative;margin-top:18px;z-index:0}
 #welcomeView .oabt-footer{position:relative;clear:both;margin-top:0}
+
+/* Mod ekranı: asıl karar mod seçimidir; yıl değiştirme ikincil eylemdir */
+#modeView .mode-content{max-width:1160px;margin:0 auto;padding:clamp(38px,5vw,68px) 24px 85px}
+#modeView .mode-intro{max-width:850px;margin:0 0 34px}
+#modeView .mode-intro h1{font:800 clamp(36px,4.6vw,58px)/1.14 Manrope,Arial,sans-serif;letter-spacing:-.04em;margin:16px 0 12px;color:#24342e}
+#modeView .mode-intro p{font:500 16px/1.6 Manrope,Arial,sans-serif;color:#65796e;margin:0 0 20px}
+#modeView .mode-selected-year{display:inline-flex;align-items:center;gap:16px;background:#eaf3ec;border:1px solid #d2e4d7;border-radius:11px;padding:10px 12px 10px 17px}
+#modeView .mode-selected-year>span{font:800 13px Manrope,Arial,sans-serif;color:#123c31}
+#modeView .mode-selected-year>button{border:0;border-left:1px solid #bdd6c6;background:transparent;padding:4px 4px 4px 16px;color:#17654b;font:800 12px Manrope,Arial,sans-serif;cursor:pointer}
+#modeView .mode-selected-year>button:hover{text-decoration:underline;text-underline-offset:3px}
+#modeView .mode-year-picker{display:block;max-width:840px;margin:0 0 28px;background:#fff;border:1px solid #dce7de;border-radius:15px;padding:18px 20px}
+#modeView .mode-year-grid{grid-template-columns:repeat(7,minmax(0,1fr));gap:8px}
+#modeView .mode-cards{margin-top:22px;gap:18px}
+#modeView .mode-card{min-height:300px;padding:26px;border-radius:18px}
+#modeView .mode-card .mode-tag{position:static;align-self:flex-start;margin:0 0 12px}
+#modeView .mode-card .mode-icon{margin-bottom:15px}
+@media(max-width:750px){#modeView .mode-year-grid{grid-template-columns:repeat(4,minmax(0,1fr))}#modeView .mode-card{min-height:245px}#modeView .mode-intro{margin-bottom:25px}}
+@media(max-width:440px){#modeView .mode-content{padding:30px 18px 65px}#modeView .mode-year-picker{padding:14px}#modeView .mode-intro h1{font-size:35px}}
