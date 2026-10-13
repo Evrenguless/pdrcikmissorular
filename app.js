@@ -215,15 +215,7 @@ async function openTopicSelection(scope = "year") {
       const counts = document.createElement("span");
       counts.textContent = related.length + " soru";
       button.append(title, counts);
-      if (related.length) button.onclick = () => {
-        const ids = new Set(related.map(row => row.id));
-        state.mode = "topic";
-        state.topicId = index;
-        state.topicQuestions = (scope === "all" ? state.allYearQuestions : state.data.questions).filter(q => ids.has(q.id));
-        if (!state.topicQuestions.length) { toast("Bu konu için soru bulunamadı."); return; }
-        load();
-        begin(!state.startedAt || state.finished);
-      };
+      if (related.length) button.onclick = () => openTopicTest(index);
       list.appendChild(button);
     });
     const unassigned = state.classification.questions.filter(row => (scope === "all" || row.year === state.year) && !row.category).length;
@@ -233,6 +225,19 @@ async function openTopicSelection(scope = "year") {
     console.error(error);
     toast("Konu listesi yüklenemedi.");
   }
+}
+
+// Shared entry point for topic cards and crawlable guide links.
+function openTopicTest(index) {
+  if (!state.classification || !Number.isInteger(index) || !state.classification.categories[index]) return;
+  const category = state.classification.categories[index];
+  const ids = new Set(state.classification.questions.filter(row => row.category === category && (state.topicScope === "all" || row.year === state.year)).map(row => row.id));
+  state.mode = "topic";
+  state.topicId = index;
+  state.topicQuestions = (state.topicScope === "all" ? state.allYearQuestions : state.data.questions).filter(question => ids.has(question.id));
+  if (!state.topicQuestions.length) { toast("Bu konu için soru bulunamadı."); return; }
+  load();
+  begin(!state.startedAt || state.finished);
 }
 
 // SINAVI BAŞLATMA
@@ -780,4 +785,25 @@ window.addEventListener("popstate", e => {
   show(view, true);
 });
 // UYGULAMAYI BAŞLAT
-selectYear(2014, true).then(() => { navigationInitialized = true; });
+async function initialize() {
+  const params = new URLSearchParams(location.search);
+  const year = Number(params.get("year"));
+  const validYear = Number.isInteger(year) && year >= 2014 && year <= 2026;
+  await selectYear(validYear ? year : 2014, !validYear);
+  if (!state.data) return;
+  if (params.has("topic") && /^\d+$/.test(params.get("topic"))) {
+    const index = Number(params.get("topic"));
+    if (index >= 0 && index < 9) {
+      await openTopicSelection(validYear ? "year" : "all");
+      openTopicTest(index);
+    }
+  } else if (params.get("topics") === "all") {
+    await openTopicSelection("all");
+  } else if (validYear) {
+    $("#modeYear").textContent = `${state.year} PDR ÖABT`;
+    show("mode");
+  }
+  history.replaceState({pdrOabtView:activeView}, "", location.pathname + location.search);
+  navigationInitialized = true;
+}
+initialize();
