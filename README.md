@@ -57,6 +57,6 @@ Derleme veya sunucu tarafı kod gerekmez.
 Uygulama girişleri: `?year=2025`, `?topic=0` (tüm yıllar), `?year=2025&topic=0` (seçili yıl), `?topics=all`.
 
 Google Search Console’da doğrulanmış mülk için site haritası adresi:
-`https://evrenguless.github.io/pdrcikmissorular/sitemap.xml`
+`https://cikmissorular.pdrkampus.com/sitemap.xml`
 
-GitHub Pages proje sitesinde köke konan robots.txt `/pdrcikmissorular/robots.txt` olur; Google ise alan adının `/robots.txt` adresini kullanır. Bu yüzden etkisiz bir proje robots.txt dosyası eklenmedi. Sayfalar index/follow metası ve normal HTML bağlantılarıyla açık tutulur. Search Console doğrulaması/sitemap gönderimi hesap erişimi gerektirir. Sayfa yayınlanması Google tarafından dizine alınmayı veya belirli aramalardaki sıralamayı garanti etmez.
+Site GitHub Pages üzerinde `cikmissorular.pdrkampus.com` özel alan adıyla yayınlanır. `CNAME` dosyası bu alan adını tanımlar. Squarespace DNS kaydı: `cikmissorular` / `CNAME` / `evrenguless.github.io`. `robots.txt` site haritasını belirtir. Search Console doğrulaması ve sitemap gönderimi hesap erişimi gerektirir; yayınlanması Google dizinine alınmayı veya belirli bir sıralamayı garanti etmez.
