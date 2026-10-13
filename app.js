@@ -206,8 +206,6 @@ async function openTopicSelection(scope = "year") {
     list.replaceChildren();
     state.classification.categories.forEach((category, index) => {
       const related = rows.filter(row => row.category === category);
-      const reviewed = related.filter(row => row.status === "question_text_reviewed").length;
-      const provisional = related.length - reviewed;
       const button = document.createElement("button");
       button.type = "button";
       button.className = "topic-choice";
@@ -215,7 +213,7 @@ async function openTopicSelection(scope = "year") {
       const title = document.createElement("strong");
       title.textContent = category;
       const counts = document.createElement("span");
-      counts.textContent = related.length + " soru" + (provisional ? " · " + provisional + " ön eşleştirme" : "");
+      counts.textContent = related.length + " soru";
       button.append(title, counts);
       if (related.length) button.onclick = () => {
         const ids = new Set(related.map(row => row.id));
@@ -229,7 +227,7 @@ async function openTopicSelection(scope = "year") {
       list.appendChild(button);
     });
     const unassigned = state.classification.questions.filter(row => (scope === "all" || row.year === state.year) && !row.category).length;
-    $("#topicUnassigned").textContent = unassigned ? unassigned + " sınıflandırılmamış soru konu moduna dahil edilmedi." : "Soru sayıları bu yılın mevcut eşleştirmelerine dayanmaktadır.";
+    $("#topicUnassigned").textContent = unassigned ? unassigned + " sınıflandırılmamış soru konu moduna dahil edilmedi." : "Konu seçtiğinde ilgili sorular tek testte açılır. Soru takibinden istediğin soruya geçebilir, sonra bakmak istediklerini kaydedebilirsin.";
     show("topic");
   } catch (error) {
     console.error(error);
@@ -265,6 +263,8 @@ function begin(fresh = false) {
   els.optic.classList.remove("open");
   els.grid.setAttribute("aria-label", "Soru numaraları");
   $("#finishExam").hidden = false;
+  $("#opticYear").textContent = state.mode === "topic" ? state.classification.categories[state.topicId] : state.year;
+  els.optic.querySelector(".optic-helper").textContent = "Sorular arasında geçiş yap; kaydettiklerine dön.";
   const legend = els.optic.querySelector(".optic-legend");
   legend.innerHTML = '<span><i class="answered"></i> Yanıtlandı</span><span><i class="flagged"></i> İşaretli</span>';
   const restart = $("#restartFromOptic");
@@ -312,8 +312,8 @@ function renderQuestion() {
   );
 
   els.bookmark.textContent = state.bookmarks[item.id]
-    ? "♥ İşaretlendi"
-    : "♡ Sonra bak";
+    ? "★ Kaydedildi"
+    : "☆ Sonra bak";
 
   // CEVAP BUTONLARI
 
@@ -400,6 +400,23 @@ function renderProgress() {
 
 function renderGrid() {
   els.grid.innerHTML = "";
+  const savedList = $("#savedQuestionList");
+  savedList.replaceChildren();
+  const saved = activeQuestions().filter(item => state.bookmarks[item.id]);
+  $("#savedQuestionCount").textContent = saved.length;
+  if (!saved.length) savedList.textContent = "Sorudaki ☆ Sonra bak düğmesiyle bu listeye ekle.";
+  saved.forEach(item => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.textContent = `${item.year || state.year} · ${item.number}. soru`;
+    button.onclick = () => {
+      state.current = activeQuestions().findIndex(question => question.id === item.id);
+      renderQuestion();
+      els.optic.classList.remove("open");
+      window.scrollTo(0, 0);
+    };
+    savedList.appendChild(button);
+  });
 
   activeQuestions().forEach((item, i) => {
     const b = document.createElement("button");
@@ -484,6 +501,8 @@ function renderResults() {
   els.grid.innerHTML = "";
   els.grid.setAttribute("aria-label", "Sınav sonucu optik formu");
   const stats = resultStats();
+  $("#opticYear").textContent = "Sonuç ve cevap anahtarı";
+  els.optic.querySelector(".optic-helper").textContent = `${stats.correct} doğru · ${stats.wrong} yanlış · ${stats.blank} boş. İncelemek için bir soruya dokun.`;
   els.finishHint.textContent = `${stats.correct} doğru · ${stats.wrong} yanlış · ${stats.blank} boş`;
   $("#finishExam").hidden = true;
   let restart = $("#restartFromOptic");
@@ -514,7 +533,7 @@ function renderResults() {
     choice.className = "result-choice";
     choice.textContent = selected || "—";
     cell.append(number, choice);
-    if (selected && !isCorrect) {
+    if (!selected || !isCorrect) {
       const correct = document.createElement("small");
       correct.textContent = "Doğru " + item.answer;
       cell.appendChild(correct);
@@ -623,6 +642,7 @@ els.bookmark.onclick = () => {
   state.bookmarks[id] = !state.bookmarks[id];
 
   renderQuestion();
+  toast(state.bookmarks[id] ? "Sonra bakacaklarım listesine kaydedildi." : "Sonra bakacaklarım listesinden kaldırıldı.");
 };
 
 $("#allTopicsFromHome").onclick = async () => {
@@ -684,6 +704,7 @@ $("#closeOptic").onclick = () => {
 };
 
 $("#finishExam").onclick = tryFinish;
+$("#viewResultNow").onclick = finish;
 
 $("#cancelFinish").onclick = () => {
   els.modal.hidden = true;
