@@ -12,13 +12,15 @@ const state = {
   mode: "exam",
   yearChosen: false,
   topicId: null,
+  topicScope: "year",
+  allYearQuestions: null,
   topicQuestions: [],
   classification: null
 };
 
 const $ = s => document.querySelector(s);
 
-const storageKey = () => state.mode === "topic" ? `pdr-oabt-${state.year}-topic-${state.topicId}-v1` : `pdr-oabt-${state.year}-${state.mode}-v4`;
+const storageKey = () => state.mode === "topic" ? `pdr-oabt-${state.topicScope === "all" ? "all" : state.year}-topic-${state.topicId}-v1` : `pdr-oabt-${state.year}-${state.mode}-v4`;
 const activeQuestions = () => state.mode === "topic" ? state.topicQuestions : state.data.questions;
 const questionCount = () => activeQuestions().length;
 
@@ -177,15 +179,29 @@ async function selectYear(year, initial = false) {
 }
 
 
-async function openTopicSelection() {
+async function openTopicSelection(scope = "year") {
+  state.topicScope = scope;
   try {
     if (!state.classification) {
       const response = await fetch("data/topic-classification-draft.json");
       if (!response.ok) throw new Error("Konu verisi indirilemedi");
       state.classification = await response.json();
     }
-    $("#topicYearHeading").textContent = state.year + " PDR ÖABT · KONU MODU";
-    const rows = state.classification.questions.filter(row => row.year === state.year && row.category);
+    if (scope === "all" && !state.allYearQuestions) {
+      const years = Array.from({length: 13}, (_, i) => 2014 + i);
+      const datasets = await Promise.all(years.map(async year => {
+        const response = await fetch(`data/${year}.json`);
+        if (!response.ok) throw new Error(`${year} soru dosyası alınamadı`);
+        return response.json();
+      }));
+      state.allYearQuestions = datasets.flatMap((data, i) => data.questions.map(q => ({...q, year: years[i]})));
+    }
+    $("#topicScopeYear").classList.toggle("active", scope === "year");
+    $("#topicScopeAll").classList.toggle("active", scope === "all");
+    $("#topicScopeYear").setAttribute("aria-pressed", String(scope === "year"));
+    $("#topicScopeAll").setAttribute("aria-pressed", String(scope === "all"));
+    $("#topicYearHeading").textContent = (scope === "all" ? "2014–2026 · TÜM YILLAR" : state.year + " PDR ÖABT") + " · KONU MODU";
+    const rows = state.classification.questions.filter(row => (scope === "all" || row.year === state.year) && row.category);
     const list = $("#topicList");
     list.replaceChildren();
     state.classification.categories.forEach((category, index) => {
@@ -205,14 +221,14 @@ async function openTopicSelection() {
         const ids = new Set(related.map(row => row.id));
         state.mode = "topic";
         state.topicId = index;
-        state.topicQuestions = state.data.questions.filter(q => ids.has(q.id));
+        state.topicQuestions = (scope === "all" ? state.allYearQuestions : state.data.questions).filter(q => ids.has(q.id));
         if (!state.topicQuestions.length) { toast("Bu konu için soru bulunamadı."); return; }
         load();
         begin(!state.startedAt || state.finished);
       };
       list.appendChild(button);
     });
-    const unassigned = state.classification.questions.filter(row => row.year === state.year && !row.category).length;
+    const unassigned = state.classification.questions.filter(row => (scope === "all" || row.year === state.year) && !row.category).length;
     $("#topicUnassigned").textContent = unassigned ? unassigned + " sınıflandırılmamış soru konu moduna dahil edilmedi." : "Soru sayıları bu yılın mevcut eşleştirmelerine dayanmaktadır.";
     show("topic");
   } catch (error) {
@@ -284,8 +300,9 @@ function renderQuestion() {
     true
   );
 
-  els.visual.src = `assets/questions/${state.year}/${String(item.number).padStart(2, "0")}.jpg`;
-  els.visual.alt = `${state.year} yılı ${item.number}. soru`;
+  els.visual.src = `assets/questions/${item.year || state.year}/${String(item.number).padStart(2, "0")}.jpg`;
+  els.visual.alt = `${item.year || state.year} yılı ${item.number}. soru`;
+  $("#questionYearSource").textContent = `${item.year || state.year} · ${item.number}. soru`;
 
   // SORUYU İŞARETLEME
 
@@ -388,6 +405,7 @@ function renderGrid() {
     b.type = "button";
     b.className = "grid-button";
     b.textContent = item.number;
+    b.title = `${item.year || state.year} · ${item.number}. soru`;
 
     if (state.answers[item.id]) {
       b.classList.add("answered");
@@ -459,7 +477,7 @@ function resultStats() {
 function renderResults() {
   els.exam.classList.add("exam-finished");
   els.exam.classList.remove("result-reviewing");
-  $("#examBackHint").textContent = "Mod seçimine dön";
+  $("#examBackHint").textContent = state.mode === "topic" ? "Konu seçimine dön" : "Mod seçimine dön";
   els.optic.classList.add("open");
   els.grid.innerHTML = "";
   els.grid.setAttribute("aria-label", "Sınav sonucu optik formu");
@@ -489,7 +507,7 @@ function renderResults() {
     cell.className = "grid-button result-cell " + (!selected ? "result-blank" : isCorrect ? "result-correct" : "result-wrong");
     const number = document.createElement("span");
     number.className = "result-number";
-    number.textContent = item.number;
+    number.textContent = state.mode === "topic" && state.topicScope === "all" ? `${item.year} · ${item.number}` : item.number;
     const choice = document.createElement("strong");
     choice.className = "result-choice";
     choice.textContent = selected || "—";
@@ -499,7 +517,7 @@ function renderResults() {
       correct.textContent = "Doğru " + item.answer;
       cell.appendChild(correct);
     }
-    cell.title = selected ? `Soru ${item.number}: işaretlenen ${selected}, doğru ${item.answer}` : `Soru ${item.number}: boş, doğru cevap ${item.answer}`;
+    cell.title = selected ? `${item.year || state.year} soru ${item.number}: işaretlenen ${selected}, doğru ${item.answer}` : `${item.year || state.year} soru ${item.number}: boş, doğru cevap ${item.answer}`;
     cell.onclick = () => {
       const index = activeQuestions().findIndex(q => q.id === item.id);
       if (index < 0) return;
@@ -568,7 +586,7 @@ function renderReview() {
     !!item.imageOnly
   );
 
-  visual.src = `assets/questions/${state.year}/${String(item.number).padStart(2, "0")}.jpg`;
+  visual.src = `assets/questions/${item.year || state.year}/${String(item.number).padStart(2, "0")}.jpg`;
 
   $("#answerComparison").innerHTML =
     `Senin cevabın: <b>${user}</b>
@@ -642,6 +660,8 @@ document.querySelectorAll("[data-mode]").forEach(button => button.onclick = () =
 });
 
 $("#topicBack").onclick = () => show("mode");
+$("#topicScopeYear").onclick = () => openTopicSelection("year");
+$("#topicScopeAll").onclick = () => openTopicSelection("all");
 $("#topicHome").onclick = e => { e.preventDefault(); show("welcome"); };
 $("#resumeExam").onclick = () => { state.yearChosen = true; begin(false); };
 
