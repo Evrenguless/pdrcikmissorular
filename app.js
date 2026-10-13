@@ -159,7 +159,9 @@ async function selectYear(year, initial = false) {
 
     state.yearChosen = !initial;
     document.querySelectorAll("[data-mode-year]").forEach(b => { const chosen = !initial && Number(b.dataset.modeYear) === state.year; b.classList.toggle("active", chosen); b.setAttribute("aria-pressed", String(chosen)); });
-    $("#modeYear").textContent = initial ? "Çözüm modları" : `${state.year} PDR ÖABT`;
+    $("#modeYear").textContent = `${state.year} PDR ÖABT`;
+    $("#modeSelectedYear").hidden = initial;
+    $("#modeYearPicker").hidden = !initial;
     // Sayfa yenilendiğinde daima giriş ekranında kal.
     // Kaydedilmiş sınav cevapları ve sonuçlar silinmez.
     if (initial) {
@@ -628,6 +630,10 @@ $("#startExam").onclick = () => {
 $("#allTopicsFromHome").onclick = async () => {
   state.topicFromHome = true;
   await openTopicSelection("all");
+};
+$("#modeChangeYear").onclick = () => {
+  $("#modeYearPicker").hidden = false;
+  $("#modeSelectedYear").hidden = true;
 };
 document.querySelectorAll("[data-mode-year]").forEach(b => b.onclick = () => selectYear(Number(b.dataset.modeYear)));
 $("#modeBack").onclick = () => show("welcome");
