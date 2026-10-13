@@ -4860,8 +4860,9 @@
       "year": 2022,
       "number": 67,
       "originalTopic": "Okul RPD Hizmetleri / Akran Zorbalığında Grup Sınırları ve",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Akran zorbalığı bağlamında bireyle/grupla danışma ve grup sınırları; soru içeriğine göre eşleştirildi."
     },
     {
       "id": "2022-68",
@@ -4895,8 +4896,9 @@
       "year": 2022,
       "number": 71,
       "originalTopic": "Okul RPD Hizmetleri / AKADEMİK TARTIŞMALI (HATALI)",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "question_text_reviewed",
+      "reviewNote": "Okul rehberlik hizmetinin türü ve problem alanı; mevcut cevap anahtarındaki E yanıtı akademik açıdan tartışmalı olabilir, yanıt değiştirilmedi."
     },
     {
       "id": "2022-72",
@@ -5524,8 +5526,9 @@
       "year": 2023,
       "number": 66,
       "originalTopic": "Çok Kültürlü Psikolojik Danışma / Temel İlkeler",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "question_text_reviewed",
+      "reviewNote": "Çokkültürlü bireyle psikolojik danışma yeterlikleri; soru içeriğine göre eşleştirildi."
     },
     {
       "id": "2023-67",
@@ -6834,8 +6837,9 @@
       "year": 2026,
       "number": 13,
       "originalTopic": "Bilişsel Terapi / Seçici Soyutlama",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma Kuram, İlke ve Teknikleri",
+      "status": "topic_label_assigned",
+      "reviewNote": "Mevcut konu etiketine göre bilişsel terapi/seçici soyutlama; görselden bağımsız doğrulanmadı."
     },
     {
       "id": "2026-14",
@@ -7028,8 +7032,9 @@
       "year": 2026,
       "number": 37,
       "originalTopic": "Gruplar / Rehberlik Grubu",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Bireyle ve Grupla Psikolojik Danışma",
+      "status": "topic_label_assigned",
+      "reviewNote": "Mevcut konu etiketine göre rehberlik grubu; görselden bağımsız doğrulanmadı."
     },
     {
       "id": "2026-38",
@@ -7092,8 +7097,9 @@
       "year": 2026,
       "number": 45,
       "originalTopic": "Okul RPD / Kapsamlı Gelişimsel Rehberlik",
-      "category": null,
-      "status": "needs_content_review"
+      "category": "Psikolojik Danışma ve Rehberlikte Araştırma ve Program Geliştirme",
+      "status": "topic_label_assigned",
+      "reviewNote": "Mevcut konu etiketine göre kapsamlı gelişimsel rehberlik; görselden bağımsız doğrulanmadı."
     },
     {
       "id": "2026-46",
