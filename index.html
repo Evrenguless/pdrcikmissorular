@@ -17,13 +17,13 @@
     </div>
     <div class="welcome-grid">
       <div class="welcome-copy">
-        <span class="overline" id="welcomeYearLabel">Çıkmış sorular · 2014</span>
+        <span class="overline" id="welcomeYearLabel">PDR ÖABT · 2014–2026</span>
         <h1>Çıkmış sorularla <span class="hero-accent">kendi hızında hazırlan.</span></h1>
         <p>2014–2026 PDR ÖABT soruları tek yerde. Yılını seç, çalışma biçimini belirle ve sınava hazırlan.</p>
-        <div class="welcome-actions"><button class="button primary large" id="startExam" type="button">Çözüm modlarını gör <span><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></span></button><button class="button text" id="resumeExam" type="button" hidden>Kaldığım yerden devam et</button></div>
-        <div class="exam-facts"><div><strong id="welcomeQuestionCount">50</strong><span>Soru</span></div><div><strong id="welcomeDuration">75</strong><span>Dakika</span></div><div><strong>5</strong><span>Seçenek</span></div></div>
+        <div class="welcome-actions"><button class="button primary large" id="startExam" type="button">Yılları keşfet <span><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></span></button><button class="button text" id="resumeExam" type="button" hidden>Kaldığım yerden devam et</button></div>
+        <div class="exam-facts"><div><strong id="welcomeQuestionCount">13</strong><span>Yıl</span></div><div><strong id="welcomeDuration">798</strong><span>Soru</span></div><div><strong>5</strong><span>Seçenek</span></div></div>
       </div>
-      <div class="year-panel">
+      <div class="year-panel" id="yearSelection" tabindex="-1">
         <div class="panel-head"><span>Bir yıl seç</span><small>13 yıl · 798 soru</small></div>
         <div class="year-list">
           <button class="year-card active" data-year="2014" type="button"><span class="year-monogram"><span class="year-monogram-number">14</span></span><span class="year-info"><b>2014 PDR ÖABT</b><small>50 soru ve cevap anahtarı</small></span><span class="year-state">Hazır</span></button>
@@ -40,7 +40,7 @@
           <button class="year-card" data-year="2025" type="button"><span class="year-monogram"><span class="year-monogram-number">25</span></span><span class="year-info"><b>2025 PDR ÖABT</b><small>50 soru ve cevap anahtarı</small></span><span class="year-state">Hazır</span></button>
           <button class="year-card" data-year="2026" type="button"><span class="year-monogram"><span class="year-monogram-number">26</span></span><span class="year-info"><b>2026 PDR ÖABT</b><small>50 soru ve cevap anahtarı</small></span><span class="year-state">Hazır</span></button>
         </div>
-        <p>Tüm yıllar sınava hazır.</p>
+        <p>Tüm yıllar sınava hazır.</p><button class="all-topics-cta" id="allTopicsFromHome" type="button"><strong>Tüm yılların konu testleri</strong><span>2014–2026 · 9 ortak konu · 798 soru →</span></button>
       </div>
     </div>
     <footer class="oabt-footer">
