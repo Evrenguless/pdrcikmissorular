@@ -354,3 +354,10 @@ body{background:var(--oabt-surface);color:var(--oabt-ink);font-family:Manrope,Ar
 .topic-choice:disabled{opacity:.5;cursor:not-allowed}
 .topic-content .topic-disclaimer{font-size:12px;margin-top:22px}
 @media(max-width:680px){.topic-list{grid-template-columns:1fr}.topic-choice{min-height:92px;padding:18px}}
+
+/* Konu testinde yıl kapsamı */
+.topic-scope{display:inline-flex;gap:5px;padding:5px;background:#e9f1e9;border:1px solid #d4e4d8;border-radius:13px;margin:20px 0 0;max-width:100%}
+.topic-scope-button{background:transparent;color:#4e6c5b;border:0;border-radius:9px;padding:12px 19px;font:800 13px Manrope,Arial,sans-serif;cursor:pointer;transition:background .15s,color .15s}
+.topic-scope-button.active{background:#123c31;color:#fff;box-shadow:0 3px 12px rgba(18,60,49,.13)}
+.topic-scope-button:focus-visible{outline:3px solid #97c5a8;outline-offset:2px}
+@media(max-width:520px){.topic-scope{display:flex;width:100%}.topic-scope-button{flex:1;min-width:0;padding:10px 6px;font-size:11px}}
