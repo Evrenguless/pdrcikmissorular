@@ -623,10 +623,6 @@ els.bookmark.onclick = () => {
   renderQuestion();
 };
 
-$("#startExam").onclick = () => {
-  const destination = $("#yearSelection");
-  destination.scrollIntoView({behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth", block:"start"});
-};
 $("#allTopicsFromHome").onclick = async () => {
   state.topicFromHome = true;
   await openTopicSelection("all");
