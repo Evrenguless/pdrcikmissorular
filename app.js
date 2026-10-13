@@ -386,6 +386,8 @@ function renderProgress() {
   els.answeredLabel.textContent =
     `${count} yanıtlandı`;
 
+  $("#opticTriggerCount").textContent = `${count} / ${questionCount()} yanıtlandı · Tüm soruları gör`;
+
   els.bar.style.width =
     `${count / questionCount() * 100}%`;
 

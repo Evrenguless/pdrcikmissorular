@@ -90,3 +90,24 @@ a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid var
 
 /* Keep spacing only when there is a saved session to resume. */
 #welcomeView .welcome-actions:not(:has(button:not([hidden]))){display:none}
+
+/* A visible, persistent entry to question tracking on smaller screens. */
+.optic-trigger-copy{display:flex;flex-direction:column;align-items:flex-start;gap:3px;text-align:left}
+#openOptic .optic-trigger-text{display:block;font-size:13px;font-weight:800;margin:0}
+#opticTriggerCount{font-size:10px;font-weight:500}
+.optic-trigger-arrow{margin-left:auto;font-size:20px}
+@media(max-width:1000px){
+  .exam-app:not(.exam-finished) #openOptic{display:flex;width:auto;min-height:48px;padding:10px 14px;align-items:center;gap:12px;background:var(--green);color:#fff;border:0;border-radius:12px;cursor:pointer}
+  .exam-app:not(.exam-finished) .optic-head button{display:block;min-width:44px;min-height:44px;cursor:pointer}
+}
+@media(max-width:700px){
+  .exam-app:not(.exam-finished) .exam-header{position:sticky;top:0;z-index:20;height:auto;padding:12px 16px;grid-template-columns:minmax(0,1fr) auto;gap:10px;background:#fff;box-shadow:0 3px 12px #18243b08}
+  .exam-app:not(.exam-finished) .exam-header .brand{grid-column:1;grid-row:1}
+  .exam-app:not(.exam-finished) .exam-header .brand strong{font-size:19px}
+  .exam-app:not(.exam-finished) .exam-progress-wrap{display:none}
+  .exam-app:not(.exam-finished) .header-actions{display:contents}
+  .exam-app:not(.exam-finished) .timer{grid-column:2;grid-row:1;min-width:78px;font-size:13px}
+  .exam-app:not(.exam-finished) #openOptic{grid-column:1/-1;grid-row:2;width:100%;min-height:54px}
+  .exam-app:not(.exam-finished) #openOptic .optic-trigger-text{font-size:14px}
+  .exam-app:not(.exam-finished) #opticTriggerCount{font-size:11px}
+}
