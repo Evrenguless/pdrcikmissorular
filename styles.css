@@ -416,3 +416,66 @@ body{background:var(--oabt-surface);color:var(--oabt-ink);font-family:Manrope,Ar
 #modeView .mode-card .mode-icon{margin-bottom:15px}
 @media(max-width:750px){#modeView .mode-year-grid{grid-template-columns:repeat(4,minmax(0,1fr))}#modeView .mode-card{min-height:245px}#modeView .mode-intro{margin-bottom:25px}}
 @media(max-width:440px){#modeView .mode-content{padding:30px 18px 65px}#modeView .mode-year-picker{padding:14px}#modeView .mode-intro h1{font-size:35px}}
+
+/* PDR Kampüs — editorial learning studio. Standalone static CSS, no UI framework. */
+#welcomeView{background:radial-gradient(ellipse at 52% 9%,#eff7f0 0,transparent 52%),#fafaf6}
+#welcomeView .welcome-grid{max-width:1180px}
+#welcomeView .welcome-copy{isolation:isolate;position:relative;margin:38px auto 75px;min-height:min(770px,calc(100svh - 135px));max-width:1120px;width:100%;border:1px solid #cde1d3;border-radius:34px;padding:90px 56px 75px;overflow:hidden;background:linear-gradient(148deg,#f4f9f3 0%,#f0f6ee 46%,#dfeee3 100%);box-shadow:0 22px 75px rgba(18,60,49,.075)}
+#welcomeView .welcome-copy::after{content:"";position:absolute;inset:auto -10% -50% 42%;height:75%;background:radial-gradient(ellipse,#b9d8c3 0,transparent 65%);opacity:.65;z-index:-1;pointer-events:none}
+#welcomeView .hero-orb{position:absolute;border:1px solid rgba(40,112,77,.13);border-radius:50%;pointer-events:none;z-index:-1}
+#welcomeView .hero-orb-one{width:580px;height:580px;right:-290px;top:-345px;box-shadow:0 0 0 75px rgba(255,255,255,.12),0 0 0 150px rgba(255,255,255,.1)}
+#welcomeView .hero-orb-two{width:220px;height:220px;left:-115px;bottom:-120px;background:rgba(173,209,183,.1)}
+#welcomeView .hero-kicker{font:800 11px Manrope,Arial,sans-serif;letter-spacing:.18em;color:#27654a;margin-bottom:25px}
+#welcomeView .hero-kicker span{padding:0 12px;color:#91af9a}
+#welcomeView .welcome-copy .overline{border-color:#bfd9c7;background:rgba(255,255,255,.7);font-size:11px;letter-spacing:.13em;padding:11px 17px}
+#welcomeView .welcome-copy h1{font-size:clamp(42px,6.1vw,84px);max-width:840px;line-height:1.09;letter-spacing:-.065em;color:#1b342a;margin:27px auto 23px}
+#welcomeView .welcome-copy .hero-accent{color:#1b7150}
+#welcomeView .welcome-copy>p{font-size:clamp(15px,1.6vw,19px);max-width:670px;color:#557266}
+#welcomeView .welcome-actions{margin-top:33px}
+#welcomeView .welcome-actions .button.primary{background:#123c31;box-shadow:0 12px 26px rgba(18,60,49,.18);border-radius:13px}
+#welcomeView .welcome-actions .button.primary:hover{background:#1e654b}
+#welcomeView .welcome-copy .exam-facts{background:rgba(255,255,255,.5);border:1px solid rgba(196,222,205,.9);border-radius:15px;padding:14px 5px;margin-top:38px}
+#welcomeView .welcome-copy .exam-facts div{min-width:130px;padding:0 26px}
+#welcomeView .welcome-copy .exam-facts strong{font-size:25px;color:#163d2e}
+#welcomeView #yearSelection{max-width:1010px;background:#fff;border-radius:26px;padding:clamp(24px,4vw,45px);box-shadow:0 16px 60px rgba(18,60,49,.055);border:1px solid #dbe9df;margin-bottom:100px}
+#welcomeView .archive-eyebrow{color:#618772;font:800 10px Manrope,sans-serif;letter-spacing:.18em;margin-bottom:12px}
+#welcomeView .archive-eyebrow span{color:#b0c1b5}
+#welcomeView #yearSelection .panel-head{align-items:flex-end;gap:20px;border-bottom:1px solid #e4eee6;padding-bottom:22px;margin-bottom:22px}
+#welcomeView #yearSelection .panel-head span{font:800 clamp(23px,3vw,33px) Manrope,Arial,sans-serif;letter-spacing:-.04em;color:#1f3c30}
+#welcomeView #yearSelection .panel-head p{font-size:13px;color:#789083;margin:8px 0 0;line-height:1.5}
+#welcomeView #yearSelection .panel-head small{font:800 11px Manrope,sans-serif;letter-spacing:.06em;white-space:nowrap;color:#6e9079}
+#welcomeView #yearSelection .year-list{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+#welcomeView #yearSelection .year-card{min-height:94px;grid-template-columns:55px minmax(0,1fr) auto;padding:15px;border:1px solid #e0eae2;background:#fcfdfa;border-radius:15px;box-shadow:none;transition:border-color .2s,transform .2s,background .2s,box-shadow .2s}
+#welcomeView #yearSelection .year-card:hover{background:#f3faf4;border-color:#98bfaa;transform:translateY(-2px);box-shadow:0 10px 20px rgba(18,60,49,.07)}
+#welcomeView #yearSelection .year-card.active{border-color:#98bfaa;background:#edf6ef}
+#welcomeView #yearSelection .year-monogram{width:55px;height:55px;border-radius:12px;background:#e3f1e8;color:#15543b}
+#welcomeView #yearSelection .year-info b{font-size:13px}
+#welcomeView #yearSelection .year-info small{font-size:10px;line-height:1.5}
+#welcomeView #yearSelection .year-state{background:transparent;color:#5c9574;padding:0;font-size:10px}
+#welcomeView #yearSelection .all-topics-cta{margin-top:25px;background:#123c31;color:#fff;border:0;padding:24px 26px;border-radius:16px}
+#welcomeView #yearSelection .all-topics-cta strong{color:#fff;font-size:17px}
+#welcomeView #yearSelection .all-topics-cta span{color:#bfdcc9}
+#welcomeView #yearSelection .all-topics-cta:hover{background:#1b644a}
+#modeView{background:radial-gradient(ellipse at 70% 0,#eaf4ed,transparent 55%),#fafaf6}
+#modeView .mode-content{max-width:1160px}
+#modeView .mode-intro{max-width:920px;padding:0 0 12px;margin:0 0 28px}
+#modeView .mode-intro h1{font-size:clamp(38px,5.3vw,66px);line-height:1.12;letter-spacing:-.06em}
+#modeView .mode-intro .mode-highlight{color:#217251}
+#modeView .mode-intro p{color:#657d6e}
+#modeView .mode-selected-year{background:#fff;border-color:#d8e8dc;box-shadow:0 3px 13px rgba(18,60,49,.035)}
+#modeView .mode-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;align-items:stretch}
+#modeView .mode-card{display:flex;flex-direction:column;align-items:flex-start;text-align:left;min-height:330px;padding:28px;border:1px solid #d7e6dc;border-radius:21px;background:#fff;box-shadow:0 10px 35px rgba(18,60,49,.05);transition:transform .2s,border-color .2s,box-shadow .2s}
+#modeView .mode-card:hover{transform:translateY(-4px);border-color:#90bd9f;box-shadow:0 19px 38px rgba(18,60,49,.095)}
+#modeView .mode-card .mode-icon{width:54px;height:54px;border-radius:16px;background:#eaf5ed;color:#1b6647;display:grid;place-items:center;margin:0 0 24px}
+#modeView .mode-card .mode-tag{margin:0 0 12px;background:#e9f3ec;color:#276e4c;border-radius:20px;font-size:10px;letter-spacing:.09em;padding:7px 10px}
+#modeView .mode-card>strong{font:800 22px/1.23 Manrope,Arial,sans-serif;color:#1c3d2e;letter-spacing:-.04em;margin-bottom:13px}
+#modeView .mode-card>span:not(.mode-icon):not(.mode-tag){font-size:13px;line-height:1.75;color:#698074}
+#modeView .mode-card em{margin-top:auto;padding-top:23px;color:#17654b;font-weight:800}
+#modeView .mode-card[data-mode="exam"]{background:linear-gradient(155deg,#174c3b,#12392f);border-color:#174c3b}
+#modeView .mode-card[data-mode="exam"] .mode-icon{background:#306c53;color:#fff}
+#modeView .mode-card[data-mode="exam"] .mode-tag{background:#30634e;color:#e3f7e6}
+#modeView .mode-card[data-mode="exam"]>strong,#modeView .mode-card[data-mode="exam"] em{color:#fff}
+#modeView .mode-card[data-mode="exam"]>span:not(.mode-icon):not(.mode-tag){color:#c4d9ce}
+@media(max-width:900px){#welcomeView #yearSelection .year-list{grid-template-columns:1fr}#modeView .mode-cards{grid-template-columns:1fr}#modeView .mode-card{min-height:240px}#welcomeView .welcome-copy{padding:70px 32px}}
+@media(max-width:570px){#welcomeView .welcome-copy{border-radius:22px;margin:24px auto 40px;min-height:auto;padding:70px 22px 55px}#welcomeView .welcome-copy h1{font-size:clamp(35px,9vw,52px)}#welcomeView .hero-kicker{font-size:9px}#welcomeView .welcome-copy .exam-facts div{min-width:0;padding:0 15px}#welcomeView #yearSelection{padding:22px 16px;margin-bottom:48px}#welcomeView #yearSelection .panel-head{align-items:start}#welcomeView #yearSelection .panel-head small{display:none}#welcomeView #yearSelection .year-card{grid-template-columns:48px minmax(0,1fr) auto;min-height:79px;padding:10px;gap:9px}#welcomeView #yearSelection .year-monogram{width:48px;height:48px}#welcomeView #yearSelection .all-topics-cta{padding:20px}}
+@media(prefers-reduced-motion:reduce){#welcomeView #yearSelection .year-card,#modeView .mode-card{transition:none}#welcomeView #yearSelection .year-card:hover,#modeView .mode-card:hover{transform:none}}
